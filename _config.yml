@@ -55,3 +55,11 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+header_pages:
+  - ia.md
+  - prog.md
+  - docencia.md
+  - astro.md
+  - personal.md
+  - about.markdown
