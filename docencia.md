@@ -27,5 +27,9 @@ Materiales, reflexiones y experiencias enseñando matemáticas.
 
 ## Teoría de la Computación
 
-- [Notas](/assets/files/docencia/NotasTC.pdf)
-- 
+- [Notas de clase](/assets/files/docencia/NotasTC.pdf)
+- [Fundamentos matemáticos]
+
+### Máquina de Turing Universal (restringida)
+
+<!-- ![MTUR](/assets/images/docencia/foto.jpg) -->
