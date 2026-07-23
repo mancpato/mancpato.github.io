@@ -22,14 +22,13 @@
   text-decoration: underline;
 }
 
-.site-footer .footer-col-2 {
-  flex: 1 1 100%;
-  max-width: 100%;
+.site-footer .footer-col-2,
+.site-footer .footer-col-3 {
+  width: 100% !important;
+  max-width: 100% !important;
 }
 
 .site-footer .footer-col-3 {
-  flex: 1 1 100%;
-  max-width: 100%;
   margin-top: 12px;
 }
 
