@@ -12,5 +12,5 @@ En esta página comparto cosas que son de mis diversos intereses, tanto académi
 
 ## Últimas entradas
 
-- [Refinamiento iterativo](/assets/files/docencia/AL6-RefinItera.pdf)
+- [Refinamiento iterativo](/assets/files/docencia/AL6-RefinItera.pdf) (En docencia/álgebra lineal)
 
