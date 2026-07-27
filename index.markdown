@@ -9,7 +9,7 @@ title: Inicio
      alt="Miguel Ángel Norzagaray"
      style="float: left; margin: 0 1.5em 1em 0; border-radius: 6px; max-width: 180px;">
 
-Soy Miguel Ángel (a) Pato Norzagaray Cosío, paceño y sudcaliforniano. Casado con la bella Irma, madre de mis dos hijos Miguel y Antonio. Soy matemático, especializado en computación, y llevo más de un cuarto de siglo en la UABCS enseñando inteligencia artificial y matemáticas.
+Soy Miguel Ángel (a) Pato Norzagaray Cosío, paceño (patasalada) y sudcaliforniano. Casado con la bella Irma, madre de mis dos hijos Miguel y Antonio. Soy matemático, especializado en computación, y llevo más de un cuarto de siglo en la UABCS enseñando inteligencia artificial y matemáticas.
 
 Estudié la licenciatura de matemáticas en la UNISON y luego en el CINVESTAV, donde me especialicé en computación, especialmente en procesamiento digital de imágenes y reconocimiento de patrones (IA). Mis intereses actuales se mantienen en una intersección entre matemáticas, programación numérica y entender las cosas a fondo para poder explicarlas bien. 
 
