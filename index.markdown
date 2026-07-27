@@ -15,9 +15,9 @@ Estudié la licenciatura de matemáticas en la UNISON y luego en el CINVESTAV, d
 
 Mi forma de trabajar sigue siempre el mismo camino: investigar un tema en profundidad, dominar sus detalles finos, diseñar la mejor manera de transmitirlo y ponerlo en práctica. En ese proceso siempre surgen más preguntas interesantes que me ponen de nuevo a investigar. Escribir es parte de ese proceso: explicar por escrito me ayuda a organizar ideas, y de eso trata también esta página.
 
-Soy miembro de la Sociedad Astronómica de Mira. Buena parte de nuestras actividades es hacer divulgación científica en La Paz junto con Irma y otros amigos. También buscamos preservar la calidad del cielo oscuro en BCS y hemos estado midiendo su calidad.
+Soy miembro de la Sociedad Astronómica de Mira. Buena parte de nuestras actividades es hacer divulgación científica en La Paz junto con Irma y otros amigos. También buscamos preservar la calidad del cielo oscuro en BCS y hemos estado midiendo su magnitud fotométrica.
 
-Aquí voy dejando notas, programas y apuntes que elaboro generalmente por el placer de entender, y que igual le sirven a alguien más. De estos intereses y algo más encontrarán información en las secciones accesibles desde las ligas superiores.
+En este sitio (permanentemente en construcción) voy dejando notas, programas y apuntes que elaboro generalmente por el placer de entender, y que igual le sirven a alguien más. De estos intereses y algo más encontrarán información en las secciones accesibles desde las ligas superiores.
 
 <div style="clear: both;"></div>
 
