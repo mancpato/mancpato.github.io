@@ -5,14 +5,13 @@ permalink: /astronomia/
 nav_order: 4
 ---
 
-
 - [Cielos oscuros de BCS y recursos en línea](#cielos-bcs), *julio de 2026* Comparación entre predicciones de lightpollutionmap y mediciones reales con fotómetro TESS en San Pedro, BCS.
 
 - [Apuntes breves sobre ciencia](#ApuntesBreves), *julio de 2026* Este libro es una compilación de trabajos de divulgación sobre astronomía y matemáticas.
 
 ---
 
-### Cielos oscuros de BCS y recursos en línea  {#cielos-bcs}
+## Cielos oscuros de BCS y recursos en línea  {#cielos-bcs}
 <small style="color: #999;">Julio de 2026</small>
 
 Sociedad Astronómica Mira, La Paz, BCS
@@ -95,7 +94,7 @@ Esta tabla es una referencia aproximada. La correlación precisa para sitios de 
 
 ---
 
-### Apuntes breves sobre ciencia {#ApuntesBreves}
+## Apuntes breves sobre ciencia {#ApuntesBreves}
 
 No tengo la fecha exacta, pero alrededor de 2010 comencé escribir artículos para medios de información, para compartir en mi muro en Facebook y a asistir aprogramas de radio y televisión para participar comentando temas de astronomía. Canal 10 fue el primero al que asistí, luego también en canal 8. Algunos artículos salieron en el Sudcaliforniano y otros en revistas digitales como Culco. En 2018, organicé mucho de este material y compilé un libro de divulgación que editó la UABCS (versión digital). Reune varios de estos trabajos junto con otros sobre temas de matemáticas (la segunda parte). 
 

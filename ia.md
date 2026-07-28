@@ -13,7 +13,13 @@ El acercamiento con la teoría de la computación (lenguajes formales y autómat
 
 En este momento, mi trabajo (*diversión*) principal es el desarrollo de lo que llamo SuiteRNA, un conjunto de visualizadores de redes neuronales que permiten explorar su comportamiento al variar algún hiperparámetro. No se conforma con redes tradicionales.
 
-**Repositorios del proyecto SuiteRNA:**
+- [SuiteRNA](#SuiteRNA), *julio de 2026* Gran proyecto de desarrollo de comparadores de redes neuronales.
+- [GradienViz](#GradienViz), *enero de 2026* Visualizador de optimización por gradiente para regresión lineal.
+
+---
+
+## Repositorios del proyecto SuiteRNA: {#SuiteRNA}
+
 - [TalleRNA](#TalleRNA), un recurso para comparar varias redes neuronales muy pequeñas (menos de 50 parámetros) aprendiendo simultáneamente.
 - [TalleRNAmulti](#TalleRNAmulti), un recurso para comparar varias redes neuronales (menos de 1500 parámetros) aprendiendo simultáneamente.
 - [TalleCNN](#TalleCNN), comparación de redes convolucionales variando kernels,
@@ -116,3 +122,16 @@ exactamente contables; TalleCNN introduce simetrías continuas por capa; TalleAt
 permite medir la dimensión de aprendizaje local (LLC) por cabeza de atención.
 TaleSLT reúne estas perspectivas en un visualizador de la geometría del espacio
 de parámetros: paisaje de pérdida, curvatura y grupos de simetría de la red.
+
+---
+
+## GradienViz {#GradienViz}
+
+<small style="color: #999;">Enero de 2026</small>
+
+Herramienta pedagógica para cursos de inteligencia artificial, aprendizaje automático y optimización numérica. Implementada en p5.js como un único archivo HTML autocontenido — no requiere instalación ni servidor.
+
+<img src="{{ site.baseurl }}/assets/images/ia/GradienViz.png" alt="Pantalla de ejemplo" width="600">
+
+El repositorio se encuentra en
+[github.com/mancpato/GradienViz](https://github.com/mancpato/GradienViz).
