@@ -18,7 +18,7 @@ Sociedad Astronómica Mira, La Paz, BCS
 
 Si alguna vez buscaste un sitio para observar o fotografiar el cielo nocturno, probablemente consultaste lightpollutionmap.info — una herramienta muy difundida y útil como punto de partida. Pero hay algo importante que debes saber antes de confiar en sus números: sus estimaciones pueden ser sistemáticamente más optimistas que la realidad, y sus propios autores lo advierten.
 
-Las Sociedades Astronómicas Merak (en Santa Rosalía) y Mira llevamos años midiendo la calidad del cielo en sitios de BCS con fotómetros calibrados. el esfuerzo se ha extendido y hoy contamos con el apoyo de colaboradores en varios lugares del estado. La discrepancia con el mapa en línea es consistente: los fotómetros marcan alrededor de 0.5 mag/arcsec² menos que lo que predice el modelo — es decir, el cielo real es más brillante (más contaminado) de lo que el mapa sugiere.
+Las Sociedades Astronómicas [Merak](https://www.facebook.com/search/top?q=sociedad%20astron%C3%B3mica%20merak) (en Santa Rosalía) y [Mira](https://www.facebook.com/SociedadAstronomicaMira) llevamos años midiendo la calidad del cielo en sitios de BCS con fotómetros calibrados. el esfuerzo se ha extendido y hoy contamos con el apoyo de colaboradores en varios lugares del estado. La discrepancia con el mapa en línea es consistente: los fotómetros marcan alrededor de 0.5 mag/arcsec² menos que lo que predice el modelo — es decir, el cielo real es más brillante (más contaminado) de lo que el mapa sugiere.
 
 ### El caso concreto: San Pedro, BCS
 

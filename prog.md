@@ -12,8 +12,22 @@ Ya me gustaban las matemáticas desde la secundaria cuando inicié mi aventura d
 Métods numéricos, análisis numérico, cómputo científico, computación de alto rendimiento, simulación, ... hay muchas líneas de trabajo pero me gusta simplificar y llamarlas de manera genérica **programación numérica**. No es un término estándar, pero prefiero usarlo para referirme a toda esta área de trabajo.
 
 **Algunos proyectos**
+- [GradienViz](#GradienViz), *julio de 2026* Herramienta pedagógica para cursos de inteligencia artificial, aprendizaje automático y optimización numérica. Implementada en p5.js como un único archivo HTML autocontenido — no requiere instalación ni servidor.
 - [paranoia2](#paranoia2), un verificador de la norma IEEE 754 de 2019. 
 - [Monografía de mi sabático](#Mono), trabajo comenzado en la UNISON en 2008 y terminado en la UABCS. Presenté la monografía al regresar, pero continué desarrollándolo unos años más hasta darle la forma que quería.
+
+---
+
+### GradienViz {#GradienViz}
+<small style="color: #999;">Julio de 2026</small>
+
+Herramienta pedagógica para cursos de cálculo diferencial, álgebra lineal, estadística, inteligencia artificial, aprendizaje automático y optimización numérica. Implementada en p5.js como un único archivo HTML autocontenido — no requiere instalación ni servidor.
+
+Lo hice a partir de una plática que tuve con Margarita de Anda Trasviña, antes mi alumna, ahora colega del DASC con quien he impartido cursos de IA muchas veces. La idea era simular la manera como se acercan al óptimo desde distintos puntos iniciales, como si fueran redes con distintos parámetros. Fue la semilla del TalleRNA (ver la sección de IA).
+
+<img src="{{ site.baseurl }}/assets/images/prog/GradienViz.png" alt="Pantalla de ejemplo" width="600">
+
+El repositorio se encuentra en [github.com/mancpato/GradienViz](https://github.com/mancpato/GradienViz). Puede ser de utilidad para interesados en los detalles finos de programación numérica.
 
 ---
 
