@@ -5,12 +5,10 @@ permalink: /docencia/
 nav_order: 3
 ---
 
-Me tienen aquí dos cosas: el gusto por aprender y el gusto por compartir.
+Me tienen aquí dos cosas: el gusto por aprender y el gusto por compartir. 
 
 - [Asignaturas que imparto](#asignaturas), *julio de 2026* El rango es muy amplio, casi aleatorio los primeros años. 
 - [Taller de matemáticas para profesores en la UABCS](#TalleMate), *julio de 2026* Inició en 2023 y poco a poco le hemos dado forma entre los asistentes y un servidor.
-- [La experiencia en ESCOM](#ESCOM), *julio de 2026* Esta es una etapa llena de recuerdos gratos, historias que me gusta contar. 
-
 
 **Del baúl de los recuerdos:**
 - [Cómo comencé a dar clases](#como-comencé-a-dar-clases), *julio de 2026* Un afortunado accidente.
