@@ -1,21 +1,25 @@
 ---
 layout: page
-title: Docencia de las Matemáticas
+title: Docencia
 permalink: /docencia/
 nav_order: 3
 ---
 
-Me inicié como docente de nivel superior en la Escuela Superior de Cómputo del IPN, en el verano de 1994 y en 1999 me cambié a la UABCS. Aquí hay materiales, reflexiones y experiencias enseñando matemáticas, especielamente en la UABCS. Dos grandes apartados: sobre las asignaturas regulares que imparto y el taller para profesores de matemáticas de la UABCS.
+Me tienen aquí dos cosas: el gusto por aprender y el gusto por compartir.
 
-
-- [Asignaturas que imparto](#asignaturas), *julio de 2026* El rango es muy amplio, casi aleatorioa los primeroserrático
+- [Asignaturas que imparto](#asignaturas), *julio de 2026* El rango es muy amplio, casi aleatorio los primeros años. 
 - [Taller de matemáticas para profesores en la UABCS](#TalleMate), *julio de 2026* Inició en 2023 y poco a poco le hemos dado forma entre los asistentes y un servidor.
 - [La experiencia en ESCOM](#ESCOM), *julio de 2026* Esta es una etapa llena de recuerdos gratos, historias que me gusta contar. 
 
 
+**Del baúl de los recuerdos:**
+- [Cómo comencé a dar clases](#como-comencé-a-dar-clases), *julio de 2026* Un afortunado accidente.
+- [La experiencia en ESCOM](#ESCOM), *julio de 2026* Esta es una etapa llena de recuerdos gratos, historias que me gusta contar. 
+  
+---
+
 ## Asignaturas que imparto {#asignaturas}
 <small style="color: #999;">Julio de 2026</small>
-
 
 ### Álgebra Lineal
 
@@ -43,13 +47,31 @@ Me inicié como docente de nivel superior en la Escuela Superior de Cómputo del
 
 <!-- ![MTUR](/assets/images/docencia/foto.jpg) -->
 
+
+{% include volver-seccion.html url="/docencia/" %}
+
+---
+
 ## Taller de matemáticas para profesores {#TalleMate}
 <small style="color: #999;">Julio de 2026</small
 
-Desde 2012 he comenzado a escribir algunas ideas sobre la docencia de las matemáticas y comenzó mi interés por trabajar estos temas con profesores del DASC, pero no convencí a cada jefe en turno (Mónica-Andrés). Fue hasta 2023 cuando pude impartir el primer taller de matematicas para profesores de la UABCS 
+Desde 2012 he comenzado a escribir algunas ideas sobre la docencia de las matemáticas y comenzó mi interés por trabajar estos temas con profesores del DASC, pero no convencí a cada jefe en turno (Mónica-Andrés). Fue hasta 2023 cuando pude impartir el primer taller de matematicas para profesores de la UABCS. 
+
+{% include volver-seccion.html url="/docencia/" %}
+
+---
+
+## Cómo comencé a dar clases {#como-comencé-a-dar-clases}
+
+Me inicié como docente de nivel superior en la Escuela Superior de Cómputo del IPN, en el verano de 1994 y en 1999 me cambié a la UABCS. Aquí hay materiales, reflexiones y experiencias enseñando matemáticas, especialmente en la UABCS. Dos grandes apartados: sobre las asignaturas regulares que imparto y el taller para profesores de matemáticas de la UABCS.
+
+---
 
 ## La experiencia en ESCOM {#ESCOM}
 <small style="color: #999;">Julio de 2026</small>
 
 En 1993 terminé la carrera de matemáticas en la UNISON y de inmediato me fui al posgrado al CINVESTAV. Luego de un año de créditos, el verano siguiente comencé a dar clases de métodos numéricos a uno de los dos grupos de la primera generación de estudiantes de la nueva Escuela Superior de Cómputo del IPN.
+
+
+{% include volver-seccion.html url="/docencia/" %}
 

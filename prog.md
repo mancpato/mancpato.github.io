@@ -1,33 +1,33 @@
 ---
 layout: page
-title: Programación Numérica
+title: Programación
 permalink: /programacion/
 nav_order: 2
 ---
 
-## Notas, proyectos y temas afines 
-
-Ya me gustaban las matemáticas desde la secundaria cuando inicié mi aventura de programar computadoras en la prepa (primero BASIC en una Tandy2, luego C sobre un SO UNIX V). Fue inmediato juntar los dos mundos. Eso se formalizó hasta el tercer semestre de la carrera de matemáticas, en métodos numéricos, una de mis asignaturas favoritas.
-
-Métods numéricos, análisis numérico, cómputo científico, computación de alto rendimiento, simulación, ... hay muchas líneas de trabajo pero me gusta simplificar y llamarlas de manera genérica **programación numérica**. No es un término estándar, pero prefiero usarlo para referirme a toda esta área de trabajo.
+Notas, proyectos y temas afines 
 
 **Algunos proyectos**
-- [GradienViz](#GradienViz), *julio de 2026* Herramienta pedagógica para cursos de inteligencia artificial, aprendizaje automático y optimización numérica. Implementada en p5.js como un único archivo HTML autocontenido — no requiere instalación ni servidor.
+- [GradienViz](#GradienViz), *enero de 2026* Visualizador de optimización por gradiente, con raíces en programación numérica. Entrada completa en la sección de IA.
 - [paranoia2](#paranoia2), un verificador de la norma IEEE 754 de 2019. 
 - [Monografía de mi sabático](#Mono), trabajo comenzado en la UNISON en 2008 y terminado en la UABCS. Presenté la monografía al regresar, pero continué desarrollándolo unos años más hasta darle la forma que quería.
+
+**Del baúl de los recuerdos:**
+- [Cómo comencé a programar](#como-comencé-a-programar), *julio de 2026) 
+- [Mi tesis de licenciatura](#Simplex), *agosto de 2026* 
 
 ---
 
 ### GradienViz {#GradienViz}
-<small style="color: #999;">Julio de 2026</small>
+<small style="color: #999;">Enero de 2026</small>
 
 Herramienta pedagógica para cursos de cálculo diferencial, álgebra lineal, estadística, inteligencia artificial, aprendizaje automático y optimización numérica. Implementada en p5.js como un único archivo HTML autocontenido — no requiere instalación ni servidor.
 
-Lo hice a partir de una plática que tuve con Margarita de Anda Trasviña, antes mi alumna, ahora colega del DASC con quien he impartido cursos de IA muchas veces. La idea era simular la manera como se acercan al óptimo desde distintos puntos iniciales, como si fueran redes con distintos parámetros. Fue la semilla del TalleRNA (ver la sección de IA).
+Nació de una plática con Margarita de Anda Trasviña, antes mi alumna, ahora colega del DASC, sobre cómo simular la manera en que distintas redes neuronales se acercan al óptimo desde puntos iniciales distintos. Fue la semilla del TalleRNA.
 
-<img src="{{ site.baseurl }}/assets/images/prog/GradienViz.png" alt="Pantalla de ejemplo" width="600">
+Ver la entrada completa, con capturas y más detalle, en la [sección de IA](/ia/#GradienViz).
 
-El repositorio se encuentra en [github.com/mancpato/GradienViz](https://github.com/mancpato/GradienViz). Puede ser de utilidad para interesados en los detalles finos de programación numérica.
+{% include volver-seccion.html url="/programacion/" %}
 
 ---
 
@@ -40,6 +40,9 @@ Conocí el programa traducido paranoia.c y es una maravilla de genialidad. Hoy p
 
 El repositorio se encuentra en [github.com/mancpato/Paranoia2](https://github.com/mancpato/Paranoia2). Puede ser de utilidad para interesados en los detalles finos de programación numérica. Este es material denso y muy técnico.
 
+
+{% include volver-seccion.html url="/programacion/" %}
+
 ---
 
 ### Monografía de mi sabático {#Mono}
@@ -50,4 +53,27 @@ Tuve el gusto de invertir mi primer sabático visitando la UNISON en 2008. Ahí 
 
 [Introducción a la Programación Numérica (PDF)](/assets/files/programacion/Mono.pdf) Este estudio contiene dos partes, la primera sobre los fundamentos y la segunda sobre tres aplicaciones comunes: la suma de números de punto flotante, raíces de ecuaciones y funciones trascendentes (el caso de la exponencial).
 
+
+{% include volver-seccion.html url="/programacion/" %}
+
 ---
+
+
+## Cómo comencé a programar {#como-comencé-a-programar}
+<small style="color: #999;">Julio de 2026</small>
+
+Ya me gustaban las matemáticas desde la secundaria cuando inicié mi aventura de programar computadoras en la prepa (primero BASIC en una Tandy2, luego C sobre un SO UNIX V). Fue inmediato juntar los dos mundos. Eso se formalizó hasta el tercer semestre de la carrera de matemáticas, en métodos numéricos, una de mis asignaturas favoritas. Pero esta historia requiere hacerle más honor, mi recorrido es, de alguna manera, la historia de la programación, desde mi limitada perspectiva.
+
+Métods numéricos, análisis numérico, cómputo científico, computación de alto rendimiento, simulación, ... hay muchas líneas de trabajo pero me gusta simplificar y llamarlas de manera genérica **programación numérica**. No es un término estándar, pero prefiero usarlo para referirme a toda esta área de trabajo.
+
+
+{% include volver-seccion.html url="/programacion/" %}
+
+---
+
+### Mi tesis de licenciatura {#Simplex}
+<small style="color: #999;">Agosto de 2026</small>
+
+En 
+
+{% include volver-seccion.html url="/programacion/" %}
