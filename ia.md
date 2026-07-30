@@ -21,7 +21,7 @@ Notas y proyectos sobre IA (y temas afines)
 
 ## Repositorios del proyecto SuiteRNA: {#SuiteRNA}
 
-**SuiteRNA* es un conjunto de herramientas interactivas de visualización de redes neuronales para la enseñanza, donde cada módulo aísla y hace observable en tiempo real un concepto central del aprendizaje profundo mediante comparación controlada de un enjambre de modelos.
+**SuiteRNA** es un conjunto de herramientas interactivas de visualización de redes neuronales para la enseñanza, donde cada módulo aísla y hace observable en tiempo real un concepto central del aprendizaje profundo mediante comparación controlada de un enjambre de modelos.
 
 - [TalleRNA](#TalleRNA), un recurso para comparar varias redes neuronales muy pequeñas (menos de 50 parámetros) aprendiendo simultáneamente.
 - [TalleRNAmulti](#TalleRNAmulti), un recurso para comparar varias redes neuronales (menos de 1500 parámetros) aprendiendo simultáneamente.
