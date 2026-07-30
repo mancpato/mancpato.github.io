@@ -74,6 +74,8 @@ Métods numéricos, análisis numérico, cómputo científico, computación de a
 ### Mi tesis de licenciatura {#Simplex}
 <small style="color: #999;">Agosto de 2026</small>
 
-En 
+Estudié e implemente un problema de optimización lineal: el método Símplex especializado en redes. El trabajo fue desarrollado en el Departamento de Matemáticas de la Universidad de Sonora. Tesis dirigida por Pedro Flores Pérez. La terminé en el verano de 1993. La presenté un viernes, me dieron mi acta de examen profesional el lunes. El martes ya estaba en la Sección de Computación del Departamento de Ingeniería Eléctrica del CINVESTAV.
+
+El repositorio se encuentra en [github.com/mancpato/MiSimplex](https://github.com/mancpato/MiSimplex). El código fue desarrollado usando Borland C/C++ (3.0 o 3.1) y el documento escrito usando LaTeX. Esas versiones no compilan en la actualidad por la versión/dependencia de software, pero la intención es traerlas de vuelta a la vida en cuanto se pueda.
 
 {% include volver-seccion.html url="/programacion/" %}
