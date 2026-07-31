@@ -32,3 +32,5 @@ En este sitio (permanentemente en construcción) voy dejando notas, programas y 
 
 - [Cielos oscuros de BCS y recursos en línea](/astronomia/#cielos-bcs) (En astronomía, *2026-07-26*)
 - [Refinamiento iterativo (PDF)](/assets/files/docencia/AL6-RefinItera.pdf) (En docencia/álgebra lineal)
+
+Este sitio fue elaborado con la ayuda de Claude (Anthropic) para diseño y comprobación de errores de contenido.

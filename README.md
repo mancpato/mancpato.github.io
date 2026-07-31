@@ -31,3 +31,4 @@ O más pro sin instalar en el sistema:
         docker run --rm -v "$PWD:/srv/jekyll" -p 4000:4000 jekyll/jekyll jekyll serve
  -->
  
+ Eaborado con la ayuda de Claude (Anthropic) para diseño y comprobación de errores de contenido.
