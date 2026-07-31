@@ -5,9 +5,15 @@ permalink: /astronomia/
 nav_order: 4
 ---
 
-- [Cielos oscuros de BCS y recursos en línea](#cielos-bcs), *julio de 2026* Comparación entre predicciones de lightpollutionmap y mediciones reales con fotómetro TESS en San Pedro, BCS.
 
+
+- [Cielos oscuros de BCS y recursos en línea](#cielos-bcs), *julio de 2026* Comparación entre predicciones de lightpollutionmap y mediciones reales con fotómetro TESS en San Pedro, BCS.
 - [Apuntes breves sobre ciencia](#ApuntesBreves), *julio de 2026* Este libro es una compilación de trabajos de divulgación sobre astronomía y matemáticas.
+
+**Del baúl de los recuerdos:**
+- [Cómo comencé con astronomía](#EOS-ASI), *julio de 2026* Otra de las historias que me gusta recordar
+- [El eclipse de 1991](#eclipse-1991), *agosto de 2026* De las mejores experiencias
+
 
 ---
 
@@ -18,7 +24,7 @@ Sociedad Astronómica Mira, La Paz, BCS
 
 Si alguna vez buscaste un sitio para observar o fotografiar el cielo nocturno, probablemente consultaste lightpollutionmap.info — una herramienta muy difundida y útil como punto de partida. Pero hay algo importante que debes saber antes de confiar en sus números: sus estimaciones pueden ser sistemáticamente más optimistas que la realidad, y sus propios autores lo advierten.
 
-Las Sociedades Astronómicas Merak (en Santa Rosalía) y Mira llevamos años midiendo la calidad del cielo en sitios de BCS con fotómetros calibrados. el esfuerzo se ha extendido y hoy contamos con el apoyo de colaboradores en varios lugares del estado. La discrepancia con el mapa en línea es consistente: los fotómetros marcan alrededor de 0.5 mag/arcsec² menos que lo que predice el modelo — es decir, el cielo real es más brillante (más contaminado) de lo que el mapa sugiere.
+Las Sociedades Astronómicas [Merak](https://www.facebook.com/search/top?q=sociedad%20astron%C3%B3mica%20merak) (en Santa Rosalía) y [Mira](https://www.facebook.com/SociedadAstronomicaMira) llevamos años midiendo la calidad del cielo en sitios de BCS con fotómetros calibrados. el esfuerzo se ha extendido y hoy contamos con el apoyo de colaboradores en varios lugares del estado. La discrepancia con el mapa en línea es consistente: los fotómetros marcan alrededor de 0.5 mag/arcsec² menos que lo que predice el modelo — es decir, el cielo real es más brillante (más contaminado) de lo que el mapa sugiere.
 
 ### El caso concreto: San Pedro, BCS
 
@@ -92,6 +98,9 @@ Esta tabla es una referencia aproximada. La correlación precisa para sitios de 
 - Para astrofotografía seria, nada reemplaza medir en sitio
 - En BCS en particular, las condiciones costeras hacen que los modelos globales fallen más que en zonas continentales
 
+
+{% include volver-seccion.html url="/astro/" %}
+
 ---
 
 ## Apuntes breves sobre ciencia {#ApuntesBreves}
@@ -108,3 +117,30 @@ Lo descargan en la liga [Apuntes breves sobre ciencia (PDF)](/assets/files/astro
 </figure>
 
 Como digo en la portada de este sitio, para mí escribir es una actividad indispensable del proceso de aprender y pensar. Al ritmo que voy, todo indica que podré editar una segunda versión con temas nuevos. Como siempre, lo que falta es tiempo.
+
+
+{% include volver-seccion.html url="/astro/" %}
+
+---
+
+## Cómo comencé con astronomía {#EOS-ASI}
+<small style="color: #999;">Julio de 2026</small>
+
+Ya se había terminado el tercer semestre en la UNISON, 1990, y estábamos principalmente no haciendo nada. Cierto día, mis compañeros del salón, físicos y matemáticos, me invitaron a ir a una conferencia de un astrónomo que acababa de llegar a la UNISON. Ahí voy de curioso, como todos. Fue una de las mejores decisiones de mi vida.
+
+Antonio Sánchez Ibarra, nos habló de su trabajo como astrónomo solar, monitoreando e investigando sobre hoyos coronales.
+
+
+{% include volver-seccion.html url="/astro/" %}
+
+---
+
+## El eclipse de 1991 {#eclipse-1991}
+<small style="color: #999;">Agosto de 2026</small>
+
+El llamado eclipse del siglo pasó por La Paz, lo que me hizo anfitrión automáticamente.
+
+Lo observamos y registramos desde La Matanza, BCS, para acercarnos aún más a la línea central.
+
+
+{% include volver-seccion.html url="/astro/" %}

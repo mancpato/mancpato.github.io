@@ -17,7 +17,6 @@ Mi forma de trabajar sigue siempre el mismo camino: investigar un tema en profun
 
 Soy miembro de la Sociedad Astronómica de Mira. Buena parte de nuestras actividades es hacer divulgación científica en La Paz junto con Irma y otros amigos. También buscamos preservar la calidad del cielo oscuro en BCS y hemos estado midiendo su magnitud fotométrica.
 
-En este sitio (permanentemente en construcción) voy dejando notas, programas y apuntes que elaboro generalmente por el placer de entender, y que igual le sirven a alguien más. De estos intereses y algo más encontrarán información en las secciones accesibles desde las ligas superiores.
 
 <div style="clear: both;"></div>
 
@@ -28,9 +27,19 @@ En este sitio (permanentemente en construcción) voy dejando notas, programas y 
   <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5em;">Algunas de mis pasiones</figcaption>
 </figure>
 
+En este sitio (permanentemente en construcción) voy dejando notas, programas y apuntes que elaboro generalmente por el placer de entender, y que igual le sirven a alguien más. De estos intereses y algo más encontrarán información en las secciones accesibles desde las ligas superiores.
+
+Poco a poco iré contando historias diversas, cosas de las que quiero dejar constancia.
+
+---
+
 ## Últimas entradas
 
-- [Cielos oscuros de BCS y recursos en línea](/astronomia/#cielos-bcs) (En astronomía, *2026-07-26*)
-- [Refinamiento iterativo (PDF)](/assets/files/docencia/AL6-RefinItera.pdf) (En docencia/álgebra lineal)
+<!-- Para nuevas entradas copiar:
+- []() En ... *yyyy-mm-dd*
+-->
+
+- [Cielos oscuros de BCS y recursos en línea](/astronomia/#cielos-bcs) En astronomía, *2026-07-26*
+- [Refinamiento iterativo (PDF)](/assets/files/docencia/AL6-RefinItera.pdf) En docencia/álgebra lineal
 
 Este sitio fue elaborado con la ayuda de Claude (Anthropic) para diseño y comprobación de errores de contenido.
