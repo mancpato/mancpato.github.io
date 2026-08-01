@@ -123,6 +123,10 @@ Como digo en la portada de este sitio, para mí escribir es una actividad indisp
 
 ---
 
+<!-- 
+        **** Inicia el baúl de los recuerdos ****
+-->
+
 ## Cómo comencé con astronomía {#EOS-ASI}
 <small style="color: #999;">Julio de 2026</small>
 

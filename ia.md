@@ -5,21 +5,23 @@ permalink: /ia/
 nav_order: 1
 ---
 
-Notas y proyectos sobre IA (y temas afines) 
+Notas y proyectos sobre IA (y temas afines). La pandemia fue un detonador importante, me dio tiempo de aprender nuevas tecnologías de redes neuronales y terminar muchos proyectos comenzados hacía años. El trabajo docente aterrizó bien, en mancuerna con mis colegas Margarita de Anda y Jaime Eudes, de la UABCS.
 
 **Algunos proyectos:**
-- [SuiteRNA](#SuiteRNA), *julio de 2026* Gran proyecto de desarrollo de comparadores de redes neuronales.
-- [GradienViz](#GradienViz), *enero de 2026* Visualizador de optimización por gradiente para regresión lineal.
+- [SuiteRNA](#SuiteRNA), *abril de 2026* Gran proyecto de danálisis de entrenamiento de redes neuronales. Desde perceptrones multicapa hasta redes de atención, incluyendo redes especiales.
+- [GradienViz](#GradienViz), *febrero de 2026* Visualizador de optimización por gradiente para regresión lineal. Se originó de una plática de redes neuronales y por eso está aquí.
+- [Consensus](#Consensus), *mayo de 2026* El debate automatizado para asistencia colegiada.
 
 **Del baúl de los recuerdos:**
 
-- [Mi inicio en la IA](#CINVESTAV-IA), *julio de 2026*, Sobre cómo comencé esta ruta de vida.
-- [Tesis de maestría](#Tesis-CINVESTAV)
-
+- [Mi inicio en la IA](#CINVESTAV-IA), *19946*, Sobre cómo comencé esta ruta de vida.
+- [Tesis de maestría](#Tesis-CINVESTAV) *1995/1996*
 
 ---
 
 ## Repositorios del proyecto SuiteRNA: {#SuiteRNA}
+
+<small style="color: #999;">Abril de 2026</small>
 
 **SuiteRNA** es un conjunto de herramientas interactivas de visualización de redes neuronales para la enseñanza, donde cada módulo aísla y hace observable en tiempo real un concepto central del aprendizaje profundo mediante comparación controlada de un enjambre de modelos.
 
@@ -132,9 +134,13 @@ de parámetros: paisaje de pérdida, curvatura y grupos de simetría de la red.
 
 ## GradienViz {#GradienViz}
 
-<small style="color: #999;">Enero de 2026</small>
+<small style="color: #999;">Febrero de 2026</small>
 
-Herramienta pedagógica para cursos de inteligencia artificial, aprendizaje automático y optimización numérica. Implementada en p5.js como un único archivo HTML autocontenido — no requiere instalación ni servidor.
+Herramienta pedagógica para cursos de cálculo diferencial, álgebra lineal, estadística, inteligencia artificial, aprendizaje automático y optimización numérica. Implementada en p5.js como un único archivo HTML autocontenido — no requiere instalación ni servidor.
+
+Nació de una plática con Margarita de Anda Trasviña, antes mi alumna, ahora colega del DASC, sobre cómo simular la manera en que distintas redes neuronales se acercan al óptimo desde puntos iniciales distintos. Fue la semilla del [TalleRNA](#TalleRNA).
+
+Implementada en p5.js como un único archivo HTML autocontenido — no requiere instalación ni servidor.
 
 <img src="{{ site.baseurl }}/assets/images/ia/GradienViz.png" alt="Pantalla de ejemplo" width="600">
 
@@ -145,18 +151,27 @@ Desde el punto de vista matemático, hay tres perspectivas para resolverlo:
 - con álgebra lineal, mi preferida y
 - con estadística inferencial.
 
-**GradienViz** es una herramienta que surge con la idea de simular cómo se verían varias redes neuronales aprendiendo al mismo tiempo. Siendo muy simplistas, cada red, iniciada con parámetros distintos, toma su propia ruta al óptimo. esta idea
+{% include volver-seccion.html url="/ia/" %}
 
-Lo hice a partir de una plática que tuve con Margarita de Anda Trasviña, antes mi alumna, ahora colega del DASC con quien he impartido cursos de IA muchas veces. La idea era simular la manera como se acercan al óptimo desde distintos puntos iniciales, como si fueran redes con distintos parámetros. Fue la semilla del [TalleRNA](#TalleRNA).
+---
 
-El repositorio se encuentra en
-[github.com/mancpato/GradienViz](https://github.com/mancpato/GradienViz). Puede ser de utilidad tanto para quien se interesa en IA como para quien se interesa en los detalles finos de programación numérica.
+## Consensus {#Consensus}
+
+<small style="color: #999;">Mayo de 2026</small>
+
+
 
 {% include volver-seccion.html url="/ia/" %}
 
 ---
 
+<!-- 
+        **** Inicia el baúl de los recuerdos ****
+-->
+
 ## Mi inicio en la IA {#CINVESTAV-IA}
+
+<small style="color: #999;">Enero de 1994</small>
 
 Mi posgrado fue en IA, particularmente resolviendo un problema de visión por computadora, haciendo uso del enfoque lógico-combinatorio del reconocimiento de patrones. Esa etapa del CINVESTAV fue de gran aprendizaje. Los cursos de IA y el de lógica matemática se convirtieron en pilares para muchas otras cosas.
 
@@ -169,6 +184,8 @@ En este momento, mi trabajo (*diversión*) principal es el desarrollo de lo que 
 ---
 
 ## Tesis de maestría {#Tesis-CINVESTAV}
+
+<small style="color: #999;">1995/1996</small>
 
 A parte de los cursos obligatorios, hubo que llevar otros optativos. Recnoncimiento de Patrones fue uno de ellos, impartido por José Ruiz Schulcloper. No sólo patrones visuales, también patrones sociales, de conducta, lo que sea que tenga estructura. 
 
