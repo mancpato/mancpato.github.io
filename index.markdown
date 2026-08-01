@@ -42,4 +42,8 @@ Poco a poco iré contando historias diversas, cosas de las que quiero dejar cons
 - [Cielos oscuros de BCS y recursos en línea](/astronomia/#cielos-bcs) En astronomía, *2026-07-26*
 - [Refinamiento iterativo (PDF)](/assets/files/docencia/AL6-RefinItera.pdf) En docencia/álgebra lineal
 
-Este sitio fue elaborado con la ayuda de Claude (Anthropic) para diseño y comprobación de errores de contenido.
+---
+
+### Créditos
+
+Este sitio está construido con [Jekyll](https://jekyllrb.com/) y el tema [Minima](https://github.com/jekyll/minima), alojado en [GitHub Pages](https://pages.github.com/). El renderizado de fórmulas usa [KaTeX](https://katex.org/). Para el diseño y la revisión de errores de contenido conté con la ayuda de [Claude](https://claude.ai) (Anthropic).
