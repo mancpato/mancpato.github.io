@@ -72,11 +72,13 @@ Comencé a programar grafos desde la UNISON, gracias a que Pedro Flores estaba m
 
 Es primera versión de grafos era por listas de adyacencia usadas de manera descuidad. Optimizabamos memoria pero no tiempo, cosa que entendí hasta llegar al CINVESTAV. Me han seguido gustando los problemas de grafos y no fue sino hasta 2015 que me regresó la curiosidad por hacer una estructura de datos eficiente, empleando matrices de adyacencia, pero con máscaras de bits.
 
-Con la actual arquitectura de 64 bits, me decidí por trabajar rutinas exclusivamente para grafos con un máximo de 64 nodos, lo que significaba un arreglo de 64 enteros largos sin signo. Con esa idea surgió *SmallGraph*. Primero en lenguaje C, fiel a mi origen, pero pocos años más tarde lo mudé a C++, con una clase (SmallGraph.hpp).
+Con la actual arquitectura de 64 bits, me decidí por trabajar rutinas exclusivamente para grafos con un máximo de 64 nodos, lo que significaba un arreglo de 64 enteros largos sin signo. Con esa idea surgió **SmallGraph**. Primero en lenguaje C, fiel a mi origen, pero pocos años más tarde lo mudé a C++, con una clase `SmallGraph.hpp`.
 
 En 2025 leí un artículo de mis amigos de la UNISON Eduardo Frías y Héctor Hernández, con quienes no he perdido contacto. Estaban contando grafos con ciertas características, problemas de contractabilidad. El artículo hacía referencia a un repositorio con su código, que cloné y revisé en cuanto pude. Usaba la arcaica e ineficiente estructura de matrices de adyacencia pero con matrices reales de enteros. De inmediato me surgió la idea de probar mis estructuras con sus programas.
 
-Los grafos distintos crecen tan rápidamente, que sus conteos y búsquedas estaban en grafos de 12 o 13 nodos cuando mucho, así que adapté los algoritmos a usar enteros cortos de 16 bits, lo que es amigable con el caché. Surgió así **TinyGraph.hpp**. Las vacaciones de 2025 estuve programando y finalmente logré replicar sus búsquedas. La mejora en tiempo fue sustancial, como era de esperarse.
+Los grafos distintos crecen tan rápidamente, que sus conteos y búsquedas estaban en grafos de 12 o 13 nodos cuando mucho, así que adapté los algoritmos a usar enteros cortos de 16 bits, lo que es amigable con el caché. Surgió así `TinyGraph.hpp`. Las vacaciones de 2025 estuve programando y finalmente logré replicar sus búsquedas. La mejora en tiempo fue sustancial, como era de esperarse.
+
+Con esta estructura y unas pocas semanas de cómputo 24/7 de mi PC de la UABCS (viejita, un intel i3 con 4 núcleos), logré contar todos los grafos de 13 nodos en busca de aquellos con las características de interés. Espero pronto escribir una entrada específica al respecto.
 
 Este fue de mis primero programas optimizados con IA, que hizo una lookup table para reducir cálculos y mejoró una rutina incorporando la nueva operación `popcount` de los procesadores modernos.
 
