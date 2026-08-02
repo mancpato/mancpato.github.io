@@ -5,7 +5,7 @@ permalink: /astronomia/
 nav_order: 4
 ---
 
-
+Para quienes nos gusta la divulgación científica esta ciencia es punta de lanza. Se vende fácil y con el público cautivo se puede comenzar a hablar de más cosas. Eso sin mencionar lo interesante, bello y cautivador que es el cosmos y la profundidad de algunas preguntas que aún nos hacemos.
 
 - [Cielos oscuros de BCS y recursos en línea](#cielos-bcs), *julio de 2026* Comparación entre predicciones de lightpollutionmap y mediciones reales con fotómetro TESS en San Pedro, BCS.
 - [Apuntes breves sobre ciencia](#apuntes-breves), *julio de 2026* Este libro es una compilación de trabajos de divulgación sobre astronomía y matemáticas.
@@ -129,6 +129,8 @@ Como digo en la portada de este sitio, para mí escribir es una actividad indisp
 
 ## Cómo comencé con astronomía {#eos-asi}
 <small style="color: #999;">Julio de 2026</small>
+
+Cosmos me hipnotizaba de niño, como a muchos y todo documental que hablara de ciencia me encantaba. No recuerdo qué navidad mi papá me regaló mis primeros binoculares, unos 7x35. Acostarse a ver el cielo era una maravilla. Pero lo serio llegó hasta la universidad.
 
 Ya se había terminado el tercer semestre en la UNISON, 1990, y estábamos principalmente no haciendo nada. Cierto día, mis compañeros del salón, físicos y matemáticos, me invitaron a ir a una conferencia de un astrónomo que acababa de llegar a la UNISON. Ahí voy de curioso, como todos. Fue una de las mejores decisiones de mi vida.
 

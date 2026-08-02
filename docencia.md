@@ -114,7 +114,7 @@ La empatía, sin embargo, no debe confundirse con complacencia. Podemos entender
 
 La IA no nos obliga a responder esta pregunta. Nos obliga a dejar de ignorarla.
 
-*Documento de reflexión para discusión académica interna · DASC · UABCS*
+*Documento de reflexión para discusión académica interna · UABCS*. 
 *Elaborado a partir de una serie de talleres de verano impartidos entre 2023 y 2026.*
 
 {% include volver-seccion.html url="/docencia/" %}
