@@ -28,18 +28,18 @@ Me tienen aquí dos cosas: el gusto por aprender y el gusto por compartir.
 
 **Materiales de lectura:**
 
-- [Vectores](/assets/files/docencia/AL1-Vectores.pdf)
-- [Matrices](/assets/files/docencia/AL2-Matrices.pdf)
-- [Tipos de matrices](/assets/files/docencia/AL2-Matrices3Tipos.pdf)
-- [Subespacios](/assets/files/docencia/AL2-Matrices4SubSpc.pdf)
-- [Operaciones con matrices](/assets/files/docencia/AL2-MatricesOps.pdf)
-- [Propiedades de matrices](/assets/files/docencia/AL2-MatricesProps.pdf)
-- [Notas de enseñanza](/assets/files/docencia/AL2-teaching.pdf)
-- [Refinamiento iterativo](/assets/files/docencia/AL6-RefinItera.pdf)
+- [Vectores](/assets/files/docencia/AL1-Vectores.pdf){:target="_blank" rel="noopener noreferrer"}
+- [Matrices](/assets/files/docencia/AL2-Matrices.pdf){:target="_blank" rel="noopener noreferrer"}
+- [Tipos de matrices](/assets/files/docencia/AL2-Matrices3Tipos.pdf){:target="_blank" rel="noopener noreferrer"}
+- [Subespacios](/assets/files/docencia/AL2-Matrices4SubSpc.pdf){:target="_blank" rel="noopener noreferrer"}
+- [Operaciones con matrices](/assets/files/docencia/AL2-MatricesOps.pdf){:target="_blank" rel="noopener noreferrer"}
+- [Propiedades de matrices](/assets/files/docencia/AL2-MatricesProps.pdf){:target="_blank" rel="noopener noreferrer"}
+- [Notas de enseñanza](/assets/files/docencia/AL2-teaching.pdf){:target="_blank" rel="noopener noreferrer"}
+- [Refinamiento iterativo](/assets/files/docencia/AL6-RefinItera.pdf){:target="_blank" rel="noopener noreferrer"}
 
 ### Teoría de la Computación
 
-- [Notas de clase](/assets/files/docencia/NotasTC.pdf)
+- [Notas de clase](/assets/files/docencia/NotasTC.pdf){:target="_blank" rel="noopener noreferrer"}
 - [Fundamentos matemáticos]
 
 **Máquina de Turing Universal (restringida)**

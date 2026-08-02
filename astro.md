@@ -107,7 +107,7 @@ Esta tabla es una referencia aproximada. La correlación precisa para sitios de 
 
 No tengo la fecha exacta, pero alrededor de 2010 comencé escribir artículos para medios de información, para compartir en mi muro en Facebook y a asistir aprogramas de radio y televisión para participar comentando temas de astronomía. Canal 10 fue el primero al que asistí, luego también en canal 8. Algunos artículos salieron en el Sudcaliforniano y otros en revistas digitales como Culco. En 2018, organicé mucho de este material y compilé un libro de divulgación que editó la UABCS (versión digital). Reune varios de estos trabajos junto con otros sobre temas de matemáticas (la segunda parte). 
 
-Lo descargan en la liga [Apuntes breves sobre ciencia (PDF)](/assets/files/astronomia/ApuntesBreves.pdf)
+Lo descargan en la liga [Apuntes breves sobre ciencia (PDF)](/assets/files/astronomia/ApuntesBreves.pdf){:target="_blank" rel="noopener noreferrer"}
 
 <figure style="text-align: center; margin: 2em 0 1em;">
   <img src="/assets/images/astronomia/ApuntesBreves.png"

@@ -23,11 +23,12 @@ email: manc@uabcs.mx
 description: >- # this means to ignore newlines until "baseurl:"
   Sitio para publicar intereses diversos y materiales de todo tipo, incluyendo
   programas, ideas, comentarios, materiales didácticos, etcétera. Inteligencia
-  artificial (redes neuronales convencionales, especiales y teoría del aprendizaje 
-  singular), álgebra lineal, aritmética de punto flotante, astronomía, docencia 
-  de las matemáticas,  
+  artificial (redes neuronales convencionales, especiales y teoría del aprendizaje
+  singular), álgebra lineal, aritmética de punto flotante, astronomía, docencia
+  de las matemáticas, y notas de todo lo que se me ocurre explicar.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mancpato.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+image: /assets/images/manc.jpg
 facebook_username: miguelangel.norzagaraycosio
 instagram_username: norzagaraycosio
 twitter_username: mancpato
@@ -64,4 +65,3 @@ header_pages:
   - docencia.md
   - astro.md
   - personal.md
-  - about.markdown

@@ -40,7 +40,7 @@ Poco a poco iré contando historias diversas, cosas de las que quiero dejar cons
 -->
 
 - [Cielos oscuros de BCS y recursos en línea](/astronomia/#cielos-bcs) En astronomía, *2026-07-26*
-- [Refinamiento iterativo (PDF)](/assets/files/docencia/AL6-RefinItera.pdf) En docencia/álgebra lineal
+- [Refinamiento iterativo (PDF)](/assets/files/docencia/AL6-RefinItera.pdf){:target="_blank" rel="noopener noreferrer"} En docencia/álgebra lineal
 
 ---
 

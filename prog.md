@@ -134,7 +134,7 @@ Desde el *Hola mundo* para CUDA (el modelo y herramientas de programación de NV
 
 Tuve el gusto de invertir mi primer sabático visitando la UNISON en 2008. Ahí regresé a mis mundos de astronomía, guitarra y matemáticas. Me recibieron en el Departamento de Matemáticas y comencé a darle forma a mi libro de programación numérica, una introducción que presenté como monografía al regresar a la UABCS.
 
-[Introducción a la Programación Numérica (PDF)](/assets/files/programacion/Mono.pdf) Este estudio contiene dos partes, la primera sobre los fundamentos y la segunda sobre tres aplicaciones comunes: la suma de números de punto flotante, raíces de ecuaciones y funciones trascendentes (el caso de la exponencial).
+[Introducción a la Programación Numérica (PDF)](/assets/files/programacion/Mono.pdf){:target="_blank" rel="noopener noreferrer"} Este estudio contiene dos partes, la primera sobre los fundamentos y la segunda sobre tres aplicaciones comunes: la suma de números de punto flotante, raíces de ecuaciones y funciones trascendentes (el caso de la exponencial).
 
 
 {% include volver-seccion.html url="/programacion/" %}
