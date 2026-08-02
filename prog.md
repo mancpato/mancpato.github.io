@@ -8,35 +8,35 @@ nav_order: 2
 Notas, proyectos y temas afines. La llegada de los LLM ha permitido que rescate mucho código que he escrito durante décadas, organizando mejor en repositorios de [github](https://github.com/mancpato) cuando creo que vale la pena.
 
 **Algunos proyectos**
-- [GradienViz](#GradienViz), *enero de 2026* Visualizador de optimización por gradiente, con raíces en programación numérica. Entrada completa en la sección de IA.
+- [GradienViz](#gradienviz), *enero de 2026* Visualizador de optimización por gradiente, con raíces en programación numérica. Entrada completa en la sección de IA.
 - [paranoia2](#paranoia2), un verificador de la norma IEEE 754 de 2019. 
-- [CUDA](#CUDA), verano de 2024, el inicio de programas de alto rendimiento.
-- [Monografía de mi sabático](#Mono), trabajo comenzado en la UNISON en 2008 y terminado en la UABCS. Presenté la monografía al regresar, pero continué desarrollándolo unos años más hasta darle la forma que quería.
+- [CUDA](#cuda), verano de 2024, el inicio de programas de alto rendimiento.
+- [Monografía de mi sabático](#mono), trabajo comenzado en la UNISON en 2008 y terminado en la UABCS. Presenté la monografía al regresar, pero continué desarrollándolo unos años más hasta darle la forma que quería.
 
 **Topología geométrica/combinatoria**
-- [NautyNav](#NautyNav), *agosto de 2026* Visualizador de grafos generados con geng.c
-- [KnotViz](#KnotViz), *mayo de 2026* Un visualizador de nudos y algunos de sus invariantes
-- [SmallGraph/TinyGraph](#SmallGraph), *2015 -* Grafos he programado desde la licenciatura en la UNISON, pero aquí comencé a tener rutinas serias.
+- [NautyNav](#nauty-nav), *agosto de 2026* Visualizador de grafos generados con geng.c
+- [KnotViz](#knotviz), *mayo de 2026* Un visualizador de nudos y algunos de sus invariantes
+- [SmallGraph/TinyGraph](#smallgraph), *2015 -* Grafos he programado desde la licenciatura en la UNISON, pero aquí comencé a tener rutinas serias.
 
 **Del baúl de los recuerdos:**
-- [Cómo comencé a programar](#como-comencé-a-programar), *julio de 2026* Del Basic en adelante
-- [Mi tesis de licenciatura](#Simplex), *verano de 1993* 
-- [PAREIMM](#PAREIMM), *1992/1993* Un esfuerzo conjunto de estudiantes de Pedro Flores Pérez
+- [Cómo comencé a programar](#como-comence-a-programar), *julio de 2026* Del Basic en adelante
+- [Mi tesis de licenciatura](#simplex), *verano de 1993* 
+- [PAREIMM](#pareimm), *1992/1993* Un esfuerzo conjunto de estudiantes de Pedro Flores Pérez
 
 ---
 
-### GradienViz {#GradienViz}
+### GradienViz {#gradienviz}
 <small style="color: #999;">Enero de 2026</small>
 
 Herramienta pedagógica para diversos cursos sobre el tema de regresión lineal. Implementada en p5.js como un único archivo HTML autocontenido — no requiere instalación ni servidor.
 
-Ver la entrada completa, con capturas y más detalle, en la [sección de IA](/ia/#GradienViz).
+Ver la entrada completa, con capturas y más detalle, en la [sección de IA](/ia/#gradienviz).
 
 {% include volver-seccion.html url="/programacion/" %}
 
 ---
 
-### NautyNav {#NautyNav}
+### NautyNav {#nauty-nav}
 <small style="color: #999;">Agosto de 2026</small>
 
 Explorador interactivo de grafos no isomorfos generados por nauty/geng. Es una herramienta didáctica para cursos de teoría de grafos y matemáticas discretas. 
@@ -54,7 +54,7 @@ Era fácil de hacer, como subproducto de un proyecto mayor que permite hacer bú
 
 ---
 
-### KnotViz {#KnotViz}
+### KnotViz {#knotviz}
 <small style="color: #999;">Mayo de 2026</small>
 
 Visualizador interactivo de nudos y algunos de sus invariantes. Los nudos (matemáticos y cotidianos) siempre me han gustado. Pero fue hasta la pandemia cuando leí ccon un poco más de seriedad el tema matemático y no estaba preparado para tanto bagage teórico, así que me conformé con muy poco.
@@ -65,7 +65,7 @@ El repositorio se encuentra en [github.com/mancpato/KnotViz](https://github.com/
 
 ---
 
-### SmallGraph {#SmallGraph}
+### SmallGraph {#smallgraph}
 <small style="color: #999;">2015 en adelante</small>
 
 Comencé a programar grafos desde la UNISON, gracias a que Pedro Flores estaba metido en optimización y luego de trabajar matricialmente con el método Simplex, decidió meterse a optimización de flujo en redes. Los que estábamos en sus cursos optativos éramos Edelmira, Irene, Myriam y yo.
@@ -114,7 +114,7 @@ La iniciativa, idea, interfaces internas, decisiones de diseño, dirección y de
 
 ---
 
-### CUDA {#CUDA}
+### CUDA {#cuda}
 <small style="color: #999;">Verano de 2024</small>
 
 Había dinero de un proyecto que se tenía que usar, ya tenía que camibiar de Laptop yeso llevó a comprar una Victus con tarjeta gráfica RTX 3050. Al inicio, todo normal. Pero luego, mis hijos la usaron para jugar. Máquina gamer a fin de cuentas, Halo, Minecraft, cualquier juego moderno se veía de lujo. Entonces me cayó el 20 de que estaba desaprovechando un GPU, así que me di a la tarea de aprender a programarlo.
@@ -128,7 +128,7 @@ Desde el *Hola mundo* para CUDA (el modelo y herramientas de programación de NV
         **** Inicia el baúl de los recuerdos ****
 -->
 
-### Monografía de mi sabático {#Mono}
+### Monografía de mi sabático {#mono}
 
 <small style="color: #999;">Verano de 2010</small>
 
@@ -142,7 +142,7 @@ Tuve el gusto de invertir mi primer sabático visitando la UNISON en 2008. Ahí 
 ---
 
 
-## Cómo comencé a programar {#como-comencé-a-programar}
+## Cómo comencé a programar {#como-comence-a-programar}
 <small style="color: #999;">Julio de 2026</small>
 
 Ya me gustaban las matemáticas desde la secundaria cuando inicié mi aventura de programar computadoras en la prepa (primero BASIC en una Tandy2, luego C sobre un SO UNIX V). Fue inmediato juntar los dos mundos. Eso se formalizó hasta el tercer semestre de la carrera de matemáticas, en métodos numéricos, una de mis asignaturas favoritas. Pero esta historia requiere hacerle más honor, mi recorrido es, de alguna manera, la historia de la programación, desde mi limitada perspectiva.
@@ -156,7 +156,16 @@ Algunos cursos que llevé en el posgrado fueron de una utilidad enorme, pero mi 
 
 ---
 
-### Mi tesis de licenciatura {#Simplex}
+### PAREIMM {#pareimm}
+<small style="color: #999;">1992/1993</small>
+
+*(en construcción)*
+
+{% include volver-seccion.html url="/programacion/" %}
+
+---
+
+### Mi tesis de licenciatura {#simplex}
 <small style="color: #999;">Agosto de 2026</small>
 
 Estudié e implemente un problema de optimización lineal: el método Símplex especializado en redes. El trabajo fue desarrollado en el Departamento de Matemáticas de la Universidad de Sonora. Tesis dirigida por Pedro Flores Pérez. La terminé en el verano de 1993. La presenté un viernes, me dieron mi acta de examen profesional el lunes. El martes ya estaba en la Sección de Computación del Departamento de Ingeniería Eléctrica del CINVESTAV.

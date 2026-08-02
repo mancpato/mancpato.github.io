@@ -8,10 +8,10 @@ nav_order: 4
 
 
 - [Cielos oscuros de BCS y recursos en línea](#cielos-bcs), *julio de 2026* Comparación entre predicciones de lightpollutionmap y mediciones reales con fotómetro TESS en San Pedro, BCS.
-- [Apuntes breves sobre ciencia](#ApuntesBreves), *julio de 2026* Este libro es una compilación de trabajos de divulgación sobre astronomía y matemáticas.
+- [Apuntes breves sobre ciencia](#apuntes-breves), *julio de 2026* Este libro es una compilación de trabajos de divulgación sobre astronomía y matemáticas.
 
 **Del baúl de los recuerdos:**
-- [Cómo comencé con astronomía](#EOS-ASI), *julio de 2026* Otra de las historias que me gusta recordar
+- [Cómo comencé con astronomía](#eos-asi), *julio de 2026* Otra de las historias que me gusta recordar
 - [El eclipse de 1991](#eclipse-1991), *agosto de 2026* De las mejores experiencias
 
 
@@ -103,7 +103,7 @@ Esta tabla es una referencia aproximada. La correlación precisa para sitios de 
 
 ---
 
-## Apuntes breves sobre ciencia {#ApuntesBreves}
+## Apuntes breves sobre ciencia {#apuntes-breves}
 
 No tengo la fecha exacta, pero alrededor de 2010 comencé escribir artículos para medios de información, para compartir en mi muro en Facebook y a asistir aprogramas de radio y televisión para participar comentando temas de astronomía. Canal 10 fue el primero al que asistí, luego también en canal 8. Algunos artículos salieron en el Sudcaliforniano y otros en revistas digitales como Culco. En 2018, organicé mucho de este material y compilé un libro de divulgación que editó la UABCS (versión digital). Reune varios de estos trabajos junto con otros sobre temas de matemáticas (la segunda parte). 
 
@@ -127,7 +127,7 @@ Como digo en la portada de este sitio, para mí escribir es una actividad indisp
         **** Inicia el baúl de los recuerdos ****
 -->
 
-## Cómo comencé con astronomía {#EOS-ASI}
+## Cómo comencé con astronomía {#eos-asi}
 <small style="color: #999;">Julio de 2026</small>
 
 Ya se había terminado el tercer semestre en la UNISON, 1990, y estábamos principalmente no haciendo nada. Cierto día, mis compañeros del salón, físicos y matemáticos, me invitaron a ir a una conferencia de un astrónomo que acababa de llegar a la UNISON. Ahí voy de curioso, como todos. Fue una de las mejores decisiones de mi vida.

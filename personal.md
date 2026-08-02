@@ -7,10 +7,10 @@ nav_order: 5
 
 Aquí hay un poco de todo, sobre cosas que me gustan en la vida. Fotos, comentarios en pro y en contra de diversos temas.
 
-- [Guitarra](#Guitarra), *julio de 2026* La deuda permanente de algo que me encanta.
-- [Carne asada](#Carne-asada), *julio de 2026* El gran gusto compartido con familia y amigos
-- [Ciencia](#Ciencia), *julio de 2026* 
-- [DASC](#DASC), *agosto de 2026* De mis pecados y la pifia que es esa monarquía dentro de la UABCS.
+- [Guitarra](#guitarra), *julio de 2026* La deuda permanente de algo que me encanta.
+- [Carne asada](#carne-asada), *julio de 2026* El gran gusto compartido con familia y amigos
+- [Ciencia](#ciencia), *julio de 2026* 
+- [DASC](#dasc), *agosto de 2026* De mis pecados y la pifia que es esa monarquía dentro de la UABCS.
 
 ---
 

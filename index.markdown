@@ -7,7 +7,7 @@ title: Inicio
 ---
 <img src="/assets/images/manc.jpg"
      alt="Miguel Ángel Norzagaray"
-     style="float: left; margin: 0 1.5em 1em 0; border-radius: 6px; max-width: 180px;">
+     class="profile-photo">
 
 Soy Miguel Ángel (a) Pato Norzagaray Cosío, paceño (patasalada) y sudcaliforniano. Casado con la bella Irma, madre de mis dos hijos Miguel y Antonio. Soy matemático, especializado en computación, y llevo más de un cuarto de siglo en la UABCS enseñando inteligencia artificial y matemáticas.
 
@@ -36,11 +36,11 @@ Poco a poco iré contando historias diversas, cosas de las que quiero dejar cons
 ## Últimas entradas
 
 <!-- Para nuevas entradas copiar:
-- []() En ... *yyyy-mm-dd*
+- []() En ... *mmm aaaa*
 -->
 
-- [Cielos oscuros de BCS y recursos en línea](/astronomia/#cielos-bcs) En astronomía, *2026-07-26*
-- [Refinamiento iterativo (PDF)](/assets/files/docencia/AL6-RefinItera.pdf){:target="_blank" rel="noopener noreferrer"} En docencia/álgebra lineal
+- [Cielos oscuros de BCS y recursos en línea](/astronomia/#cielos-bcs) En astronomía, *jul 2026*
+- [Refinamiento iterativo (PDF)](/assets/files/docencia/AL6-RefinItera.pdf){:target="_blank" rel="noopener noreferrer"} En docencia/álgebra lineal, *oct 2023*
 
 ---
 

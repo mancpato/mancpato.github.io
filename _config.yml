@@ -29,6 +29,15 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mancpato.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 image: /assets/images/manc.jpg
+lang: es-MX
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/manc.jpg
+twitter:
+  username: mancpato
+  card: summary_large_image
 facebook_username: miguelangel.norzagaraycosio
 instagram_username: norzagaraycosio
 twitter_username: mancpato

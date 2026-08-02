@@ -8,12 +8,12 @@ nav_order: 3
 Me tienen aquí dos cosas: el gusto por aprender y el gusto por compartir. 
 
 - [Asignaturas que imparto](#asignaturas), *julio de 2026* El rango es muy amplio, casi aleatorio los primeros años.  
-- [Uso de IA en clases de matemáticas](#IA-mate) *junio de 2026* Algunas ideas sobre el uso de la tecnología en la docencia de las matemáticas y el lastre que nos detiene.
-- [Taller de matemáticas para profesores en la UABCS](#TalleMate), *enero de 2023* Espacio de trabajo al que poco a poco le hemos dado forma entre los colegas asistentes y un servidor.
+- [Uso de IA en clases de matemáticas](#ia-mate) *mayo de 2026* Algunas ideas sobre el uso de la tecnología en la docencia de las matemáticas y el lastre que nos detiene.
+- [Taller de matemáticas para profesores en la UABCS](#tallemate), *enero de 2023* Espacio de trabajo al que poco a poco le hemos dado forma entre los colegas asistentes y un servidor.
 
 **Del baúl de los recuerdos:**
-- [Cómo comencé a dar clases](#como-comencé-a-dar-clases), *julio de 2026* Un afortunado accidente.
-- [La experiencia en ESCOM](#ESCOM), *julio de 2026* Esta es una etapa llena de recuerdos gratos, historias que me gusta contar. 
+- [Cómo comencé a dar clases](#como-comence-a-dar-clases), *julio de 2026* Un afortunado accidente.
+- [La experiencia en ESCOM](#escom), *julio de 2026* Esta es una etapa llena de recuerdos gratos, historias que me gusta contar. 
   
 ---
 
@@ -40,7 +40,7 @@ Me tienen aquí dos cosas: el gusto por aprender y el gusto por compartir.
 ### Teoría de la Computación
 
 - [Notas de clase](/assets/files/docencia/NotasTC.pdf){:target="_blank" rel="noopener noreferrer"}
-- [Fundamentos matemáticos]
+- Fundamentos matemáticos
 
 **Máquina de Turing Universal (restringida)**
 
@@ -52,7 +52,7 @@ Me tienen aquí dos cosas: el gusto por aprender y el gusto por compartir.
 ---
 
 
-## Uso de IA en matemáticas {#IA-mate}
+## Uso de IA en clases de matemáticas {#ia-mate}
 <small style="color: #999;">Mayo de 2026</small>
 
 **El cambio que ya empezó: matemáticas, programación e IA en la educación superior**
@@ -120,10 +120,10 @@ La IA no nos obliga a responder esta pregunta. Nos obliga a dejar de ignorarla.
 {% include volver-seccion.html url="/docencia/" %}
 
 ---
-## Taller de matemáticas para profesores {#TalleMate}
+## Taller de matemáticas para profesores {#tallemate}
 <small style="color: #999;">Enero de 2023</small>
 
-Desde 2012 he comenzado a escribir algunas ideas sobre la docencia de las matemáticas y comenzó mi interés por trabajar estos temas con profesores del DASC, pero no convencí a cada jefe en turno (Mónica-Andrés). Fue hasta 2023 cuando pude impartir el primer taller de matematicas para profesores de la UABCS, cosa que le agradezco a Jaime Suárez. 
+Desde 2012 he comenzado a escribir algunas ideas sobre la docencia de las matemáticas y comenzó mi interés por trabajar estos temas con profesores del DASC, pero no convencí a cada jefe en turno (Mónica-Andrés). Fue hasta 2023 cuando pude impartir el primer taller de matemáticas para profesores de la UABCS, cosa que le agradezco a Jaime Suárez. 
 
 Hay varias ideas que han orientado y poco a poco cambiado el rumbo del taller. En especial los siguientes tres puntos:
 - **Análisi y demostraciones para desarrollar habilidades intelectuales.** El pensamiento crítico, la capacidad de análisis y la abstracción son características deseables en un profesional competente, capaz de adaptar sus metodologías y herramientas a un mercado laboral que cambia y se moderniza. Esas características se desarrollan pensando, abstrayendo, cosas que suelen practicarse en cursos de matemáticas que no son sólo maquila de ejercicios, sino análisis de conceptos, en especial el estudio de demostraciones que ayudan a razonar y comprender la escencia de las herramientas abstractas. Los cursos donde la mayor parte del tiempo consiste en resolver ejercicios mecánicos no cumplen este papel.
@@ -140,7 +140,7 @@ En síntesis, estos tres puntos, el uso de las matemáticas para desarrollar hab
         **** Inicia el baúl de los recuerdos ****
 -->
 
-## Cómo comencé a dar clases {#como-comencé-a-dar-clases}
+## Cómo comencé a dar clases {#como-comence-a-dar-clases}
 
 <small style="color: #999;">Verano de 1994</small>
 
@@ -151,7 +151,7 @@ Me inicié como docente de nivel superior en la Escuela Superior de Cómputo del
 
 ---
 
-## La experiencia en ESCOM {#ESCOM}
+## La experiencia en ESCOM {#escom}
 <small style="color: #999;">Julio de 2026</small>
 
 En 1993 terminé la carrera de matemáticas en la UNISON y de inmediato me fui al posgrado al CINVESTAV. Luego de un año de créditos, el verano siguiente comencé a dar clases de métodos numéricos a uno de los dos grupos de la primera generación de estudiantes de la nueva Escuela Superior de Cómputo del IPN.
