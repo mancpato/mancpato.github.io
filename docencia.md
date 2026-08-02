@@ -8,8 +8,8 @@ nav_order: 3
 Me tienen aquí dos cosas: el gusto por aprender y el gusto por compartir. 
 
 - [Asignaturas que imparto](#asignaturas), *julio de 2026* El rango es muy amplio, casi aleatorio los primeros años.  
-- [Uso de IA en clases de matemáticas](#IA-mate) *junio de 2026* Algunas ideas sobre el uso de la tecnología en la docencia de las mateáticas y el lastre que nos detiene.
-- [Taller de matemáticas para profesores en la UABCS](#TalleMate), *julio de 2026* Inició en 2023 y poco a poco le hemos dado forma entre los asistentes y un servidor.
+- [Uso de IA en clases de matemáticas](#IA-mate) *junio de 2026* Algunas ideas sobre el uso de la tecnología en la docencia de las matemáticas y el lastre que nos detiene.
+- [Taller de matemáticas para profesores en la UABCS](#TalleMate), *enero de 2023* Espacio de trabajo al que poco a poco le hemos dado forma entre los colegas asistentes y un servidor.
 
 **Del baúl de los recuerdos:**
 - [Cómo comencé a dar clases](#como-comencé-a-dar-clases), *julio de 2026* Un afortunado accidente.
@@ -55,7 +55,7 @@ Me tienen aquí dos cosas: el gusto por aprender y el gusto por compartir.
 ## Uso de IA en matemáticas {#IA-mate}
 <small style="color: #999;">Mayo de 2026</small>
 
-**El cambio que ya empezó: matemáticas, programación e IA en la educación superiror**
+**El cambio que ya empezó: matemáticas, programación e IA en la educación superior**
 *Reflexión para discusión académica*
 
 ### El catalizador y la resistencia
@@ -121,11 +121,16 @@ La IA no nos obliga a responder esta pregunta. Nos obliga a dejar de ignorarla.
 
 ---
 ## Taller de matemáticas para profesores {#TalleMate}
-<small style="color: #999;">Julio de 2026</small
+<small style="color: #999;">Enero de 2023</small>
 
-Desde 2012 he comenzado a escribir algunas ideas sobre la docencia de las matemáticas y comenzó mi interés por trabajar estos temas con profesores del DASC, pero no convencí a cada jefe en turno (Mónica-Andrés). Fue hasta 2023 cuando pude impartir el primer taller de matematicas para profesores de la UABCS. 
+Desde 2012 he comenzado a escribir algunas ideas sobre la docencia de las matemáticas y comenzó mi interés por trabajar estos temas con profesores del DASC, pero no convencí a cada jefe en turno (Mónica-Andrés). Fue hasta 2023 cuando pude impartir el primer taller de matematicas para profesores de la UABCS, cosa que le agradezco a Jaime Suárez. 
 
+Hay varias ideas que han orientado y poco a poco cambiado el rumbo del taller. En especial los siguientes tres puntos:
+- **Análisi y demostraciones para desarrollar habilidades intelectuales.** El pensamiento crítico, la capacidad de análisis y la abstracción son características deseables en un profesional competente, capaz de adaptar sus metodologías y herramientas a un mercado laboral que cambia y se moderniza. Esas características se desarrollan pensando, abstrayendo, cosas que suelen practicarse en cursos de matemáticas que no son sólo maquila de ejercicios, sino análisis de conceptos, en especial el estudio de demostraciones que ayudan a razonar y comprender la escencia de las herramientas abstractas. Los cursos donde la mayor parte del tiempo consiste en resolver ejercicios mecánicos no cumplen este papel.
+- **Capacitación dirigida para profesores de matemáticas** En BCS, la gran mayoría de los profesores de matemáticas no son matemáticos. SOn ingenieros de alguna disciplina, biólogos, economistas, electrónicos, cviles, ... Los que somos licenciados en matemáticas somos muy escasos. Como siempre ejemplifico, no es igual a que yo me ponga a estudiar y de un curso de química o biología a que el curso lo de un químico o un biólogo. El contexto que se maneja es muy distinto. Lo mismo pasa con las matemáticas: el contexto, la relación entre áreas distintas y el buen uso de las demostraciones requiere que el profesor de matemáticas logre ver los temas de la asignatura que imparte desde la perspectiva de las matemáticas.
+- **Uso adecuado de tecnología en cursos de matemáticas** Este es un tema muy satanizado. La tecnología llegó para quedarse: desde finales de la década de 1980 ya se contaba con software que facilitaba muchos cálculos y permitía reducir el tiempo de trabajo. Pocos países adoptaron la idea desde entonces. Ya décadas antes había ocurrido lo mismo al popularizarse el uso de calculadoras, hubo una enorme resistencia a su uso en el aula. Eso sí, las calculadoras primero y luego el software se incorporaron de inmediato a la práctica profesional, pero la resistencia de las plantas docentes es muy alta a cambiar de métodos de trabajo. Software más sofisticado y útil aún llegó en las primeras dos décadas de este siglo, pero los cursos de matemáticas siguieron exigiendo mucha labor manual. En 2022, con la llegada de ChatGPT y otros LLM, el problema, que existía desde hace más de 4 décadas se hizo más evidente aún y exige un cambio en la manera de trabajar en el aula.
 
+En síntesis, estos tres puntos, el uso de las matemáticas para desarrollar habilidades intelectuales, profesores que conozcan más a fondo los conceptos y las técnicas matemáticas para explotarlas con ese objetivo y el uso de tecnología llevaron el taller de matemáticas a lo que es hoy.
 
 {% include volver-seccion.html url="/docencia/" %}
 
@@ -137,7 +142,12 @@ Desde 2012 he comenzado a escribir algunas ideas sobre la docencia de las matem�
 
 ## Cómo comencé a dar clases {#como-comencé-a-dar-clases}
 
+<small style="color: #999;">Verano de 1994</small>
+
 Me inicié como docente de nivel superior en la Escuela Superior de Cómputo del IPN, en el verano de 1994 y en 1999 me cambié a la UABCS. Aquí hay materiales, reflexiones y experiencias enseñando matemáticas, especialmente en la UABCS. Dos grandes apartados: sobre las asignaturas regulares que imparto y el taller para profesores de matemáticas de la UABCS.
+
+
+{% include volver-seccion.html url="/docencia/" %}
 
 ---
 
