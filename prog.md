@@ -8,7 +8,7 @@ nav_order: 2
 Notas, proyectos y temas afines. La llegada de los LLM ha permitido que rescate mucho código que he escrito durante décadas, organizando mejor en repositorios de [github](https://github.com/mancpato) cuando creo que vale la pena.
 
 **Algunos proyectos**
-- [GradienViz](#gradienviz), *enero de 2026* Visualizador de optimización por gradiente, con raíces en programación numérica. Entrada completa en la sección de IA.
+- [GradienViz](#gradienviz), *febrero de 2026* Visualizador de optimización por gradiente, con raíces en programación numérica. Entrada completa en la sección de IA.
 - [paranoia2](#paranoia2), un verificador de la norma IEEE 754 de 2019. 
 - [CUDA](#cuda), verano de 2024, el inicio de programas de alto rendimiento.
 - [Monografía de mi sabático](#mono), trabajo comenzado en la UNISON en 2008 y terminado en la UABCS. Presenté la monografía al regresar, pero continué desarrollándolo unos años más hasta darle la forma que quería.

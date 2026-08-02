@@ -154,8 +154,6 @@ Puede usarse directamente en [mancpato.github.io/GradienViz](https://mancpato.gi
 
 El repositorio se encuentra en [github.com/mancpato/GradienViz](https://github.com/mancpato/GradienViz). 
 
-Se puede ejecutar directamente aciendo click aquí: [GradienViz]()
-
 {% include volver-seccion.html url="/ia/" %}
 
 ---
