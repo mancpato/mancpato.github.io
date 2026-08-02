@@ -149,6 +149,13 @@ Desde el punto de vista matemático, hay tres perspectivas para resolverlo:
 - con álgebra lineal, mi preferida y
 - con estadística inferencial.
 
+
+Puede usarse directamente en [mancpato.github.io/GradienViz](https://mancpato.github.io/GradienViz/), no requiere instalación. Espero que sea de utilidad en cursos de cálculo diferencial, álgebra lineal, estadística, optimización, programación lineal e IA.
+
+El repositorio se encuentra en [github.com/mancpato/GradienViz](https://github.com/mancpato/GradienViz). 
+
+Se puede ejecutar directamente aciendo click aquí: [GradienViz]()
+
 {% include volver-seccion.html url="/ia/" %}
 
 ---

@@ -43,9 +43,18 @@ Explorador interactivo de grafos no isomorfos generados por nauty/geng. Es una h
 
 <img src="{{ site.baseurl }}/assets/images/prog/NautyNav.png" alt="Pantalla de ejemplo" width="600">
 
+**Funcionalidades**
+- Panel 1 — Grafo G con layout Fruchterman-Reingold. Hover sobre un vértice muestra su vecindad N(v) y grado; click fija la selección.
+- Panel 2 — Datos básicos, clasificación automática (Kₙ, Cₙ, Pₙ, K₁,ₙ₋₁, Kᵣ,ₛ, Wₙ) e invariantes métricos (diámetro, radio, cintura, centro, triángulos).
+- Panel 3 — Matriz de adyacencia interactiva. Hover sobre una celda resalta la arista correspondiente en Panel 1.
+- Panel 4 — Grafo complemento G̅, con opción de mismo layout que G o layout FR independiente.
+Navegación en el slider (arriba), botones ◄◄ ◄ ► ►► y aleatorio; filtro para grafos conexos.
+
 Permite navegar visualmente por todos los grafos no isomorfos de orden n (4 ≤ n ≤ 9), mostrando en tiempo real sus propiedades estructurales y algebraicas. 
 
-El repositorio se encuentra en [github.com/mancpato/NautyNav](https://github.com/mancpato/NautyNav). Puede ser de utilidad en cursos de Matemáticas Discretas o Teoría de Gráficas.
+Puede usarse directamente en [mancpato.github.io/NautyNav](https://mancpato.github.io/NautyNav/), no requiere instalación. Puede ser de utilidad en cursos de Matemáticas Discretas o Teoría de Gráficas.
+
+El repositorio se encuentra en [github.com/mancpato/NautyNav](https://github.com/mancpato/NautyNav). 
 
 Era fácil de hacer, como subproducto de un proyecto mayor que permite hacer búsquedas exhaustivas para diversos proyectos.
 
@@ -102,7 +111,10 @@ conectividad como la información de cruces y orientación en una sola estructur
 
 <img src="{{ site.baseurl }}/assets/images/prog/KnotViz.png" alt="Pantalla de ejemplo" width="600">
 
-El repositorio se encuentra en [github.com/mancpato/KnotViz](https://github.com/mancpato/KnotViz). Espero que sea de utilidad en cursos de teoría de nudos, aunque en la UABCS no hay una asignatura formal sobre el tema.
+
+Puede usarse directamente en [mancpato.github.io/KnotViz](https://mancpato.github.io/KnotViz/), no requiere instalación. Espero que sea de utilidad en cursos de teoría de nudos, aunque en la UABCS no hay una asignatura sobre el tema.
+
+El repositorio se encuentra en [github.com/mancpato/KnotViz](https://github.com/mancpato/KnotViz). 
 
 {% include volver-seccion.html url="/programacion/" %}
 
@@ -203,6 +215,9 @@ En ese texto, faltó la experiencia con CUDA.
 <small style="color: #999;">1992/1993</small>
 
 *(en construcción)*
+
+**P**rograma de **A**nálisis de **R**edes fue el nombre que nos gustó a quienes lo desarrollamos. 
+Fuimos 4 estudiantes de matemáticas los que nos animamos a tomar los cursos optativos que Pedro Flores ofreció sobre optimización: Edelmira, Irene, Myriam y yo., De la primera letra de nuestros nombres sale **EIMM**, con lo que tenemos el nombre completo del proyecto. Creo que implementamos en C los algoritmos Prim, Kruskal, Floyd y Dijkstra. No teniendo formación como desarrolladores de sistemas, creo que fue una buena hazaña de esa época, fue mucho qué aprender. El sistema de menúes en modo texto lo hice yo y se pegaron así los 4 programas individuales con un editor en modo texto para las redes y el manejo de archivos. Creo que ese fue mi primer gran programa.
 
 {% include volver-seccion.html url="/programacion/" %}
 
