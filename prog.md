@@ -39,7 +39,7 @@ Ver la entrada completa, con capturas y más detalle, en la [sección de IA](/ia
 ### NautyNav {#nauty-nav}
 <small style="color: #999;">Agosto de 2026</small>
 
-Explorador interactivo de grafos no isomorfos generados por nauty/geng. Es una herramienta didáctica para cursos de teoría de grafos y matemáticas discretas. 
+Explorador interactivo de grafos no isomorfos generados por nauty/geng. Es una herramienta didáctica para cursos de teoría de grafos y matemáticas discretas. Implementada en p5.js como un único archivo HTML autocontenido — no requiere instalación ni servidor.
 
 <img src="{{ site.baseurl }}/assets/images/prog/NautyNav.png" alt="Pantalla de ejemplo" width="600">
 
@@ -52,12 +52,11 @@ Navegación en el slider (arriba), botones ◄◄ ◄ ► ►► y aleatorio; fi
 
 Permite navegar visualmente por todos los grafos no isomorfos de orden n (4 ≤ n ≤ 9), mostrando en tiempo real sus propiedades estructurales y algebraicas. 
 
-Puede usarse directamente en [mancpato.github.io/NautyNav](https://mancpato.github.io/NautyNav/), no requiere instalación. Puede ser de utilidad en cursos de Matemáticas Discretas o Teoría de Gráficas.
+Puede usarse directamente en [mancpato.github.io/NautyNav](https://mancpato.github.io/NautyNav/), no requiere instalación. Para usarlo, empieza eligiendo la cantidad de nodos *n* en la parte de arriba y luego usa el deslizador o las flechas para navegar entre grafos.
 
-El repositorio se encuentra en [github.com/mancpato/NautyNav](https://github.com/mancpato/NautyNav). 
+Puede ser de utilidad en cursos de Matemáticas Discretas o Teoría de Gráficas. El repositorio se encuentra en [github.com/mancpato/NautyNav](https://github.com/mancpato/NautyNav). 
 
 Era fácil de hacer, como subproducto de un proyecto mayor que permite hacer búsquedas exhaustivas para diversos proyectos.
-
 
 {% include volver-seccion.html url="/programacion/" %}
 
@@ -90,7 +89,7 @@ Este fue de mis primero programas optimizados con IA, que hizo una lookup table 
 
 Visualizador interactivo de nudos y algunos de sus invariantes. Los nudos (matemáticos y cotidianos) siempre me han gustado. Pero fue hasta la pandemia cuando leí con un poco más de seriedad el tema matemático, y no estaba preparado para tanto bagaje teórico, así que me conformé con muy poco.
 
-Pero mi amiga Gaby Hinojosa publicó un paper que me hizo recordar estos intentos y decidí dejar un poco los grafos para indagar sobre estructuras para representar y operar con nudos. No tenía idea del camino tan complicado que estaba tomando, comparado con las matrices de adyacencia de grafos representadas con operaciones bit a bit.
+Pero mi amiga de la UNISON Gaby Hinojosa publicó un paper que me hizo recordar estos intentos y decidí dejar un poco los grafos para indagar sobre estructuras para representar y operar con nudos. No tenía idea del camino tan complicado que estaba tomando, comparado con las matrices de adyacencia de grafos representadas con operaciones bit a bit.
 
 Un nudo es una curva cerrada en el espacio tridimensional y su estudio se basa  en la representación de diagramas planos que capturan su estructura topológica. Para representar un nudo es necesario una estructura de datos que pueda codificar tanto la conectividad entre los segmentos del nudo como la información de los cruces (quién pasa por encima y quién por debajo) y la orientación local en cada cruce (la dirección del trazo). 
 
@@ -108,6 +107,8 @@ Hay tres representaciones canónicas clásicas:
 
 Sin embargo, para algoritmos más avanzados, es útil una representación más rica que combine estas capas. La idea es representar el nudo como un grafo planar embebido con un sistema de rotación que codifica la orientación local en cada vértice. Esto permite manejar de manera eficiente tanto la 
 conectividad como la información de cruces y orientación en una sola estructura de datos. Debo decir que ha sido un verdadero dolor de cabeza, pese a la ayuda de las IAs.
+
+Implementada en p5.js como un único archivo HTML autocontenido — no requiere instalación ni servidor.
 
 <img src="{{ site.baseurl }}/assets/images/prog/KnotViz.png" alt="Pantalla de ejemplo" width="600">
 

@@ -150,9 +150,9 @@ Desde el punto de vista matemático, hay tres perspectivas para resolverlo:
 - con estadística inferencial.
 
 
-Puede usarse directamente en [mancpato.github.io/GradienViz](https://mancpato.github.io/GradienViz/), no requiere instalación. Espero que sea de utilidad en cursos de cálculo diferencial, álgebra lineal, estadística, optimización, programación lineal e IA.
+Puede usarse directamente en [mancpato.github.io/GradienViz](https://mancpato.github.io/GradienViz/), no requiere instalación. Basta agregar puntos en el panel blanco con el mouse, al menos 3 y luego click en entrenar. 
 
-El repositorio se encuentra en [github.com/mancpato/GradienViz](https://github.com/mancpato/GradienViz). 
+Espero que sea de utilidad en cursos de cálculo diferencial, álgebra lineal, estadística, optimización, programación lineal e IA. Para los interesados, el repositorio con el código fuente se encuentra en [github.com/mancpato/GradienViz](https://github.com/mancpato/GradienViz). 
 
 {% include volver-seccion.html url="/ia/" %}
 
