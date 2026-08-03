@@ -163,16 +163,7 @@ La diferencia entre ambas integrales no es computacional sino epistemológica: *
 
 <img src="{{ site.baseurl }}/assets/images/prog/Riemann-Lebesgue.png" alt="Pantalla de ejemplo" width="700">
 
-
-**Controles**
-| Control | Acción |
-|---------|--------|
-| Slider **n** | Particiones: eje X en Riemann / eje Y en Lebesgue (2–40) |
-| Slider **m** | Subdivisiones por partición — mayor precisión (1–20) |
-| **← →** | Ajuste fino de n |
-| **↑ ↓** | Ajuste fino de m |
-| Botones de función | Selecciona la función activa |
-| **[ mostrar sup / inf ]** | Activa sumas superior e inferior en Riemann |
+El README del repositorio explica cómo se usa y las funciones incluidas.
 
 **Cross-highlight (hover)** Es el momento central del simulador: la conexión entre dominio y codominio se vuelve visible en tiempo real. Pasar el mouse sobre un panel resalta el elemento correspondiente en el otro:
 - **Hover en Riemann** → ilumina la banda k en Lebesgue donde cae f(x)
@@ -181,6 +172,7 @@ La diferencia entre ambas integrales no es computacional sino epistemológica: *
 El repositorio se encuentra en [github.com/mancpato/01-L-R](https://github.com/mancpato/01-L-R). En la UABCS no se dan cursos de cálculo tan avanzados, pero me sirvió para entender mejor el tema. Si en algún momento lo uso como parte de una introducción para la Teoría del Lenguaje Singular, estaré muy contento. Por lo pronto, puede ser útil para profesores de análisis en carreras de matemáticas.
 
 
+{% include volver-seccion.html url="/programacion/" %}
 
 ---
 
@@ -190,6 +182,9 @@ El repositorio se encuentra en [github.com/mancpato/01-L-R](https://github.com/m
 Había dinero de un proyecto que se tenía que usar, ya tenía que camibiar de Laptop yeso llevó a comprar una Victus con tarjeta gráfica RTX 3050. Al inicio, todo normal. Pero luego, mis hijos la usaron para jugar. Máquina gamer a fin de cuentas, Halo, Minecraft, cualquier juego moderno se veía de lujo. Entonces me cayó el 20 de que estaba desaprovechando un GPU, así que me di a la tarea de aprender a programarlo.
 
 Desde el *Hola mundo* para CUDA (el modelo y herramientas de programación de NVIDIA) me di cuenta de que eso era pensar distinto.
+
+
+{% include volver-seccion.html url="/programacion/" %}
 
 ---
 
