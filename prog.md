@@ -10,6 +10,7 @@ Notas, proyectos y temas afines. La llegada de los LLM ha permitido que rescate 
 **Algunos proyectos**
 - [GradienViz](#gradienviz), *febrero de 2026* Visualizador de optimización por gradiente, con raíces en programación numérica. Entrada completa en la sección de IA.
 - [paranoia2](#paranoia2), un verificador de la norma IEEE 754 de 2019. 
+- [Lebesgue](#Lebesgue), un visualizador de la integral de Lebesgue.
 - [CUDA](#cuda), verano de 2024, el inicio de programas de alto rendimiento.
 - [Monografía de mi sabático](#mono), trabajo comenzado en la UNISON en 2008 y terminado en la UABCS. Presenté la monografía al regresar, pero continué desarrollándolo unos años más hasta darle la forma que quería.
 
@@ -146,6 +147,40 @@ El desarrollo contó con la invaluable y extensa asistencia de Claude (Anthropic
 La iniciativa, idea, interfaces internas, decisiones de diseño, dirección y detalles de documentación son míos.
 
 {% include volver-seccion.html url="/programacion/" %}
+
+---
+
+### Lebesgue {#Lebesgue}
+<small style="color: #999;">Abril de 2026</small>
+
+En los últimos semestres de la licenciatura en matemáticas conocí la **integral de Lebesgue** y nunca más la volví a usar. Creo recordar que ni le entendí del todo y cada que Lebesgue aprecía en algún documento era un pendiente. Cuando en 2022, regresando de pandemia, me enteré de la **Teoría del Aprendizaje Singular** (Watanabe), me sorprendió ver a Lebesgue metido como técnica imprescindible de integración y en ese momento se despertó mi curiosidad. 
+
+Busqué recursos en Geogebra sobre Lebesgue pero no encontré nada, Geogebra está muy orientado a la integral de Reimann, hasta funciones especiales tiene para eso. No quedó más remedio que hacer una propia. Me decidí por hacer una en **Processing** (un dialecto de javascript), una herramienta que me encanta y que he usado mucho para simular algoritmos para IA. Diseñé una interfaz para comparar una con otra y seleccioné las funciones que permitieran ver mejor las diferencias.
+
+El reto mayor es que la comparación luce cuando la partición involucra conjuntos numerables y no numerables, pero ne la computadora, la aritmética de punto flotante limita a sólo un subconjunto finito de racionales distribuidos logarítmicamente, pero eso no tiene por qué detener un programa que hace una simulación.
+
+La diferencia entre ambas integrales no es computacional sino epistemológica: **Riemann particiona el dominio (eje X), Lebesgue particiona el codominio (eje Y).** Este simulador hace esa diferencia visible e interactiva.
+
+<img src="{{ site.baseurl }}/assets/images/prog/Riemann-Lebesgue.png" alt="Pantalla de ejemplo" width="700">
+
+
+**Controles**
+| Control | Acción |
+|---------|--------|
+| Slider **n** | Particiones: eje X en Riemann / eje Y en Lebesgue (2–40) |
+| Slider **m** | Subdivisiones por partición — mayor precisión (1–20) |
+| **← →** | Ajuste fino de n |
+| **↑ ↓** | Ajuste fino de m |
+| Botones de función | Selecciona la función activa |
+| **[ mostrar sup / inf ]** | Activa sumas superior e inferior en Riemann |
+
+**Cross-highlight (hover)** Es el momento central del simulador: la conexión entre dominio y codominio se vuelve visible en tiempo real. Pasar el mouse sobre un panel resalta el elemento correspondiente en el otro:
+- **Hover en Riemann** → ilumina la banda k en Lebesgue donde cae f(x)
+- **Hover en Lebesgue** → ilumina todos los rectángulos en Riemann cuyo f(x_mid) cae en esa banda
+
+El repositorio se encuentra en [github.com/mancpato/01-L-R](https://github.com/mancpato/01-L-R). En la UABCS no se dan cursos de cálculo tan avanzados, pero me sirvió para entender mejor el tema. Si en algún momento lo uso como parte de una introducción para la Teoría del Lenguaje Singular, estaré muy contento. Por lo pronto, puede ser útil para profesores de análisis en carreras de matemáticas.
+
+
 
 ---
 
