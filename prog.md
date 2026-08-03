@@ -10,7 +10,7 @@ Notas, proyectos y temas afines. La llegada de los LLM ha permitido que rescate 
 **Algunos proyectos**
 - [GradienViz](#gradienviz), *febrero de 2026* Visualizador de optimización por gradiente, con raíces en programación numérica. Entrada completa en la sección de IA.
 - [paranoia2](#paranoia2), un verificador de la norma IEEE 754 de 2019. 
-- [Lebesgue](#Lebesgue), un visualizador de la integral de Lebesgue.
+- [Lebesgue](#Lebesgue), un comparador visual de las integrales de Riemann y Lebesgue.
 - [CUDA](#cuda), verano de 2024, el inicio de programas de alto rendimiento.
 - [Monografía de mi sabático](#mono), trabajo comenzado en la UNISON en 2008 y terminado en la UABCS. Presenté la monografía al regresar, pero continué desarrollándolo unos años más hasta darle la forma que quería.
 
