@@ -162,7 +162,36 @@ Espero que sea de utilidad en cursos de cálculo diferencial, álgebra lineal, e
 
 <small style="color: #999;">Mayo de 2026</small>
 
-*(en construcción)*
+(*Proyecto en desarrollo*)
+
+<img src="{{ site.baseurl }}/assets/images/ia/LogoConsensus.png" 
+     alt="Logo" 
+     style="float: left; width: 80px; margin: 0 15px 5px 0; 
+            border-radius: 4px; padding: 2px;"> **Consensus** es un sistema de evaluación iterativa multi-agente que envía un
+mismo prompt a varios modelos de lenguaje de distintos proveedores y los hace
+evaluarse mutuamente hasta alcanzar un consenso colectivo. La rúbrica de
+evaluación no se impone externamente sino que emerge de los propios modelos.
+Cada agente evalúa las respuestas ajenas de forma anónima y en orden aleatorio,
+con mitigaciones explícitas para los sesgos documentados de autopreferencia,
+posición y verbosidad. Las puntuaciones se agregan mediante Mediana Geométrica,
+robusta ante evaluadores atípicos.
+<div style="clear: both;"></div>
+
+Cuando hay desacuerdo, el sistema entra en rondas de debate tipo Delphi: cada
+modelo recibe los argumentos más divergentes del grupo y se le pide integrarlos
+antes de revisar su posición. El proceso itera hasta convergencia. El resultado
+no es simplemente la "mejor" respuesta, sino un ranking fundamentado en
+deliberación colectiva — con trazabilidad del nivel de consenso alcanzado y de
+dónde persistió el desacuerdo.
+
+**Arquitectura:**
+<img src="{{ site.baseurl }}/assets/images/ia/Consensus.png" alt="Pantalla de ejemplo" width="700">
+
+### Requisitos
+- Python 3.10 o superior
+- Claves de API para los modelos que vayas a usar
+
+*Repositorio disponible cuando esté terminado.*
 
 {% include volver-seccion.html url="/ia/" %}
 
@@ -176,11 +205,15 @@ Espero que sea de utilidad en cursos de cálculo diferencial, álgebra lineal, e
 
 <small style="color: #999;">Enero de 1994</small>
 
-Mi posgrado fue en IA, particularmente resolviendo un problema de visión por computadora, haciendo uso del enfoque lógico-combinatorio del reconocimiento de patrones. Esa etapa del CINVESTAV fue de gran aprendizaje. Los cursos de IA y el de lógica matemática se convirtieron en pilares para muchas otras cosas.
+Mi posgrado fue en IA, particularmente resolviendo un problema de visión por computadora, haciendo uso del enfoque lógico-combinatorio del reconocimiento de patrones. Esa etapa del CINVESTAV fue de gran aprendizaje. Simular visión artificial es complicado porque no sabemos cómo vemos, es completamente automático, así que no podemos decirle a una máquina como lo hacemos, hay que inventar métodos.
 
-El acercamiento con la teoría de la computación (lenguajes formales y autómatas) me ayudó a redondear todo este asunto. En la UABCS me ha tocado impartir más de 20 veces cursos que tienen que ver con IA y su estudio lo llevo paralelo al de la programación numérica.
+Todo comienza con la adquisición y preprocesamiento de la imagen, luego la segmentación y extracción de características y pasar a construiri índices de búsqueda en bases de objetos para tratar de identificarlos. Procesamiento Digital de Imágenes lo llevé con Humberto Sossa y Reconocimiento de Patrones con José Ruiz Schulcloper. Fueron buenas y productivas épocas de trabajo en los seminarios del CINVESTA.
 
-En este momento, mi trabajo (*diversión*) principal es el desarrollo de lo que llamo SuiteRNA, un conjunto de visualizadores de redes neuronales que permiten explorar su comportamiento al variar algún hiperparámetro. No se conforma con redes tradicionales.
+Los demostradores automáticos de teoremos desarrollados en Lógica Matemática, con Guillermo Morales, aportaron otra perspectiva de la IA. Este, junto con el de Inteligencia Artificial  se convirtieron en pilares para muchas otras cosas.
+
+El curso de teoría de la computación (lenguajes formales y autómatas), con Feliú, y dar esa asignatura en ESCOM, me ayudó a redondear todo este asunto. En la UABCS me ha tocado impartir más de 20 veces cursos que tienen que ver con IA y su estudio lo llevo paralelo al de la programación numérica.
+
+En este momento, mi trabajo (*diversión*) principal es el desarrollo de lo que llamo SuiteRNA, un conjunto de visualizadores de redes neuronales que permiten explorar su comportamiento al variar algún hiperparámetro. No se conforma con redes tradicionales ni con la teoría matemática clásica.
 
 {% include volver-seccion.html url="/ia/" %}
 
