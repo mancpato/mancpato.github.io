@@ -11,9 +11,9 @@ title: Inicio
 
 Soy Miguel Ángel (a) Pato Norzagaray Cosío, paceño (patasalada) y sudcaliforniano. Casado con la bella Irma, madre de mis dos hijos Miguel y Antonio. Soy matemático, especializado en computación, y llevo más de un cuarto de siglo en la UABCS enseñando inteligencia artificial y matemáticas.
 
-Estudié la licenciatura de matemáticas en la [UNISON](https://www.unison.mx/) y luego en el [CINVESTAV](https://www.cinvestav.mx/), donde me especialicé en computación, especialmente en procesamiento digital de imágenes y reconocimiento de patrones (IA). Mis intereses actuales se mantienen en una intersección entre matemáticas, programación numérica, IA y entender las cosas a fondo para poder explicarlas bien. 
+Estudié la licenciatura de matemáticas en la [UNISON](https://www.unison.mx/) y luego en el [CINVESTAV](https://www.cinvestav.mx/), donde se formalizaron mis conocimientos de computación, especialmente en procesamiento digital de imágenes y reconocimiento de patrones (IA). Mis intereses actuales se mantienen en una intersección entre matemáticas, programación numérica, IA y entender las cosas a fondo para poder explicarlas bien. 
 
-Mi forma de trabajar sigue siempre el mismo camino: investigar un tema en profundidad, dominar sus detalles finos, diseñar la mejor manera de transmitirlo y ponerlo en práctica. En ese proceso siempre surgen más preguntas interesantes que me ponen de nuevo a investigar. Escribir es parte de ese proceso: explicar por escrito me ayuda a organizar ideas, y de eso trata también esta página.
+Mi forma de trabajar sigue siempre el mismo camino: investigar un tema en profundidad, dominar sus detalles finos, diseñar la mejor manera de transmitirlo y ponerlo en práctica. En ese proceso siempre surgen más preguntas interesantes que me ponen de nuevo a investigar. Escribir es parte de ese proceso: **explicar por escrito me ayuda a organizar ideas**, y de eso trata también esta página.
 
 Soy miembro de la [Sociedad Astronómica de Mira](https://www.facebook.com/SociedadAstronomicaMira). Buena parte de nuestras actividades es hacer divulgación científica en La Paz junto con Irma y otros amigos. También buscamos preservar la calidad del cielo oscuro en BCS y hemos estado midiendo su magnitud fotométrica.
 
@@ -29,7 +29,9 @@ Soy miembro de la [Sociedad Astronómica de Mira](https://www.facebook.com/Socie
 
 En este sitio (permanentemente en construcción) voy dejando notas, programas y apuntes que elaboro generalmente por el placer de entender, y que igual le sirven a alguien más. De estos intereses y algo más encontrarán información en las secciones accesibles desde las ligas superiores.
 
-Poco a poco iré contando historias diversas, cosas de las que quiero dejar constancia.
+Poco a poco iré contando historias diversas, cosas de las que quiero dejar constancia, y compartiendo recursos académicos, que epero sean útiles a alumnos, colegas docentes y curiosos.
+
+:-)
 
 ---
 

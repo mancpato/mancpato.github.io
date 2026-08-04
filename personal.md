@@ -7,10 +7,10 @@ nav_order: 5
 
 Aquí hay un poco de todo, sobre cosas que me gustan en la vida. Fotos, comentarios en pro y en contra de diversos temas.
 
-- [Guitarra](#guitarra), *julio de 2026* La deuda permanente de algo que me encanta.
-- [Carne asada](#carne-asada), *julio de 2026* El gran gusto compartido con familia y amigos
-- [Ciencia](#ciencia), *julio de 2026* Cómo comencé con esta pasión.
-- [DASC](#dasc), *agosto de 2026* De mis pecados y la pifia que es esa monarquía dentro de la UABCS.
+- [Guitarra](#guitarra), La deuda permanente de algo que me encanta.
+- [Carne asada](#carne-asada), El gran gusto compartido con familia y amigos
+- [Ciencia](#ciencia),  Cómo comencé con esta pasión.
+- [DASC](#dasc),  De mis pecados y la pifia que es esa monarquía dentro de la UABCS.
 
 ---
 
@@ -51,7 +51,7 @@ En la secundaria estuve en electricidad, en la prepa en Técnico Laboratorista Q
 
 <small style="color: #999;">Agosto de 2026</small>     
 
-Ya cumplí 27 años en la UABCS, tiempo suficiente para equivocarme muchas veces y para ser testigo demasiado silencioso de la mala administración del Departamento de Sistemas Computacionales. De esto hay mucho qué decir.
+Ya cumplí 27 años en la UABCS, tiempo suficiente para equivocarme muchas veces y para ser testigo demasiado silencioso de la mala administración del Departamento de Sistemas Computacionales. De esto hay mucho qué decir, paciencia.
 
 
 {% include volver-seccion.html url="/personal/" %}
