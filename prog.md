@@ -9,10 +9,10 @@ Notas, proyectos y temas afines. La llegada de los LLM ha permitido que rescate 
 
 **Algunos proyectos**
 - [GradienViz](#gradienviz), *febrero de 2026* Visualizador de optimización por gradiente, con raíces en programación numérica. Entrada completa en la sección de IA.
-- [paranoia2](#paranoia2), un verificador de la norma IEEE 754 de 2019. 
-- [Lebesgue](#Lebesgue), un comparador visual de las integrales de Riemann y Lebesgue.
+- [paranoia2](#paranoia2), *verano de 2026* Un verificador de los tipos binarios de la norma IEEE 754 de 2019. 
+- [Lebesgue](#Lebesgue), *febrero/abril de 2026* un comparador visual de las integrales de Riemann y Lebesgue.
 - [CUDA](#cuda), verano de 2024, el inicio de programas de alto rendimiento.
-- [Monografía de mi sabático](#mono), trabajo comenzado en la UNISON en 2008 y terminado en la UABCS. Presenté la monografía al regresar, pero continué desarrollándolo unos años más hasta darle la forma que quería.
+- [Monografía de mi sabático](#mono), *2007/2008* Trabajo comenzado en la UNISON en 2007 y terminado en la UABCS. Presenté la monografía al regresar, pero continué desarrollándolo unos años más hasta darle la forma que quería.
 
 **Topología geométrica/combinatoria**
 - [NautyNav](#nauty-nav), *agosto de 2026* Visualizador de grafos generados con geng.c
@@ -155,9 +155,11 @@ La iniciativa, idea, interfaces internas, decisiones de diseño, dirección y de
 
 En los últimos semestres de la licenciatura en matemáticas conocí la **integral de Lebesgue** y nunca más la volví a usar. Creo recordar que ni le entendí del todo y cada que Lebesgue aprecía en algún documento era un pendiente. Cuando en 2022, regresando de pandemia, me enteré de la **Teoría del Aprendizaje Singular** (Watanabe), me sorprendió ver a Lebesgue metido como técnica imprescindible de integración y en ese momento se despertó mi curiosidad. 
 
-Busqué recursos en Geogebra sobre Lebesgue pero no encontré nada, Geogebra está muy orientado a la integral de Reimann, hasta funciones especiales tiene para eso. No quedó más remedio que hacer una propia. Me decidí por hacer una en **Processing** (un dialecto de javascript), una herramienta que me encanta y que he usado mucho para simular algoritmos para IA. Diseñé una interfaz para comparar una con otra y seleccioné las funciones que permitieran ver mejor las diferencias.
+Busqué recursos en Geogebra sobre Lebesgue pero no encontré nada, Geogebra está muy orientado a la integral de Reimann, hasta funciones especiales tiene para eso. No quedó más remedio que hacer una propia. En 2023 me decidí por hacer una en **Processing** (un dialecto de javascript), una herramienta que me encanta y que he usado mucho para simular algoritmos para IA. Diseñé una interfaz para comparar una con otra y seleccioné las funciones que permitieran ver mejor las diferencias. Por diversos motivos no lo terminé, es una vergüenza, pero me faltó la parte de la integral de Riemann, lo más fácil.
 
-El reto mayor es que la comparación luce cuando la partición involucra conjuntos numerables y no numerables, pero ne la computadora, la aritmética de punto flotante limita a sólo un subconjunto finito de racionales distribuidos logarítmicamente, pero eso no tiene por qué detener un programa que hace una simulación.
+Creo que en ese momento perdí el interés momentaneamente porque el reto mayor es que la comparación luce cuando la partición involucra conjuntos numerables y no numerables. En la computadora, la aritmética de punto flotante limita a sólo un subconjunto finito de racionales distribuidos logarítmicamente, pero eso no tiene por qué detener un programa que hace una simulación. Una vez que logré el objetivo, me entró un poco de flojera por los rectángulos de Riemann y el proyecto se quedó durmiendo el sueño de los justos, durante un año.
+
+En 2026, aprovechando la diversificación de IAs que sirven de eficientes chalanes programadores, reretomé el proyecto y terminé lo que faltaba. 
 
 La diferencia entre ambas integrales no es computacional sino epistemológica: **Riemann particiona el dominio (eje X), Lebesgue particiona el codominio (eje Y).** Este simulador hace esa diferencia visible e interactiva.
 
@@ -166,8 +168,8 @@ La diferencia entre ambas integrales no es computacional sino epistemológica: *
 El README del repositorio explica cómo se usa y las funciones incluidas.
 
 **Cross-highlight (hover)** Es el momento central del simulador: la conexión entre dominio y codominio se vuelve visible en tiempo real. Pasar el mouse sobre un panel resalta el elemento correspondiente en el otro:
-- **Hover en Riemann** → ilumina la banda k en Lebesgue donde cae f(x)
-- **Hover en Lebesgue** → ilumina todos los rectángulos en Riemann cuyo f(x_mid) cae en esa banda
+- **Hover en Riemann** → ilumina la banda k en Lebesgue donde cae $$f(x)$$
+- **Hover en Lebesgue** → ilumina todos los rectángulos en Riemann cuyo $$f(x_{mid})$$ cae en esa banda
 
 El repositorio se encuentra en [github.com/mancpato/01-L-R](https://github.com/mancpato/01-L-R). En la UABCS no se dan cursos de cálculo tan avanzados, pero me sirvió para entender mejor el tema. Si en algún momento lo uso como parte de una introducción para la Teoría del Lenguaje Singular, estaré muy contento. Por lo pronto, puede ser útil para profesores de análisis en carreras de matemáticas.
 
@@ -181,7 +183,7 @@ El repositorio se encuentra en [github.com/mancpato/01-L-R](https://github.com/m
 
 Había dinero de un proyecto que se tenía que usar, ya tenía que camibiar de Laptop yeso llevó a comprar una Victus con tarjeta gráfica RTX 3050. Al inicio, todo normal. Pero luego, mis hijos la usaron para jugar. Máquina gamer a fin de cuentas, Halo, Minecraft, cualquier juego moderno se veía de lujo. Entonces me cayó el 20 de que estaba desaprovechando un GPU, así que me di a la tarea de aprender a programarlo.
 
-Desde el *Hola mundo* para CUDA (el modelo y herramientas de programación de NVIDIA) me di cuenta de que eso era pensar distinto.
+Desde el *Hola mundo* para CUDA (el modelo y herramientas de programación de NVIDIA) me di cuenta de que eso era pensar distinto. Un año más tarde, compré una 3060 para mi computadora de la UABCS.
 
 
 {% include volver-seccion.html url="/programacion/" %}
@@ -195,11 +197,13 @@ Desde el *Hola mundo* para CUDA (el modelo y herramientas de programación de NV
 
 ### Monografía de mi sabático {#mono}
 
-<small style="color: #999;">Verano de 2010</small>
+<small style="color: #999;">Verano de 2008</small>
 
-Tuve el gusto de invertir mi primer sabático visitando la UNISON en 2008. Ahí regresé a mis mundos de astronomía, guitarra y matemáticas. Me recibieron en el Departamento de Matemáticas y comencé a darle forma a mi libro de programación numérica, una introducción que presenté como monografía al regresar a la UABCS.
+Tuve el gusto de invertir mi primer sabático visitando la UNISON en 2007. Ahí regresé a mis mundos de astronomía, guitarra y matemáticas. Me recibieron en el Departamento de Matemáticas y comencé a darle forma a mi libro de programación numérica, una introducción que presenté como monografía al regresar a la UABCS.
 
 [Introducción a la Programación Numérica (PDF)](/assets/files/programacion/Mono.pdf){:target="_blank" rel="noopener noreferrer"} Este estudio contiene dos partes, la primera sobre los fundamentos y la segunda sobre tres aplicaciones comunes: la suma de números de punto flotante, raíces de ecuaciones y funciones trascendentes (el caso de la exponencial).
+
+Mi sabático me trae el mal recuerdo de que en mi segundo semestre fue cuando mi mamá tuvo su accidente vascular.
 
 
 {% include volver-seccion.html url="/programacion/" %}
@@ -216,7 +220,7 @@ Métodos numéricos, análisis numérico, cómputo científico, computación de 
 
 Algunos cursos que llevé en el posgrado fueron de una utilidad enorme, pero mi forma de trabajo cambió la primera vez que impartí Sistemas Operativos en un posgrado que hubo en la UABCS y luego Programación de Sistemas en una carrera de nivel superior. De ahí, programar en Linux fue rutina, siempre con Makefile y repositorios fue rutina. Ya los conocía, pero no les daba tanto uso.
 
-Retomo aquí un texto que publiqué en Facebook el 19 de octubre de 2025: Hace pocos días Irma se encontró un libro viejo "El Entorno de Programación Unix", con la nota de compra por 11 mil pesos, marcada ya en las páginas. De repente me trajo muchas cosas a la memoria. Dejo constancia. Me sirvo un café para comenzar a escribir.
+Retomo aquí un texto que publiqué en Facebook el 19 de octubre de 2025: Hace pocos días Irma se encontró un libro viejo "El Entorno de Programación Unix", con la nota de compra por 11 mil pesos, marcada ya en las páginas. De repente me trajo muchas cosas a la memoria. Dejo constancia.
 
 En segundo de secundaria en 1983, me maravilló mi calculadora científica CASIO FX 82. Leí el manual y aprendí casi todo (había unas cosas de estadística que no entendía, sigmas y no se qué más). En 1985 llevé mi primer curso de programación, BASIC, en Logical,  de Carlos Lage, y mi papá compró una Tandy 2, la Color Computer que se conectaba a la televisión. Había que capturar el código de algún juego, disfrutar un rato y al apagarla, se perdía todo. No importaba, era la gran cosa y luego llegaron los medios para grabar cosas, casetes y luego floppys.
 
@@ -225,8 +229,6 @@ Poco después, tuve una Casio PB110, pequeña computadora portátil que tenía i
 En 1987 inició el centro de cómputo de la Benemerita Normal Urbana, donde tenían una máquina NCR con sistema operativo UNIX V. Mi papá, entusiasmado con el asunto, me invitó varias veces y allí hice mis pininos programando el shell y conociendo algunas de sus herramientas, como el sed y el awk. Dos libros eran los pilares: "El Entorno de Programación UNIX" de Kernighan y "El Lenguaje de Programación C" de Ritchie. Por esos años también encontré el Scraton de Métodos Numéricos, que juntaba dos cosas que me embobaban, matemáticas y programación. Le entendí muy poco. El primer semestre del 1989 estuve trabajando en la BENU, antes de irme a la UNISON, un semestre de aprender muchísimas cosas. Sentí que ya sabía programar.
 
 Ya en la universidad me enseñaron Fortran y lo usé pocos años para hacer programas para Pedro Flores, pero pronto cambiamos todo para usar lenguaje C y comencé con estructuras de datos. Estábamos haciendo optimización sobre redes (grafos). En el cubículo de Antonio Sánchez encontré una joya: "The Elements of Programming Style", un libro de Kernighan de 1974. Wow, me abrió los ojos a muchas cosas que nunca me habían dicho sobre cómo programar bien. En esos mismos años encontré (en Sanborns) otro libro fantástico sobre programación avanzada donde conocí la todopoderosa int86 y aprendí a trabajar de manera directa con la memoria de video. Programé mi primer menú en modo texto. Me sentía superior. En esos mismos años, otro libro que resultó muy valioso fue el de "Ingeniería de Software" de Pressman, pero hasta después entendí su relevancia. Ahora sí sentí que ya sabía programar.
-
-Otro café.
 
 Me fui al posgrado y comencé a usar un poco de c++. El libro "Introduction to Algorithms" de Cormen comenzó a ser nuestra biblia, además de "El Arte de Programar Computadoras" de Knuth, el antiguo testamento. Un poco menos, el de "Sistemas Operativos Modernos" de Tenenbaum. Terminando el primer año de créditos, tuve la osadía de comenzar a dar clases en la Escuela Superior de Cómputo del IPN en 1994, donde tuve la fortuna de conocer alumnos con excelentes habilidades para programar y pude comenzar a transferir muchas de las cosas que había aprendido desde 10 años atrás. Ahora sí sentí que ya sabía programar.
 
@@ -248,7 +250,9 @@ En ese texto, faltó la experiencia con CUDA.
 *(en construcción)*
 
 **P**rograma de **A**nálisis de **R**edes fue el nombre que nos gustó a quienes lo desarrollamos. 
-Fuimos 4 estudiantes de matemáticas los que nos animamos a tomar los cursos optativos que Pedro Flores ofreció sobre optimización: Edelmira, Irene, Myriam y yo., De la primera letra de nuestros nombres sale **EIMM**, con lo que tenemos el nombre completo del proyecto. Creo que implementamos en C los algoritmos Prim, Kruskal, Floyd y Dijkstra. No teniendo formación como desarrolladores de sistemas, creo que fue una buena hazaña de esa época, fue mucho qué aprender. El sistema de menúes en modo texto lo hice yo y se pegaron así los 4 programas individuales con un editor en modo texto para las redes y el manejo de archivos. Creo que ese fue mi primer gran programa.
+Fuimos 4 estudiantes de matemáticas los que nos animamos a tomar los cursos optativos que Pedro Flores ofreció sobre optimización: Edelmira, Irene, Myriam y yo. De la primera letra de nuestros nombres sale **EIMM**, con lo que tenemos el nombre completo del proyecto, **PAREIMM**. Implementamos en C los algoritmos Prim, Kruskal, Floyd y Dijkstra. Pedro Flores nos asesoró.
+
+No teniendo formación como desarrolladores de sistemas, creo que fue una buena hazaña de esa época, mucho qué aprender. El sistema de menúes en modo texto lo hice yo y se pegaron así los 4 programas individuales con un editor en modo texto para las redes y el manejo de archivos. Creo que ese fue mi primer gran programa, además colaborando con grandes amigas.
 
 {% include volver-seccion.html url="/programacion/" %}
 

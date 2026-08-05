@@ -5,7 +5,7 @@ permalink: /ia/
 nav_order: 1
 ---
 
-Notas y proyectos sobre IA (y temas afines). La pandemia fue un detonador importante, me dio tiempo de aprender nuevas tecnologías de redes neuronales y terminar muchos proyectos comenzados hacía años. El trabajo docente aterrizó bien, en mancuerna con mis colegas Margarita de Anda y Jaime Eudes, de la UABCS.
+Notas y proyectos sobre IA (y temas afines). La pandemia fue un detonador importante, me dio tiempo de aprender nuevas tecnologías de redes neuronales y terminar muchos proyectos comenzados hacía años. El trabajo docente aterrizó bien, en mancuerna con mis colegas Margarita de Anda y Jaime Eudes, de la UABCS, aunque ahora veo un futuro incierto en el DASC.
 
 **Algunos proyectos:**
 - [SuiteRNA](#suiterna), *abril de 2026* Gran proyecto de análisis de entrenamiento de redes neuronales. Desde perceptrones multicapa hasta redes de atención, incluyendo redes especiales.
@@ -162,10 +162,9 @@ Nació de una plática con Margarita de Anda Trasviña, antes mi alumna, ahora c
 La **regresión lineal** (o ajuste lineal) es un problema ubicuo en ciencias e ingeniería. Enorme cantidad de problemas requiere entender cómo cambia un fenómeno. Dado un conjunto de puntos $$(x_i,y_i)$$, obtener la recta $$y=mx+b$$ que pasa más cerca de todos ellos.
 
 Desde el punto de vista matemático, hay tres perspectivas para resolverlo:
-- con cálculo diferencial, el método clásico
-- con álgebra lineal, mi preferida y
-- con estadística inferencial.
-
+- con cálculo diferencial, el método clásico, optimizando con derivadas parciales,
+- con álgebra lineal, mi preferida, usando la matriz normal para proyectar la solución y
+- con estadística inferencial, maximizando la verosilimitud, asumiendo distribución normal de errores.
 
 Puede usarse directamente en [mancpato.github.io/GradienViz](https://mancpato.github.io/GradienViz/), no requiere instalación. Basta agregar puntos en el panel blanco con el mouse, al menos 3 y luego click en entrenar. 
 
