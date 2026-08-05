@@ -246,7 +246,7 @@ El repositorio con el código fuente se encuentra en [github.com/mancpato/BusqAm
 
 Mi posgrado fue en IA, particularmente resolviendo un problema de visión por computadora, haciendo uso del enfoque lógico-combinatorio del reconocimiento de patrones. Esa etapa del CINVESTAV fue de gran aprendizaje. Simular visión artificial es complicado porque no sabemos cómo vemos, es completamente automático, así que no podemos decirle a una máquina como lo hacemos, hay que inventar métodos.
 
-Todo comienza con la adquisición y preprocesamiento de la imagen, luego la segmentación y extracción de características y pasar a construiri índices de búsqueda en bases de objetos para tratar de identificarlos. Procesamiento Digital de Imágenes lo llevé con Humberto Sossa y Reconocimiento de Patrones con José Ruiz Schulcloper. Fueron buenas y productivas épocas de trabajo en los seminarios del CINVESTA.
+Todo comienza con la adquisición y preprocesamiento de la imagen, luego la segmentación y extracción de características y pasar a construiri índices de búsqueda en bases de objetos para tratar de identificarlos. Procesamiento Digital de Imágenes lo llevé con Humberto Sossa y Reconocimiento de Patrones con José Ruiz Schulcloper. Fueron buenas y productivas épocas de trabajo en los seminarios del CINVESTAV.
 
 Los demostradores automáticos de teoremos desarrollados en Lógica Matemática, con Guillermo Morales, aportaron otra perspectiva de la IA. Este, junto con el de Inteligencia Artificial  se convirtieron en pilares para muchas otras cosas.
 
