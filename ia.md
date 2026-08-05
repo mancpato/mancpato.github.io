@@ -11,6 +11,8 @@ Notas y proyectos sobre IA (y temas afines). La pandemia fue un detonador import
 - [SuiteRNA](#suiterna), *abril de 2026* Gran proyecto de análisis de entrenamiento de redes neuronales. Desde perceptrones multicapa hasta redes de atención, incluyendo redes especiales.
 - [GradienViz](#gradienviz), *febrero de 2026* Visualizador de optimización por gradiente para regresión lineal. Se originó de una plática de redes neuronales y por eso está aquí.
 - [Consensus](#consensus), *mayo de 2026* El debate automatizado para asistencia colegiada.
+- [BusqProfundidad](#busqprofundidad), *febrero de 2020* Búsqueda en profundidad simple, programada en Processing.
+- [BusqAmplitud](#busqamplitud), *febrero de 2020* Búsqueda en amplitud (anchura) simple, programada en Processing.
 
 **Del baúl de los recuerdos:**
 
@@ -46,7 +48,15 @@ Visualizador interactivo de múltiples de redes neuronales para clasificación b
 
 <img src="{{ site.baseurl }}/assets/images/ia/TalleRNA.png" alt="Pantalla de ejemplo" width="500">
 
-Corre directamente como página web, basta cargar index.html en el navegador de preferencia. Usa p5.js para ejecutar todas las operaciones de redes neuronales. 
+Corre directamente como página web, basta cargar index.html en el navegador de preferencia. Usa p5.js para ejecutar todas las operaciones de redes neuronales. Puede usarse directamente en [mancpato.github.io/TalleRNA](https://mancpato.github.io/TalleRNA/), no requiere instalación. Basta seleccionar el problema, ajustar los hiperparámetros deseados e iniciar el entrenamiento. 
+
+**Hiperparámetros controlados:**
+- Topología: 8 posibles redes
+- Activación: 7 de las funciones comunes
+- Inicialización: Uniforme, Normal, Xavier y He
+- Tasa de aprendizaje: 8 valores, usuario indica min y max
+- Momentum: máximo 0.9, mínimo seleccionable
+Experimentos: 4 combinaciones de dos hiperparámetros fijas de interés, mas otras libres
 
 El repositorio se encuentra en [github.com/mancpato/TalleRNA](https://github.com/mancpato/TalleRNA). Se espera que sea útil para cualquier interesado en estudiar redes neuronales.
 
@@ -56,14 +66,21 @@ Para visualizar una sola red aprendiendo, se recomienda el excelente recurso [Pl
 
 ### TalleRNAmulti {#tallernamulti}
 Extiende TalleRNA hacia redes más grandes (hasta ~1500 parámetros) y problemas
-multiclase. Permite observar cómo los hiperparámetros se comportan cuando la red tiene mayor capacidad y la salida ya no es binaria. Se ha agregado el hiperparámetro dropout, que para redes pequeñas no tenía sentido usar. Comparte la filosofía de experimento controlado: varía exactamente una cosa, mantiene todo lo demás fijo.
+multiclase (3 o 4 clases). Permite observar cómo los hiperparámetros se comportan cuando la red tiene mayor capacidad y la salida ya no es binaria. Se ha agregado el hiperparámetro dropout, que para redes pequeñas no tenía sentido usar. Comparte la filosofía de experimento controlado: varía exactamente una cosa, mantiene todo lo demás fijo.
 
 <img src="{{ site.baseurl }}/assets/images/ia/TalleRNAmulti.png" alt="Pantalla de ejemplo" width="500">
 
-Al igual que TalleRNA, corre directamente como página web. Usa p5.js.
+Corre directamente como página web, basta cargar `index.html` en el navegador de preferencia. Usa p5.js para ejecutar todas las operaciones de redes neuronales. Puede usarse directamente en [mancpato.github.io/TalleRNA](https://mancpato.github.io/TalleRNAmulti/), no requiere instalación. Basta seleccionar el problema, ajustar los hiperparámetros deseados e iniciar el entrenamiento. 
+
+**Hiperparámetros controlados:**
+- Topología: hasta 8 arquitecturas, T0 (2→K) a T7 (2→32→32→K)
+- Tasa de aprendizaje: hasta 8 modelos, usuario indica mín y máx
+- Inicialización: Uniforme, Normal, Xavier y He, hasta 3 semillas por distribución
+- Activación: 7 de las funciones comunes
+- Dropout: 6 modelos, p de 0.0 a 0.5
 
 El repositorio se encuentra en
-[github.com/mancpato/TalleRNAmulti](https://github.com/mancpato/TalleRNAmulti).
+[github.com/mancpato/TalleRNAmulti](https://github.com/mancpato/TalleRNAmulti). Se espera que sea útil para cualquier interesado en estudiar redes neuronales.
 
 ---
 
@@ -192,6 +209,28 @@ dónde persistió el desacuerdo.
 - Claves de API para los modelos que vayas a usar
 
 *Repositorio disponible cuando esté terminado.*
+
+{% include volver-seccion.html url="/ia/" %}
+
+---
+
+## BusqProfundidad {#busqprofundidad}
+<small style="color: #999;">Febrero de 2020</small>
+
+Este programa lo usé de recurso para IA durante años. Fue en la pandemia cuando lo subí como repositorio para compartirlo no sólo con estudiantes, sino con colegas del DASC (Margarita y jaime). Está programado en **Processing**.
+
+El repositorio con el código fuente se encuentra en [github.com/mancpato/BusqProfundidad](https://github.com/mancpato/BusqProfundidad). Es una versión sencilla, no se si algún día la volveré a revisar.
+
+{% include volver-seccion.html url="/ia/" %}
+
+---
+
+## BusqAmplitud {#busqamplitud}
+<small style="color: #999;">Febrero de 2020</small>
+
+Este programa, al igual que la búsqueda en profundidad, los usaba desde antes, pero la pandemia cambió la dinámica. Está programado en **Processing**.
+
+El repositorio con el código fuente se encuentra en [github.com/mancpato/BusqAmplitud](https://github.com/mancpato/BusqAmplitud). Es una versión sencilla, no se si algún día la volveré a revisar.
 
 {% include volver-seccion.html url="/ia/" %}
 
