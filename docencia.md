@@ -10,6 +10,7 @@ Me tienen aquí dos cosas: el gusto por aprender y el gusto por compartir. No cr
 - [Asignaturas que imparto](#asignaturas), *julio de 2026* El rango es muy amplio, casi aleatorio los primeros años.  
 - [Uso de IA en clases de matemáticas](#ia-mate) *mayo de 2026* Algunas ideas sobre el uso de la tecnología en la docencia de las matemáticas y el lastre que nos detiene.
 - [Taller de matemáticas para profesores en la UABCS](#tallemate), *enero de 2023* Espacio de trabajo al que poco a poco le hemos dado forma entre los colegas asistentes y un servidor.
+- [Sobre la enseñanza del Álgebra Lineal](#EnAL), *verano de 2023* Análisis para entender el **enorme desfase** entre los contenidos de las asignaturas de Álgebra Lineal y la práctica científica e industrial.
 
 **Del baúl de los recuerdos:**
 - [Cómo comencé a dar clases](#como-comence-a-dar-clases), *julio de 2026* Un afortunado accidente.
@@ -142,12 +143,21 @@ La problemática y recursos analizados no son exclusivos de/para la UABCS u otra
 
 ---
 
+## Sobre la enseñanza del Álgebra Lineal {#EnAL}
+<small style="color: #999;">Verano de 2023</small>
+
+Me resulta frustrante que haya tanto desarrollo interesante y óptimo en álgebra lineal, mientras los cursos universitarios enseñan teoría muy arcaica. Por eso me puse a revisar a qué se debía este asunto y el resultado fue el documento que comparto.
+
+Es un recorrido histórico que compara cómo el Cálculo y el Álgebra Lineal llegaron —con siglos de retraso— a los libros de texto que hoy usamos. La tesis central: mientras la práctica científica y de ingeniería ya opera con SVD, factorización QR y métodos iterativos desde hace décadas, la mayoría de los cursos de AL siguen enseñando casi exclusivamente teoría del siglo XIX. Cierra con las recomendaciones curriculares de LACSG (1993 y su actualización de 2022) sobre qué y cómo enseñar AL hoy.
+
+{% include volver-seccion.html url="/docencia/" %}
+
+---
 <!-- 
         **** Inicia el baúl de los recuerdos ****
 -->
 
 ## Cómo comencé a dar clases {#como-comence-a-dar-clases}
-
 <small style="color: #999;">Verano de 1994</small>
 
 Me inicié como docente de nivel superior en la Escuela Superior de Cómputo del IPN, en el verano de 1994 y en 1999 me cambié a la UABCS. Aquí hay materiales, reflexiones y experiencias enseñando matemáticas, especialmente en la UABCS. Dos grandes apartados: sobre las asignaturas regulares que imparto y el taller para profesores de matemáticas de la UABCS.
