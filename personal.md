@@ -82,6 +82,10 @@ Estuve poco en posgrado y al entrar Jorge García Pámanes de rector yo dejé la
 
 ### Sabático
 
+Era un respiro necesario. 
+
+
+
 
 
 {% include volver-seccion.html url="/personal/" %}

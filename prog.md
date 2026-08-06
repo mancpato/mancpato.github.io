@@ -13,6 +13,7 @@ Notas, proyectos y temas afines. La llegada de los LLM ha permitido que rescate 
 - [Lebesgue](#Lebesgue), *febrero/abril de 2026* un comparador visual de las integrales de Riemann y Lebesgue.
 - [CUDA](#cuda), verano de 2024, el inicio de programas de alto rendimiento.
 - [Monografía de mi sabático](#mono), *2007/2008* Trabajo comenzado en la UNISON en 2007 y terminado en la UABCS. Presenté la monografía al regresar, pero continué desarrollándolo unos años más hasta darle la forma que quería.
+- [Regresión Lineal](#RegreLineal) *agosto de 2020* Para un curso de posgrado, programado en Processing.
 
 **Topología geométrica/combinatoria**
 - [NautyNav](#nauty-nav), *agosto de 2026* Visualizador de grafos generados con geng.c
@@ -204,6 +205,20 @@ Tuve el gusto de invertir mi primer sabático visitando la UNISON en 2007. Ahí 
 [Introducción a la Programación Numérica (PDF)](/assets/files/programacion/Mono.pdf){:target="_blank" rel="noopener noreferrer"} Este estudio contiene dos partes, la primera sobre los fundamentos y la segunda sobre tres aplicaciones comunes: la suma de números de punto flotante, raíces de ecuaciones y funciones trascendentes (el caso de la exponencial).
 
 Mi sabático me trae el mal recuerdo de que en mi segundo semestre fue cuando mi mamá tuvo su accidente vascular.
+
+
+{% include volver-seccion.html url="/programacion/" %}
+
+---
+
+## Regresión Lineal {#RegreLineal}
+<small style="color: #999;">Agosto de 2020</small>
+
+Un poco por practicar **Processing** y otro tanto para tener un recurso gráfico y no estar usando Excel. El (segundo) posgrado del DASC duró pocos años, pero me tocó impartir estadística y aproveché de desarrollar varias cosas, tanto en R como en otros lenguajes.
+
+Ahora que lo pongo en esta página web, aprovecho de agregarle lo que dejé pendiente.
+
+El repositorio se encuentra en [github.com/mancpato/RegresionLineal](https://github.com/mancpato/RegresionLineal).
 
 
 {% include volver-seccion.html url="/programacion/" %}
