@@ -146,9 +146,11 @@ La problemática y recursos analizados no son exclusivos de/para la UABCS u otra
 ## Sobre la enseñanza del Álgebra Lineal {#EnAL}
 <small style="color: #999;">Verano de 2023</small>
 
-Me resulta frustrante que haya tanto desarrollo interesante y óptimo en álgebra lineal, mientras los cursos universitarios enseñan teoría muy arcaica. Por eso me puse a revisar a qué se debía este asunto y el resultado fue el documento que comparto.
+Me resulta frustrante que haya tanto desarrollo interesante y óptimo en álgebra lineal, mientras los cursos universitarios enseñan teoría muy arcaica. Por eso me puse a revisar a qué se debía este asunto y el resultado fue el documento que comparto. Más aún, en un mundo tan digitalizado, lleno de datos tabulares, sigue habiendo más tiempo dedicado al cálculo que al álgebra lineal. La inercia que nos detiene es tremenda.
 
 Es un recorrido histórico que compara cómo el Cálculo y el Álgebra Lineal llegaron —con siglos de retraso— a los libros de texto que hoy usamos. La tesis central: mientras la práctica científica y de ingeniería ya opera con SVD, factorización QR y métodos iterativos desde hace décadas, la mayoría de los cursos de AL siguen enseñando casi exclusivamente teoría del siglo XIX. Cierra con las recomendaciones curriculares de LACSG (1993 y su actualización de 2022) sobre qué y cómo enseñar AL hoy.
+
+El artículo puede leerse aquí: [EnAL (PDF)](/assets/files/docencia/EnAL.pdf){:target="_blank" rel="noopener noreferrer"}
 
 {% include volver-seccion.html url="/docencia/" %}
 

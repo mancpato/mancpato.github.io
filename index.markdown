@@ -5,10 +5,11 @@
 layout: page
 title: Inicio
 ---
-<img src="/assets/images/manc.jpg"
-     alt="Miguel Ángel Norzagaray"
-     class="profile-photo">
 
+<img src="{{ site.baseurl }}/assets/images/manc.jpg" 
+     alt="Yo" 
+     style="float: left; width: 180px; margin: 0 15px 5px 0; 
+            border-radius: 4px; padding: 2px;">
 Soy Miguel Ángel (a) Pato Norzagaray Cosío, paceño (*pata salada*) y sudcaliforniano. Casado con la bella Irma, madre de mis dos hijos Miguel y Antonio. Soy matemático, especializado en computación, y llevo más de un cuarto de siglo en la UABCS enseñando inteligencia artificial y matemáticas.
 
 Estudié la licenciatura de matemáticas en la [UNISON](https://www.unison.mx/) y luego en el [CINVESTAV](https://www.cinvestav.mx/), donde se formalizaron mis conocimientos de computación, especialmente en procesamiento digital de imágenes y reconocimiento de patrones (IA). Mis intereses actuales se mantienen en una intersección entre matemáticas, programación numérica, IA y entender las cosas a fondo para poder explicarlas bien. 
@@ -29,9 +30,7 @@ Soy miembro de la [Sociedad Astronómica de Mira](https://www.facebook.com/Socie
 
 En este sitio (permanentemente en construcción) voy dejando notas, programas y apuntes que elaboro generalmente por el placer de entender, y que igual le sirven a alguien más. De estos intereses y algo más encontrarán información en las secciones accesibles desde las ligas superiores.
 
-Poco a poco iré contando historias diversas, cosas de las que quiero dejar constancia, y compartiendo recursos académicos, que epero sean útiles a alumnos, colegas docentes y curiosos.
-
-🙂
+Poco a poco iré contando historias diversas, cosas de las que quiero dejar constancia, y compartiendo recursos académicos, que epero sean útiles a alumnos, colegas docentes y curiosos. 🙂
 
 ---
 ## Ligas sugeridas
@@ -40,11 +39,10 @@ Poco a poco iré contando historias diversas, cosas de las que quiero dejar cons
 
 - 🔭 [Cielos oscuros de BCS y recursos en línea](/astronomia/#cielos-bcs) — Astronomía
 - 🎓 [Uso de IA en clases de matemáticas](/docencia/#ia-mate) — Docencia
-- 📝 [Refinamiento iterativo (PDF)](/assets/files/docencia/AL6-RefinItera.pdf){:target="_blank" rel="noopener noreferrer"} — Programación numérica
+- 📝 [Enseñanza del Álgebra Lineal](/docencia/#EnAL) — Docencia
 - 🤖 [GradienViz](/ia/#gradienviz) — Inteligencia Artificial
 
 ---
 
 ### Créditos
-
 Este sitio está construido con [Jekyll](https://jekyllrb.com/) y el tema [Minima](https://github.com/jekyll/minima), alojado en [GitHub Pages](https://pages.github.com/). El renderizado de fórmulas usa [KaTeX](https://katex.org/). Para el diseño y la revisión de errores de contenido conté con la ayuda de [Claude](https://claude.ai) (Anthropic).
