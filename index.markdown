@@ -9,13 +9,13 @@ title: Inicio
      alt="Miguel Ángel Norzagaray"
      class="profile-photo">
 
-Soy Miguel Ángel (a) Pato Norzagaray Cosío, paceño (patasalada) y sudcaliforniano. Casado con la bella Irma, madre de mis dos hijos Miguel y Antonio. Soy matemático, especializado en computación, y llevo más de un cuarto de siglo en la UABCS enseñando inteligencia artificial y matemáticas.
+Soy Miguel Ángel (a) Pato Norzagaray Cosío, paceño (*pata salada*) y sudcaliforniano. Casado con la bella Irma, madre de mis dos hijos Miguel y Antonio. Soy matemático, especializado en computación, y llevo más de un cuarto de siglo en la UABCS enseñando inteligencia artificial y matemáticas.
 
 Estudié la licenciatura de matemáticas en la [UNISON](https://www.unison.mx/) y luego en el [CINVESTAV](https://www.cinvestav.mx/), donde se formalizaron mis conocimientos de computación, especialmente en procesamiento digital de imágenes y reconocimiento de patrones (IA). Mis intereses actuales se mantienen en una intersección entre matemáticas, programación numérica, IA y entender las cosas a fondo para poder explicarlas bien. 
 
 Mi forma de trabajar sigue siempre el mismo camino: investigar un tema en profundidad, dominar sus detalles finos, diseñar la mejor manera de transmitirlo y ponerlo en práctica. En ese proceso siempre surgen más preguntas interesantes que me ponen de nuevo a investigar. Escribir es parte de ese proceso: **explicar por escrito me ayuda a organizar ideas**, y de eso trata también esta página.
 
-Soy miembro de la [Sociedad Astronómica de Mira](https://www.facebook.com/SociedadAstronomicaMira). Buena parte de nuestras actividades es hacer divulgación científica en La Paz junto con Irma y otros amigos. También buscamos preservar la calidad del cielo oscuro en BCS y hemos estado midiendo su magnitud fotométrica.
+Soy miembro de la [Sociedad Astronómica de Mira](https://www.facebook.com/SociedadAstronomicaMira) 🔭. Buena parte de nuestras actividades es hacer divulgación científica en La Paz junto con Irma y otros amigos. También buscamos preservar la calidad del cielo oscuro en BCS y hemos estado midiendo su magnitud fotométrica.
 
 
 <div style="clear: both;"></div>
@@ -31,18 +31,17 @@ En este sitio (permanentemente en construcción) voy dejando notas, programas y 
 
 Poco a poco iré contando historias diversas, cosas de las que quiero dejar constancia, y compartiendo recursos académicos, que epero sean útiles a alumnos, colegas docentes y curiosos.
 
-:-)
+🙂
 
 ---
+## Ligas sugeridas
 
-## Últimas entradas
+<!-- Para actualizar, mantener una liga representativa por sección -->
 
-<!-- Para nuevas entradas copiar:
-- []() En ... *mmm aaaa*
--->
-
-- [Cielos oscuros de BCS y recursos en línea](/astronomia/#cielos-bcs) En astronomía, *jul 2026*
-- [Refinamiento iterativo (PDF)](/assets/files/docencia/AL6-RefinItera.pdf){:target="_blank" rel="noopener noreferrer"} En docencia/álgebra lineal, *oct 2023*
+- 🔭 [Cielos oscuros de BCS y recursos en línea](/astronomia/#cielos-bcs) — Astronomía
+- 🎓 [Uso de IA en clases de matemáticas](/docencia/#ia-mate) — Docencia
+- 📝 [Refinamiento iterativo (PDF)](/assets/files/docencia/AL6-RefinItera.pdf){:target="_blank" rel="noopener noreferrer"} — Programación numérica
+- 🤖 [GradienViz](/ia/#gradienviz) — Inteligencia Artificial
 
 ---
 
