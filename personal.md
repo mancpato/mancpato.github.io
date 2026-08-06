@@ -39,7 +39,7 @@ Pasión despertada por las costumbres de mi familia. Muchas reuniones de la infa
 
 ## Ciencia
 
-Me gustó desde que recuerdo. Tres libros me marcaron desde la primaria: Cazadores de Microbios, Aritmética Recreativa y Matemática Recreativa. Puedo decir que mi entusiasmo por la ciencia fue principalmente en solitario. De niño encontré pocos que me siguuieran la idea. Leonidas Reza, en la primaria fue el que más. Tal vez el Mingo, en la secundaria.
+Me gustó desde que recuerdo. Documentales diversos, Cosmos de Carl Sagan, pláticas con Enrique Nava que era profesor de química y cosas así me motivaron mucho. Tres libros me marcaron desde la primaria: Cazadores de Microbios, Aritmética Recreativa y Matemática Recreativa. Puedo decir que mi entusiasmo por la ciencia fue principalmente en solitario. De niño encontré pocos que me siguuieran la idea. Leonidas Reza, en la primaria fue el que más. Tal vez el Mingo, en la secundaria.
 
 En la secundaria estuve en electricidad, en la prepa en Técnico Laboratorista Químico y tuve la fortuna de tener como compañeros de salón a varios que sí disfrutaban de la ciencia. Noe fallecido en pandemia, Eduardo Ruiz, con los que después casi no tuve contacto. Luego me fui a la UNISON a estudiar matemáticas y casí felizmente en la astronomía.
 
@@ -56,10 +56,9 @@ Ya cumplí 27 años en la UABCS, tiempo suficiente para equivocarme muchas veces
 
 ### Primer año
 
-Llegué por un concurso de oposición, del que me enteré por la revista U2000, que circulaba entre instituciones educativas. Yo no tenía idea de qué se hacía en BCS, mi tirada era regresar a Sonora.
-Al ver la convocatoria, fui a decirle a José Madrid, el director de la ESCOM, que iría a participar, no con la idea de irma, pero para conocer qué se hacía por allá.
+Llegué por un concurso de oposición, del que me enteré por la revista U2000, que circulaba entre instituciones educativas. Yo no tenía idea de qué se hacía en BCS, mi tirada era regresar a Sonora. Al ver la convocatoria, fui a decirle a José Madrid, el director de la ESCOM, que iría a participar, no con la idea de irma, pero para conocer qué se hacía por allá. Debía decirle yo antes que le llegara un mal rumor.
 
-Gané el concurso y en agosto ya estaba en la UABCS.
+Gané el concurso y en agosto ya estaba en la UABCS. José Madrid no me dejó renunciar porque "si no te gusta allá, ¿cómo te recibo devuelta?", cosa que le agradezco. El mismo me buscó 4 horas a la semana en el CICIMAR para que no renunciara.
 
 {% include volver-seccion.html url="/personal/" %}
 
@@ -73,3 +72,7 @@ Gané el concurso y en agosto ya estaba en la UABCS.
 
 AL término del primer año en el CINVESTAV, con los créditos (asignaturas) yá terminados, seguí trabajar en la tesis, con mucha mayor libertad. Guillemo Morales le dijoa uno de mis compañeros, Julio Gallardo, que si quería dar clases de Métodos Numérricos en una escuela del poli, que tenía que decidirse ya. Juliio rechazó y como a mi siempre me gustaron los métodos numéricos, acepté.
 
+Tuve el gusto de darle a uno de los dos grupos de la primera generación de la **Escuela Superior de Cómputo**. Puedo contar a varios entre mis amigos, aunque no los vea seguido. Alta tasa de alumnos brillantes.
+
+
+{% include volver-seccion.html url="/personal/" %}
