@@ -159,6 +159,14 @@ El artículo puede leerse aquí: [EnAL (PDF)](/assets/files/docencia/EnAL.pdf){:
         **** Inicia el baúl de los recuerdos ****
 -->
 
+
+# Baúl de los recuerdos
+<figure style="text-align: center; margin: 2em 0 1em;">
+  <img src="/assets/images/Baul.jpg"
+       alt="Mis gustos"
+       style="display: block; margin: 0 auto; max-width: 50%; border-radius: 6px;">
+</figure>
+
 ## Cómo comencé a dar clases {#como-comence-a-dar-clases}
 <small style="color: #999;">Verano de 1994</small>
 

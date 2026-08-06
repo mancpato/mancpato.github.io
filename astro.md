@@ -127,6 +127,13 @@ Como digo en la portada de este sitio, para mí escribir es una actividad indisp
         **** Inicia el baúl de los recuerdos ****
 -->
 
+# Baúl de los recuerdos
+<figure style="text-align: center; margin: 2em 0 1em;">
+  <img src="/assets/images/Baul.jpg"
+       alt="Mis gustos"
+       style="display: block; margin: 0 auto; max-width: 50%; border-radius: 6px;">
+</figure>
+
 ## Cómo comencé con astronomía {#eos-asi}
 <small style="color: #999;">Julio de 2026</small>
 

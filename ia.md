@@ -239,6 +239,13 @@ El repositorio con el código fuente se encuentra en [github.com/mancpato/BusqAm
         **** Inicia el baúl de los recuerdos ****
 -->
 
+# Baúl de los recuerdos
+<figure style="text-align: center; margin: 2em 0 1em;">
+  <img src="/assets/images/Baul.jpg"
+       alt="Mis gustos"
+       style="display: block; margin: 0 auto; max-width: 50%; border-radius: 6px;">
+</figure>
+
 ## Mi inicio en la IA {#cinvestav-ia}
 
 <small style="color: #999;">Enero de 1994</small>

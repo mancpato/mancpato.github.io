@@ -14,6 +14,7 @@ Notas, proyectos y temas afines. La llegada de los LLM ha permitido que rescate 
 - [CUDA](#cuda), verano de 2024, el inicio de programas de alto rendimiento.
 - [Monografía de mi sabático](#mono), *2007/2008* Trabajo comenzado en la UNISON en 2007 y terminado en la UABCS. Presenté la monografía al regresar, pero continué desarrollándolo unos años más hasta darle la forma que quería.
 - [Regresión Lineal](#RegreLineal) *agosto de 2020* Para un curso de posgrado, programado en Processing.
+- [PromedioImg](#PromedioImg) *agosto de 2020* Ejemplo de PDI para estudiantes visitantes del Tec de Mulegé.
 
 **Topología geométrica/combinatoria**
 - [NautyNav](#nauty-nav), *agosto de 2026* Visualizador de grafos generados con geng.c
@@ -224,6 +225,26 @@ El repositorio se encuentra en [github.com/mancpato/RegresionLineal](https://git
 {% include volver-seccion.html url="/programacion/" %}
 
 ---
+
+## PromedioImg {#PromedioImg}
+<small style="color: #999;">Agosto de 2020</small>
+
+Un programa sencillo para ilustrar una forma de mejorar imágenes que tienen ruido aleatorio. Mi amigo Eduardo Sández, colega del Tec de Mulegé, trajo un grupo de estudiantes y con todo gusto les di una charla breve sobre el tema. 
+
+Tomé una foto de Irma, le puse un ruido conocido como sal y pimienta e iteré promediando para que vieran la manera como mejoraba la imagen. No es la mejor técnica para quitar ese ruido, pero era rápido de programar. Usé **Processing** y todos contentos.
+
+El código se encuentra en [github.com/mancpato/PromedioImg](https://github.com/mancpato/PromedioImg).
+
+---
+
+
+
+# Baúl de los recuerdos
+<figure style="text-align: center; margin: 2em 0 1em;">
+  <img src="/assets/images/Baul.jpg"
+       alt="Mis gustos"
+       style="display: block; margin: 0 auto; max-width: 50%; border-radius: 6px;">
+</figure>
 
 
 ## Cómo comencé a programar {#como-comence-a-programar}

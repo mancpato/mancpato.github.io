@@ -45,4 +45,13 @@ Poco a poco iré contando historias diversas, cosas de las que quiero dejar cons
 ---
 
 ### Créditos
-Este sitio está construido con [Jekyll](https://jekyllrb.com/) y el tema [Minima](https://github.com/jekyll/minima), alojado en [GitHub Pages](https://pages.github.com/). El renderizado de fórmulas usa [KaTeX](https://katex.org/). Para el diseño y la revisión de errores de contenido conté con la ayuda de [Claude](https://claude.ai) (Anthropic).
+
+Agradezco a todos aquellos héroes anónimos que con su esfuerzo han construido las herramientas que me permitieron ... 😜
+
+Este sitio está construido con:
+- mis ideas, gustos e intenciones,
+- [Jekyll](https://jekyllrb.com/) con el tema [Minima](https://github.com/jekyll/minima), está alojado en 
+- [GitHub Pages](https://pages.github.com/), usa
+- [KaTeX](https://katex.org/) para  el renderizado de fórmulas,
+- [Claude](https://claude.ai) (Anthropic) para el diseño y la revisión de errores de contenido y
+- [Nano Banana](https://davinci.ai/) para algunas imagenes.

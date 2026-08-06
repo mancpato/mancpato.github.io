@@ -12,6 +12,7 @@ Solo copia el carácter y pégalo directo en el `.md`. No necesitan configuraci�
 😅 nervioso / risa apenada
 🥳 celebrando
 😴 durmiendo / cansado
+😜 burla
 
 ## Académico / docencia
 
