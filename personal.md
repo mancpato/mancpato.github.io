@@ -38,7 +38,7 @@ Mi mayor sorpresa fue que fue y se sentó a mi lado, porque iba junto con una pa
 
 <small style="color: #999;">Verano de 1979</small>
 
-Entré a los 9 años a la Escuela de Música. Solfeo con Juana Teresa Ruiz Aguirre y pocos meses depués batería con el profe Polo Montoya. Luego guitarra con él mismo. A los pocos años ya estaba con Jorge Isidoro Cardoza López. Grandes años, siguiendo los métodos de Sagreras, Carulli y Pujol. Un nuevo mundo cuando nos visitó Selvio Carrizosa, del Conservatorio Nacional, y nos abrió las puertas a lo que era tocar guitarra en serio.
+Entré a los 9 años a la Escuela de Música. Solfeo con Juana Teresa Ruiz Aguirre y pocos meses después batería con el profe Polo Montoya. Luego guitarra con él mismo. A los pocos años ya estaba con Jorge Isidoro Cardoza López. Grandes años, siguiendo los métodos de Sagreras, Carulli y Pujol. Un nuevo mundo cuando nos visitó Selvio Carrizosa, del Conservatorio Nacional, y nos abrió las puertas a lo que era tocar guitarra en serio.
 
 Me falta:
 - Yamaha
@@ -60,9 +60,9 @@ Pasión despertada por las costumbres de mi familia. Muchas reuniones de la infa
 
 ## Ciencia
 
-Me gustó desde que recuerdo. Documentales diversos, Cosmos de Carl Sagan, pláticas con Enrique Nava que era profesor de química y cosas así me motivaron mucho. Tres libros me marcaron desde la primaria: Cazadores de Microbios, Aritmética Recreativa y Matemática Recreativa. Puedo decir que mi entusiasmo por la ciencia fue principalmente en solitario. De niño encontré pocos que me siguuieran la idea. Leonidas Reza, en la primaria fue el que más. Tal vez el Mingo, en la secundaria.
+Me gustó desde que recuerdo. Documentales diversos, Cosmos de Carl Sagan, pláticas con Enrique Nava que era profesor de química y cosas así me motivaron mucho. Tres libros me marcaron desde la primaria: Cazadores de Microbios, Aritmética Recreativa y Matemática Recreativa. Puedo decir que mi entusiasmo por la ciencia fue principalmente en solitario. De niño encontré pocos que me siguieran la idea. Leonidas Reza, en la primaria fue el que más. Tal vez el Mingo, en la secundaria.
 
-En la secundaria estuve en electricidad, en la prepa en Técnico Laboratorista Químico y tuve la fortuna de tener como compañeros de salón a varios que sí disfrutaban de la ciencia. Noe fallecido en pandemia, Eduardo Ruiz, con los que después casi no tuve contacto. Luego me fui a la UNISON a estudiar matemáticas y casí felizmente en la astronomía.
+En la secundaria estuve en electricidad, en la prepa en Técnico Laboratorista Químico y tuve la fortuna de tener como compañeros de salón a varios que sí disfrutaban de la ciencia. Noe fallecido en pandemia, Eduardo Ruiz, con los que después casi no tuve contacto. Luego me fui a la UNISON a estudiar matemáticas y caí felizmente en la astronomía.
 
 
 {% include volver-seccion.html url="/personal/" %}
