@@ -78,6 +78,8 @@ A Joel le dije que había que reestructurar la carrera que ofrecía el departame
 
 El nombramiento fue rápido, supongo que tomó a muchos por sorpresa. De inmediato me di a la tarea de trabajar en cambios curriculares, con el caminito que conocía del IPN, primero invitar a todos a participar y luego planeando las actividades. A la UABCS le aprobaron 4 plazas para profesores de tiempo completo del departamento, de inmediato pensé que tal vez podríamos enriquecer la planta consiguiendo más gente de fuera para enriquecer académicamente nuestra oferta, pero la sed interna era mucho mayor de lo que yo suponía.
 
+Jorge Vale, el rector, nunca permitió que se sacaran a concurso las 4 plazas o al menos 2. Luego entendí que quería esperar a que la gente de su gente en el DASC terminara un posgrado para aumentar sus posibilidades, como ocurrió.
+
 ## Comienza la monarquía {#comienza-la-monarquia}
 <small style="color: #999;">2003</small>
 

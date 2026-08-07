@@ -7,7 +7,15 @@ nav_order: 3
 
 Me tienen aquí dos cosas: el gusto por aprender y el gusto por compartir. No creo poner todas las asignaturas que he impartido, pero sí las actuales y las más significativas.
 
-- [Asignaturas que imparto](#asignaturas), *julio de 2026* El rango es muy amplio, casi aleatorio los primeros años.  
+**Asignaturas del semestre actual**
+
+Es importante consultar los sitios oficiales en la 
+- [Teoría de la Computación](#TC)
+- [Cálculo Diferencial](#Cálculo-Diferencial)
+- [Álgebra Lineal](#álgebra-lineal)
+
+**Otros tópicos de mi interés**
+- [Más asignaturas que imparto](#asignaturas), *julio de 2026* El rango es muy amplio, casi aleatorio los primeros años.  
 - [Uso de IA en clases de matemáticas](#ia-mate) *mayo de 2026* Algunas ideas sobre el uso de la tecnología en la docencia de las matemáticas y el lastre que nos detiene.
 - [Taller de matemáticas para profesores en la UABCS](#tallemate), *enero de 2023* Espacio de trabajo al que poco a poco le hemos dado forma entre los colegas asistentes y un servidor.
 - [Sobre la enseñanza del Álgebra Lineal](#EnAL), *verano de 2023* Análisis para entender el **enorme desfase** entre los contenidos de las asignaturas de Álgebra Lineal y la práctica científica e industrial.
@@ -38,17 +46,29 @@ Me tienen aquí dos cosas: el gusto por aprender y el gusto por compartir. No cr
 - [Notas de enseñanza](/assets/files/docencia/AL2-teaching.pdf){:target="_blank" rel="noopener noreferrer"}
 - [Refinamiento iterativo](/assets/files/docencia/AL6-RefinItera.pdf){:target="_blank" rel="noopener noreferrer"}
 
-### Teoría de la Computación
+### Teoría de la Computación {#TC}
 
-- [Notas de clase](/assets/files/docencia/NotasTC.pdf){:target="_blank" rel="noopener noreferrer"}
-- Fundamentos matemáticos
+La teoría de la computación consta de dos grandes apartados: 1- la teoría de lenguajes formales y autómatas y 2- la complejidad y computabilidad.   
 
-**Máquina de Turing Universal (restringida)**
+- [Notas de clase (PDF)](/assets/files/docencia/NotasTC.pdf){:target="_blank" rel="noopener noreferrer"}, acumuladas en el transcurso de muchos años.
+- [Fundamentos matemáticos (PDF)](/assets/files/docencia/FundaMateTC.pdf){:target="_blank" rel="noopener noreferrer"}, soporte de las notas de clase.
+
+Para operar con autómatas, nada mejor que usar [JFLAP](https://www.jflap.org/), aplicación en **Java**, gratuita. Recientemente apareció **FSAM**, para Android, descargable desde Play Store, tiene menos características, pero saca del apuro.
+
+**Máquina de Turing Universal Restringida (MTUR)**
+La **MTUR** es un ejemplo de una MT de tres cintas. En la primera cinta recibe el código de otra MT limitada a pocos estados y alfabeto pequeño. La segunda cinta es la entrada para la MT y la tercera cinta lleva el registro del estado en que está la MT y el estado final.
+
+El archivo [MTUR](/assets/files/docencia/MTUR.jff){:target="_blank" rel="noopener noreferrer"} está en formato para JFLAP 7.0.
 
 <!-- ![MTUR](/assets/images/docencia/foto.jpg) -->
 
 
 {% include volver-seccion.html url="/docencia/" %}
+
+---
+
+## Cálculo Diferencial 
+
 
 ---
 

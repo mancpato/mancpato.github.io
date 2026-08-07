@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Personal
+title: Vida Personal
 permalink: /personal/
 nav_order: 6
 ---
