@@ -28,7 +28,7 @@ Aquí hay un poco de todo, sobre cosas que me gustan en la vida. Fotos, comentar
 ### Mi tribu
 <small style="color: #999;">Verano de 2000</small>
 
-Tenía pocos días como jefe de departamento cuando llegó un profesor de Ciencias Marinas, Carlos Villavicencio, para invitarme a un convivio de cierre de un evento que acababa de terminar y el departamento (no yo) había participado de diversas maneras. Fue como hacer caravana coon sombrero ajeno, así que dudé asistir. Por fortuna, fui un rato a cumplir. Llegué, saludé gente y me senté donde estaba Carlos y otros profesores, una mesa de adultos, la mayoría eran estudiante. Ahí me tocó ver a una chica muy linda, de esas caras que hacen ver.
+Tenía pocos días como jefe de departamento cuando llegó un profesor de Ciencias Marinas, Carlos Villavicencio, para invitarme a un convivio de cierre de un evento que acababa de terminar y el departamento (no yo) había participado de diversas maneras. Fue como hacer caravana coon sombrero ajeno, así que dudé asistir. Por fortuna, fui un rato a cumplir. Llegué, saludé gente y me senté donde estaba Carlos y otros profesores, una mesa de adultos, la mayoría eran estudiante. Ahí me tocó ver a una chica muy linda, de esas caras preciosas que hacen voltear, con una linda sonrisa.
 
 Mi mayor sorpresa fue que fue y se sentó a mi lado, porque iba junto con una pareja de profesores del CICIMAR. Se llamaba Irma, en ese entonces estudiante de la UABCS, de agronegocios. Ya no salío de mi vida. Nos conocimos un 3 de septiembre y nos casamos 366 días después.
 
