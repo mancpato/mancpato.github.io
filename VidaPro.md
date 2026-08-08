@@ -83,7 +83,11 @@ Jorge Vale, el rector, nunca permitió que se sacaran a concurso las 4 plazas o 
 ## Comienza la monarquía {#comienza-la-monarquia}
 <small style="color: #999;">2003</small>
 
-Creo que Jorge Vale no se sintió cómodo designando como jefe de departamento a Mónica o Andrés, sus sobrinos (y ahijados de boda, según creo) y entró Javier Carmona. A los pocos meses, cuando comenzó a tomar decisiones más neutrales lo quitaron y pusieron a Martín Agúndez, que les quedó como anillo al dedo.
+
+
+Creo que Jorge Vale no se sintió cómodo designando como jefe de departamento a Mónica o Andrés, sus sobrinos (y ahijados de boda, según se) y entró Javier Carmona. A los pocos meses, cuando comenzó a tomar decisiones más neutrales (en su interpretación, a favor de los que consideraban sus enemigos) lo quitaron y pusieron a Martín Agúndez, que les quedó como anillo al dedo. No dudo, que con la experiencia actual (2026), Martín fuera hoy un buen jefe, pero en ese entonces era un vil títere.
+
+En esos años, a modo de desahogo, comencé a escribir un diario, a modo de bitácora, para escribir los malos ratos que pasaba un día sí y a veces otro también. 
 
 ## Proscripción {#proscripcion}
 <small style="color: #999;">Verano de 2006</small>
@@ -91,9 +95,11 @@ Creo que Jorge Vale no se sintió cómodo designando como jefe de departamento a
 Estuve poco en posgrado y al entrar Jorge García Pámanes de rector yo dejé la jefatura y me fui de profesor al DASC.
 
 ## Sabático {#sabatico}
-<small style="color: #999;">Verano de 2007</small>
+<small style="color: #999;">Ciclo 2006-2007</small>
 
 Ya cumplía los requisitos y decidí tomar un respiro de la UABCS, aprovechando que en la UNISON me podían recibir como profesor visitante en la Licenciatura en Computación del Departamento de Matemáticas, cosa que agradezco a mis amigas Sonia y Edelmira.
+
+Si hubiera sido por Martín Agúndez, no me voy al sabático. Me dijo que en ese momento mi sabático no era prioridad para el departamento. Creo que le falto darse cuenta de que ningún proyecto de sabático debiera ser prioridad nunca para ningún departamento, simplemente es un derecho ganado y aporta un material nuevo y útil, en mi caso un estudio sobre un área muy específica de programación. Pocos días después, Andrés Sandoval habló con él y aprobó mi sabático.
 
 Fue un cambio de aires en buen momento. Un año feliz en la UNISON, visitando a mis amigos matemáticos, a los del Area de Astronomía y a la familia. A los guitarristas los vi mucho menos.
 
