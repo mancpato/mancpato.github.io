@@ -7,12 +7,10 @@ nav_order: 3
 
 Me tienen aquí dos cosas: el gusto por aprender y el gusto por compartir. No creo poner todas las asignaturas que he impartido, pero sí las actuales y las más significativas.
 
-**Asignaturas del semestre actual**
-
-Es importante consultar los sitios oficiales en la 
-- [Teoría de la Computación](#TC)
-- [Cálculo Diferencial](#Cálculo-Diferencial)
-- [Álgebra Lineal](#álgebra-lineal)
+**Asignaturas del semestre actual** Es importante consultar los sitios oficiales en la plataforma [EnLinea-UABCS](https://enlinea.uabcs.mx/).
+- [Teoría de la Computación](#TC), en ITC, TM y TV, DASC
+- [Cálculo Diferencial](#Cálculo-Diferencial), en IC TM, DASC
+- [Álgebra Lineal](#álgebra-lineal), en IFER, Pesquerías
 
 **Otros tópicos de mi interés**
 - [Más asignaturas que imparto](#asignaturas), *julio de 2026* El rango es muy amplio, casi aleatorio los primeros años.  
