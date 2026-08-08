@@ -60,7 +60,7 @@ En la siguiente reunión nacional presentamos los 10 criterios de acreditación 
 
 Ya cumplí 27 años en la UABCS, tiempo suficiente para equivocarme muchas veces y para ser testigo demasiado silencioso de la mala administración del Departamento de Sistemas Computacionales. De esto hay mucho qué decir, paciencia.
 
-## Primer año {#primer-año}
+### Primer año {#primer-año}
 <small style="color: #999;">Verano de 1999</small>
 
 Llegué por un concurso de oposición, del que me enteré por la revista U2000, que circulaba entre instituciones educativas. Yo no tenía idea de qué se hacía en BCS, mi tirada era regresar a Sonora. Al ver la convocatoria, fui a decirle a José Madrid, el director de la ESCOM, que iría a participar, no con la idea de irme, pero para conocer qué se hacía por allá. Debía decirle yo antes que le llegara un mal rumor.
@@ -73,14 +73,14 @@ El rector en turno, Jorge Vale, matemático de la UNISON, que acababa de ser ele
 
 A Joel le dije que había que reestructurar la carrera que ofrecía el departamento, aunque invertí demasiado tiempo tratando de convencerlo. Yo venía de ser jefe del Departamento de Diseño Curricular en ESCOM y conocía metodologías, pero él no sabía mucho del asunto y estaba inseguro. Había más problemas que le preocupaban. Tan es así que no duró de jefe de departamento y Jorge Vale me ofreció a mi la jefatura. Acepté. Ahora creo que fue demasiado pronto, necesitaba conocer más del DASC y de la UABCS para haber aprovechado ese momento.
 
-## Jefatura del DASC {#jefatura-del-dasc}
+### Jefatura del DASC {#jefatura-del-dasc}
 <small style="color: #999;">Verano de 2000</small>
 
 El nombramiento fue rápido, supongo que tomó a muchos por sorpresa. De inmediato me di a la tarea de trabajar en cambios curriculares, con el caminito que conocía del IPN, primero invitar a todos a participar y luego planeando las actividades. A la UABCS le aprobaron 4 plazas para profesores de tiempo completo del departamento, de inmediato pensé que tal vez podríamos enriquecer la planta consiguiendo más gente de fuera para enriquecer académicamente nuestra oferta, pero la sed interna era mucho mayor de lo que yo suponía.
 
 Jorge Vale, el rector, nunca permitió que se sacaran a concurso las 4 plazas o al menos 2. Luego entendí que quería esperar a que la gente de su gente en el DASC terminara un posgrado para aumentar sus posibilidades, como ocurrió.
 
-## Comienza la monarquía {#comienza-la-monarquia}
+### Comienza la monarquía {#comienza-la-monarquia}
 <small style="color: #999;">2003</small>
 
 
@@ -89,12 +89,12 @@ Creo que Jorge Vale no se sintió cómodo designando como jefe de departamento a
 
 En esos años, a modo de desahogo, comencé a escribir un diario, a modo de bitácora, para escribir los malos ratos que pasaba un día sí y a veces otro también. 
 
-## Proscripción {#proscripcion}
+### Proscripción {#proscripcion}
 <small style="color: #999;">Verano de 2006</small>
 
 Estuve poco en posgrado y al entrar Jorge García Pámanes de rector yo dejé la jefatura y me fui de profesor al DASC.
 
-## Sabático {#sabatico}
+### Sabático {#sabatico}
 <small style="color: #999;">Ciclo 2006-2007</small>
 
 Ya cumplía los requisitos y decidí tomar un respiro de la UABCS, aprovechando que en la UNISON me podían recibir como profesor visitante en la Licenciatura en Computación del Departamento de Matemáticas, cosa que agradezco a mis amigas Sonia y Edelmira.
@@ -105,28 +105,27 @@ Fue un cambio de aires en buen momento. Un año feliz en la UNISON, visitando a 
 
 Pude comenzar a escribir una monografía sobre los detalles finos de programar cuando la aritmética de punto flotante importa. Ese trabajo lo llamé Programación Numérica. Lo entregué como monografía al regresar, pero lo continué hasta darle forma de libro.
 
-## Pandemia {#pandemia}
+### Pandemia {#pandemia}
 <small style="color: #999;">Primavera de 2020</small>
 
 Todos creíamos que sadríamos de nuevo en poco tiempo, pero el encierro se extendió y perjudicó a muchos. Yo fui de los afortunados que contaban con un sueldo y trabajar de casa no significó problema mayor.
 
 Tuve mucho tiempo para retomar programas e ideas que había dejado pendientes.
 
-## Taller para profesores de matemáticas {#TallerMate}
+### Taller para profesores de matemáticas {#TallerMate}
 <small style="color: #999;">Enero de 2023</small>
 
-Como muchos, siempre me quejé del nivel con el que llegaban los alumnos a la segnda mitad de la carrera, donde por 20 años estuve dando asignaturas alrededor de IA. Eso me hizo pensar muchas cosas, de tal forma que en 2012 comencé a dar vueltas a la idea dar profesionalización matemática a maestros universitarios de matemáticas. 
+La entrada principal de este tema está en la [sección de docencia](/docencia/#tallemate), baste decir que es una de las actividades más reconfortantes de mi vida profesional actual.
 
-En BCS los profesores de matemáticas que son matemáticos de carrera somo un caso raro, la gran mayoría son ingenieros en algo, o licenciados en biología, economía o cualquier otra cosa. Diseñé una primera idea de un curso en este sentido, sobre pensamiento matemático, pero ni a Mónica ni a Andrés (los eternos jefes de departamento) los convencí. Ese taller lo di primero en preparatorias, como taller muy corto.
 
-No fue sino hasta 2023 cuando me aceptaron el taller como curso intersemestral para profesores en la UABCS. Desde entonces, se repite cada semestre y se ha convertido en un espacio de trabajo, para compartir experiencias y metodologías modernas.
+{% include volver-seccion.html url="/vidapro/" %}
 
-## Ingeniería en IA {#ing-ia}
+### Ingeniería en IA {#ing-ia}
 <small style="color: #999;">Diciembre de 2025</small>
 
 Esta es sin duda ninguna, la mayor pifia e injusticia que he vivido en la UABCS. Por mis amigos de otras universidades, yo me enteraba de cómo habían licenciaturas en ciencias de datos o líneas terminales en IA en muchas carreras. En el DASC, desde hace años insistí cada semestre al jefe en turno que nos estábamos viendo lentos.
 
-Para cuando solicité pasarme a dar cursos de matemáticas, yo ya había dado mas de 25 cursos relacionados con IA en 20 años de trabajo en el DASC. eso era perfectamente acorde a mi formación en el posgrado.
+Para cuando solicité pasarme a dar cursos de matemáticas, yo ya había dado mas de 25 cursos relacionados con IA en 20 años de trabajo en el DASC. Eso era perfectamente acorde a mi formación en el posgrado.
 
 Fue a finales de 2025, cuando luego de un congreso de IA, me enteré de que el próximo año se ofrecería una Ingeniería en Inteligencia Artificial. Si eso era cierto, estaban próximos a meter la propuesta a Consejo General, lo que significaba que ya estaban terminando el proyecto. Su majestad Andrés me hizo a un lado de un proyecto que él sabía
 

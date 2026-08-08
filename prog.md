@@ -181,12 +181,17 @@ El repositorio se encuentra en [github.com/mancpato/01-L-R](https://github.com/m
 ---
 
 ### CUDA {#cuda}
-<small style="color: #999;">Verano de 2024</small>
+<small style="color: #999;">Primavera de 2024</small>
 
-Había dinero de un proyecto que se tenía que usar, ya tenía que camibiar de Laptop yeso llevó a comprar una Victus con tarjeta gráfica RTX 3050. Al inicio, todo normal. Pero luego, mis hijos la usaron para jugar. Máquina gamer a fin de cuentas, Halo, Minecraft, cualquier juego moderno se veía de lujo. Entonces me cayó el 20 de que estaba desaprovechando un GPU, así que me di a la tarea de aprender a programarlo.
+Había dinero de un proyecto, ya tenía que cambiar de Laptop y eso llevó a comprar una Victus con tarjeta gráfica **RTX 3050**, aprovechando que estaba en barata. Al inicio, todo normal. Pero luego, mis hijos la usaron para jugar. Máquina gamer a fin de cuentas: Halo, Minecraft, Doom, cualquier juego moderno se veía de lujo. Entonces me cayó el 20 de que estaba desaprovechando un GPU, así que me di a la tarea de aprender a programarlo.
 
-Desde el *Hola mundo* para CUDA (el modelo y herramientas de programación de NVIDIA) me di cuenta de que eso era pensar distinto. Un año más tarde, compré una 3060 para mi computadora de la UABCS.
+Desde el *Hola mundo* para **CUDA** (el modelo y herramientas de programación de **NVIDIA**) me di cuenta de que eso era pensar distinto.  La sintaxis, nueva y engorrosa al inicio, es lo de menos; lo que cambia es la arquitectura mental del algoritmo.
 
+Programar para **CPU** es como dirigir a unos pocos ingenieros expertos (núcleos) que resuelven tareas complejas, pero lo hacen en secuencia: hay que optimizar instrucciones para minimizar la latencia, cuidar la predicción de saltos y diseñar para usar bien la memoria caché (nuestro aliado en este caso).
+
+Programar para **GPU** es como organizar a miles de obreros principiantes para que hagan el mismo trabajo con tareas más simples, pero en paralelo masivo. Exige pensar la geometría del problema para llenar miles de núcleos con trabajo idéntico y minimizar la divergencia de hilos. Para colmo, la memoria cahe se convierte en un cuello de botella oculto; hay que saturar el ancho de banda, aquí la latencia es secundaria. No todo problema es paralelizable de esta forma.
+
+Me gustó tanto que a fin de año compré una **RTX 3060** para mi computadora de la UABCS. Ya quiero dar un curso de introducción a la programación en CUDA, si no no voy a terminar de aprender.
 
 {% include volver-seccion.html url="/programacion/" %}
 

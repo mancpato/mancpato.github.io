@@ -28,7 +28,7 @@ Soy miembro de la [Sociedad Astronómica de Mira](https://www.facebook.com/Socie
   <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5em;">Algunas de mis pasiones</figcaption>
 </figure>
 
-En este sitio (permanentemente en construcción) voy dejando notas, programas y apuntes que elaboro generalmente por el placer de entender, y que igual le sirven a alguien más. De estos intereses y algo más encontrarán información en las secciones accesibles desde las ligas superiores.
+En este sitio (permanentemente en construcción, como la vida) voy dejando notas, programas y apuntes que elaboro generalmente por el placer de entender, y que igual le sirven a alguien más. De estos intereses y algo más encontrarán información en las secciones accesibles desde las ligas superiores.
 
 Poco a poco iré contando historias diversas, cosas de las que quiero dejar constancia, y compartiendo recursos académicos, que espero sean útiles a alumnos, colegas docentes y curiosos. 🙂
 

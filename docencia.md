@@ -166,7 +166,9 @@ La IA no nos obliga a responder esta pregunta. Nos obliga a dejar de ignorarla.
 ## Taller de matemáticas para profesores {#tallemate}
 <small style="color: #999;">Enero de 2023</small>
 
-Desde 2012 he comenzado a escribir algunas ideas sobre la docencia de las matemáticas y comenzó mi interés por trabajar estos temas con profesores del DASC, pero no convencí a cada jefe en turno (Mónica-Andrés). Fue hasta 2023 cuando pude impartir el primer taller de matemáticas para profesores de la UABCS, cosa que le agradezco a Jaime Suárez. 
+Como muchos, siempre me quejé del nivel con el que llegaban los alumnos a la segnda mitad de la carrera. Como matemático, eso me hizo pensar muchas cosas, de tal forma que en 2012 comencé a dar vueltas a la idea dar profesionalización a maestros universitarios de matemáticas y comencé a escribir algunas ideas sobre la docencia de las matemáticas. 
+
+Comenzó mi interés por trabajar estos temas con profesores del DASC, pero no convencí a cada jefe en turno (Mónica-Andrés). Diseñé un taller con materiales y al no tener eco en la UABCS lo di primero en preparatorias, como taller más corto. Fue hasta 2023 cuando pude impartir el primer taller de matemáticas para profesores de la UABCS, cosa que le agradezco a Jaime Suárez. Desde entonces, se repite cada semestre y se ha convertido en un espacio de trabajo, para compartir experiencias y metodologías modernas.
 
 Hay varias ideas que han orientado y poco a poco cambiado el rumbo del taller. En especial los siguientes tres puntos: 1- la matemática para desarrollo intelectual, 2- para desarrollo profesional y 3- el apoyo obligatorio de la tecnología. Los primeros dos puntos fueron la orientación desde enero de 2023 hasta enero de 2025. Desde verano de 2025, el uso de IA se agregó al taller y en verano de 2026 ya se está usando la IA como programador para la generación de recursos dinámicos en clase. 
 
@@ -180,6 +182,18 @@ En síntesis, estos tres puntos, el uso de las matemáticas para desarrollar hab
 ### Taller para media superior
 
 La problemática y recursos analizados no son exclusivos de/para la UABCS u otras instituciones de educación superior, también es posible aplicarlos a nivel medio superior con las debidas adaptaciones.
+
+### El caso del verano de 2026
+
+La edición del taller en agosto de 2026 fue un éxito mayor al esperado. Tanto así que decidí escribir un post en Facebook. Lo reproduzco parcialmente aquí:
+
+>Este verano, le di un giro y nos pusimos a generar programas didácticos apoyados por IA. Escribir código era una barrera infranqueable para la mayoría, ya no lo es. Desde el lunes abrí la puerta de este mundo con un ejemplo sencillo y pensaba llevármelos caminando de la mano, como creo que debe ser. Pero para cuando me di cuenta, ya la mayoría se había soltado iban corriendo cada quien para su rumbo. Ni manera de volver a juntarlos. Para el martes ya nadie caminaba a mi lado. Tuve que cambiar la modalidad de exposición a clase personalizada, viendo con cada asistente lo que estaba haciendo y ayudándole lo mejor que podía.
+
+>Los comentarios de los asistentes nunca habían sido tan elogiosos como en esta ocasión. Salieron con herramientas bien hechas y el caminito para hacer más. El plan en enero próximo es ver la manera de hacer herramientas más sofisticadas. Ya quiero que termine el semestre. Lo que sigue de feliz.
+
+# 🥳
+
+Lo más seguro es que en enero tenga dos públicos, los que ya lo tomaron y van por más y los nuevos. Esto hará más complejo e interesante el taller.
 
 {% include volver-seccion.html url="/docencia/" %}
 
