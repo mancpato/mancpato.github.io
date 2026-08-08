@@ -7,7 +7,7 @@ nav_order: 3
 
 Me tienen aquí dos cosas: el gusto por aprender y el gusto por compartir. No creo poner todas las asignaturas que he impartido, pero sí las actuales y las más significativas.
 
-**Asignaturas del semestre actual** Es importante consultar los sitios oficiales en la plataforma [EnLinea-UABCS](https://enlinea.uabcs.mx/).
+**Asignaturas del semestre actual** Es importante consultar los sitios oficiales en la plataforma [EnLinea-UABCS](https://enlinea.uabcs.mx/). El temario oficial se pondrá en dicha plataforma, con los cambios necesarios, esta página tiene temarios genéricos que sirven a toda carrera.
 - [Teoría de la Computación](#TC), en ITC, TM y TV, DASC
 - [Cálculo Diferencial](#Cálculo-Diferencial), en IC TM, DASC
 - [Álgebra Lineal](#álgebra-lineal), en IFER, Pesquerías
@@ -29,11 +29,24 @@ Me tienen aquí dos cosas: el gusto por aprender y el gusto por compartir. No cr
 
 ### Álgebra Lineal
 
-**Repositorios:**
+Hoy en día, en el mundo digitalizado en que vivimos, casi toda la inforamción que tenemos nos llega tabulada, es decir, en forma de tablas, arreglos bidimensionales de datos, que en matemáticas se llaman matrices. 
 
-- [Refinamiento Iterativo](https://github.com/mancpato/RefItera-cuda-BL) Este proyecto es una implementación y comparación de refinamiento iterativo para sistemas lineales usando tres enfoques diferentes: CPU (OpenBLAS/LAPACK), GPU (CUDA/cuBLAS) y Híbrido (MAGMA).
+Me gusta decir que el álgebra lineal se compone de tres grandes ramas: 1- las propiedades de vectores y matrices, 2- la descomposición de matrices y 3- los sistemas de ecuaciones lineales. Casi todo problema de álgebra lineal en ingeniería cabe en cualquiera de esos tres, dejando afuera los tensores, geometría convexa y espacios de dimensión infinita, que no son tema de este curso.
 
-**Materiales de lectura:**
+Todo temario serio de álgebra lineal debe tener de los tres componentes, en ese orden.
+
+No tengo duda de que el programa [GeoGebra](https://www.geogebra.org/) es de gran utilidad en los primeros semestres, estaremos usándolo constantemente.
+
+<div style="clear: both;"></div>
+
+<figure style="text-align: center; margin: 2em 0 1em;">
+  <img src="/assets/images/docencia/AlgLin-GeoGebra.jpg"
+       alt="Recursos GeoGebra"
+       style="display: block; margin: 0 auto; max-width: 90%; border-radius: 6px;">
+  <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5em;">Algunos recursos de GeGebra de mis cursos.</figcaption>
+</figure>
+
+**Materiales de lectura:** La lectura de textos académicos fomenta el desarrollo de la capacidad analítica, característica indispensable en todo profesional. Estos son materiales pensados para que estudiantes universitarios practiquen esta habilidad.
 
 - [Vectores](/assets/files/docencia/AL1-Vectores.pdf){:target="_blank" rel="noopener noreferrer"}
 - [Matrices](/assets/files/docencia/AL2-Matrices.pdf){:target="_blank" rel="noopener noreferrer"}
@@ -44,9 +57,20 @@ Me tienen aquí dos cosas: el gusto por aprender y el gusto por compartir. No cr
 - [Notas de enseñanza](/assets/files/docencia/AL2-teaching.pdf){:target="_blank" rel="noopener noreferrer"}
 - [Refinamiento iterativo](/assets/files/docencia/AL6-RefinItera.pdf){:target="_blank" rel="noopener noreferrer"}
 
+
+**Repositorios:**
+
+- [Refinamiento Iterativo](https://github.com/mancpato/RefItera-cuda-BL) Este proyecto es una implementación y comparación de refinamiento iterativo para sistemas lineales usando tres enfoques diferentes: CPU (OpenBLAS/LAPACK), GPU (CUDA/cuBLAS) y Híbrido (MAGMA).
+
+
+{% include volver-seccion.html url="/docencia/" %}
 ### Teoría de la Computación {#TC}
 
-La teoría de la computación consta de dos grandes apartados: 1- la teoría de lenguajes formales y autómatas y 2- la complejidad y computabilidad.   
+La teoría de la computación consta de dos grandes apartados: 
+1- la teoría de lenguajes formales y autómatas y 
+2- la complejidad y computabilidad.
+
+La **Teoría de Lenguajes Formales y Autómatas** es la base de la traducción de programas que entiende el usuario a código que entiende el hardware, además de ofrecer el modelo de cómputo básico, las **Máquinas de Turing**, que se usa para representar algoritmos, en forma de lenguajes.
 
 - [Notas de clase (PDF)](/assets/files/docencia/NotasTC.pdf){:target="_blank" rel="noopener noreferrer"}, acumuladas en el transcurso de muchos años.
 - [Fundamentos matemáticos (PDF)](/assets/files/docencia/FundaMateTC.pdf){:target="_blank" rel="noopener noreferrer"}, soporte de las notas de clase.

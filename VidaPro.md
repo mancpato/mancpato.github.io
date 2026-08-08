@@ -93,19 +93,35 @@ Estuve poco en posgrado y al entrar Jorge García Pámanes de rector yo dejé la
 ## Sabático {#sabatico}
 <small style="color: #999;">Verano de 2007</small>
 
-Era un respiro necesario. 
+Ya cumplía los requisitos y decidí tomar un respiro de la UABCS, aprovechando que en la UNISON me podían recibir como profesor visitante en la Licenciatura en Computación del Departamento de Matemáticas, cosa que agradezco a mis amigas Sonia y Edelmira.
+
+Fue un cambio de aires en buen momento. Un año feliz en la UNISON, visitando a mis amigos matemáticos, a los del Area de Astronomía y a la familia. A los guitarristas los vi mucho menos.
+
+Pude comenzar a escribir una monografía sobre los detalles finos de programar cuando la aritmética de punto flotante importa. Ese trabajo lo llamé Programación Numérica. Lo entregué como monografía al regresar, pero lo continué hasta darle forma de libro.
 
 ## Pandemia {#pandemia}
 <small style="color: #999;">Primavera de 2020</small>
 
+Todos creíamos que sadríamos de nuevo en poco tiempo, pero el encierro se extendió y perjudicó a muchos. Yo fui de los afortunados que contaban con un sueldo y trabajar de casa no significó problema mayor.
+
+Tuve mucho tiempo para retomar programas e ideas que había dejado pendientes.
+
 ## Taller para profesores de matemáticas {#TallerMate}
 <small style="color: #999;">Enero de 2023</small>
+
+Como muchos, siempre me quejé del nivel con el que llegaban los alumnos a la segnda mitad de la carrera, donde por 20 años estuve dando asignaturas alrededor de IA. Eso me hizo pensar muchas cosas, de tal forma que en 2012 comencé a dar vueltas a la idea dar profesionalización matemática a maestros universitarios de matemáticas. 
+
+En BCS los profesores de matemáticas que son matemáticos de carrera somo un caso raro, la gran mayoría son ingenieros en algo, o licenciados en biología, economía o cualquier otra cosa. Diseñé una primera idea de un curso en este sentido, sobre pensamiento matemático, pero ni a Mónica ni a Andrés (los eternos jefes de departamento) los convencí. Ese taller lo di primero en preparatorias, como taller muy corto.
+
+No fue sino hasta 2023 cuando me aceptaron el taller como curso intersemestral para profesores en la UABCS. Desde entonces, se repite cada semestre y se ha convertido en un espacio de trabajo, para compartir experiencias y metodologías modernas.
 
 ## Ingeniería en IA {#ing-ia}
 <small style="color: #999;">Diciembre de 2025</small>
 
+Esta es sin duda ninguna, la mayor pifia e injusticia que he vivido en la UABCS. Por mis amigos de otras universidades, yo me enteraba de cómo habían licenciaturas en ciencias de datos o líneas terminales en IA en muchas carreras. En el DASC, desde hace años insistí cada semestre al jefe en turno que nos estábamos viendo lentos.
 
+Para cuando solicité pasarme a dar cursos de matemáticas, yo ya había dado mas de 25 cursos relacionados con IA en 20 años de trabajo en el DASC. eso era perfectamente acorde a mi formación en el posgrado.
 
-
+Fue a finales de 2025, cuando luego de un congreso de IA, me enteré de que el próximo año se ofrecería una Ingeniería en Inteligencia Artificial. Si eso era cierto, estaban próximos a meter la propuesta a Consejo General, lo que significaba que ya estaban terminando el proyecto. Su majestad Andrés me hizo a un lado de un proyecto que él sabía
 
 {% include volver-seccion.html url="/vidapro/" %}
