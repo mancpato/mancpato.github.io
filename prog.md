@@ -311,3 +311,24 @@ Esas versiones no compilaban por la versión/dependencia de software, pero las t
 El código en LaTeX no se ha modernizado y no compila.
 
 {% include volver-seccion.html url="/programacion/" %}
+
+---
+
+### MkTree: un caballo de batalla en el CINVESTAV {#mktree}
+
+El primer cuatrimestre, cursaba Lógica Matemática del Dr. Guillermo Morles. Una de las primeras tareas fue una tabla de verdad para $$n$$ variables. Tuve la afortunada ocurrencia de tratar de generar el árbol sintáctico para luego evaluarlo con facilidad. Mis otros compañeros se fueron por la opción de hacer un analizador recursivo, un parser más sencillo. Para mi ambos eran desconocidos, yo no venía del área de computación.
+
+Este programa me costó varios días, menos de una seman, recuerdo, pero trabajábamos todo el día en el CINVESTAV. `MkTree` (así lo llamé) toma una fórmula proposicional escrita como cadena de texto — con `^`, `|`, `->`, `<->` y negación `—` y construye su árbol sintáctico respetando la precedencia entre conectivos. Sobre ese árbol se apoyaba un programa completo de tablas de verdad, con su propia interfaz de ventanas en modo texto de la época.
+
+Lo que no esperaba es que el mismo esqueleto — convertir una cadena en árbol, y luego manipular el árbol — me sirviera para más que tablas de verdad. Con el árbol ya construido, podíamos ordenarlo a una forma canónica y compararlo con otros, un ladrillo natural hacia la demostración automática de teoremas: unir árboles simples para construir expresiones más grandes. Todos en el curso lo adoptamos para los siguientes programar. Y cuando después llevamos un curso de autómatas y lenguajes formales, reciclé la misma idea, cambiando los conectivos lógicos por los del álgebra de expresiones regulares, para simplificar las expresiones enredadas que salen de eliminar estados de un autómata.
+
+Ese cuatrimestre, y los que le siguieron, MkTree se volvió la pieza que varios de nosotros reutilizábamos sin pensarlo dos veces. Compilaba en Turbo C/C++, con `conio.h`, `new` y `delete`, y todas las señas de su época. Hoy ni compila, y viéndolo con mi ojo crítico actual, tiene sus fallas. Pero la idea de fondo — parsear, construir el árbol, reescribir sobre él — no envejeció mal en absoluto. Se gana su lugar en este baúl de los recuerdos.
+
+<img src="/assets/images/prog/MkTreeBC31.png" alt="Recreación visual (generada con IA) de MkTree.c abierto en Borland C++ 3.1" width="500">
+
+*Recreación visua con IA, no una captura de pantalla real.*
+
+📥 Código original (sin modificar): [MKTREE.C](/assets/files/prog/MKTREE.C) · [EXPRTREE.H](/assets/files/prog/EXPRTREE.H)
+
+{% include volver-seccion.html url="/programacion/" %}
+
