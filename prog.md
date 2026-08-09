@@ -25,6 +25,7 @@ Notas, proyectos y temas afines. La llegada de los LLM ha permitido que rescate 
 - [Cómo comencé a programar](#como-comence-a-programar), *julio de 2026* Del Basic en adelante
 - [Mi tesis de licenciatura](#simplex), *verano de 1993* 
 - [PAREIMM](#pareimm), *1992/1993* Un esfuerzo conjunto de estudiantes de Pedro Flores Pérez
+- [MkTree][#mktree), *1993* Un programa más útil de lo que pensé cuando lo hice.
 
 ---
 
