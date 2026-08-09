@@ -17,6 +17,7 @@ Me tienen aquí dos cosas: el gusto por aprender y el gusto por compartir. No cr
 - [Uso de IA en clases de matemáticas](#ia-mate) *mayo de 2026* Algunas ideas sobre el uso de la tecnología en la docencia de las matemáticas y el lastre que nos detiene.
 - [Taller de matemáticas para profesores en la UABCS](#tallemate), *enero de 2023* Espacio de trabajo al que poco a poco le hemos dado forma entre los colegas asistentes y un servidor.
 - [Sobre la enseñanza del Álgebra Lineal](#EnAL), *verano de 2023* Análisis para entender el **enorme desfase** entre los contenidos de las asignaturas de Álgebra Lineal y la práctica científica e industrial.
+- [Mi forma de trabajo](#forma-trabajo) Esto es la escencia de lo que hago y he hecho por años.
 
 **Del baúl de los recuerdos:**
 - [Cómo comencé a dar clases](#como-comence-a-dar-clases), *julio de 2026* Un afortunado accidente.
@@ -207,6 +208,20 @@ Me resulta frustrante que haya tanto desarrollo interesante y óptimo en álgebr
 Es un recorrido histórico que compara cómo el Cálculo y el Álgebra Lineal llegaron —con siglos de retraso— a los libros de texto que hoy usamos. La tesis central: mientras la práctica científica y de ingeniería ya opera con SVD, factorización QR y métodos iterativos desde hace décadas, la mayoría de los cursos de AL siguen enseñando casi exclusivamente teoría del siglo XIX. Cierra con las recomendaciones curriculares de LACSG (1993 y su actualización de 2022) sobre qué y cómo enseñar AL hoy.
 
 El artículo puede leerse aquí: [EnAL (PDF)](/assets/files/docencia/EnAL.pdf){:target="_blank" rel="noopener noreferrer"}
+
+{% include volver-seccion.html url="/docencia/" %}
+
+---
+
+## Mi forma de trabajo {#forma-trabajo}
+
+Es un ciclo, que comienza con la curiosidad por un tema y sigue un camino para entender y compartir.  Así, el mismo proceso que utilizo para comprender algo termina convirtiéndose en material para que los alumnos lo entiendan. A ellos les comparto lo que escribo, los programas para que visualicen y les ayudo a apropiarse de los conceptos. No son formadores, no necesitan repetir mi camino, usarán el concepto para algo en su carrera.
+
+```
+Curiosidad   →   Revisión   →    Escribir
+     ↑                              ↓
+     └─ Enseñar ← Visualizar ← Programar
+```
 
 {% include volver-seccion.html url="/docencia/" %}
 

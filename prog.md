@@ -5,7 +5,7 @@ permalink: /programacion/
 nav_order: 2
 ---
 
-Notas, proyectos y temas afines. La llegada de los LLM ha permitido que rescate mucho código que he escrito durante décadas, organizando mejor en repositorios de [github](https://github.com/mancpato) cuando creo que vale la pena.
+Notas, proyectos y temas afines. Así como escribo para organizar ideas, programar algoritmos también permite una comprensión más profunda de los métodos y sus detalles. La llegada de los LLM ha permitido que rescate mucho código que he escrito durante décadas, organizando mejor en repositorios de [github](https://github.com/mancpato) cuando creo que vale la pena.
 
 **Algunos proyectos**
 - [GradienViz](#gradienviz), *febrero de 2026* Visualizador de optimización por gradiente, con raíces en programación numérica. Entrada completa en la sección de IA.
