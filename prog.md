@@ -25,7 +25,7 @@ Notas, proyectos y temas afines. La llegada de los LLM ha permitido que rescate 
 - [Cómo comencé a programar](#como-comence-a-programar), *julio de 2026* Del Basic en adelante
 - [Mi tesis de licenciatura](#simplex), *verano de 1993* 
 - [PAREIMM](#pareimm), *1992/1993* Un esfuerzo conjunto de estudiantes de Pedro Flores Pérez
-- [MkTree][#mktree), *1993* Un programa tipo caballo de batalla.
+- [MkTree](#mktree), *1993* Un programa tipo caballo de batalla.
 ---
 
 ### GradienViz {#gradienviz}
@@ -300,7 +300,7 @@ No teniendo formación como desarrolladores de sistemas, creo que fue una buena 
 ---
 
 ### Mi tesis de licenciatura {#simplex}
-<small style="color: #999;">Agosto de 2026</small>
+<small style="color: #999;">julio de 1993</small>
 
 Estudié e implemente un problema de optimización lineal: el método Símplex especializado en redes. El trabajo fue desarrollado en el Departamento de Matemáticas de la Universidad de Sonora. Tesis dirigida por Pedro Flores Pérez. La terminé en el verano de 1993. La presenté un viernes, me dieron mi acta de examen profesional el lunes. El martes ya estaba en la Sección de Computación del Departamento de Ingeniería Eléctrica del CINVESTAV.
 
@@ -315,6 +315,7 @@ El código en LaTeX no se ha modernizado y no compila.
 ---
 
 ### MkTree {#mktree}
+<small style="color: #999;">septiembre de 1993</small>
 
 El primer cuatrimestre, cursaba Lógica Matemática del Dr. Guillermo Morles. Una de las primeras tareas fue una tabla de verdad para $$n$$ variables. Tuve la afortunada ocurrencia de tratar de generar el árbol sintáctico para luego evaluarlo con facilidad. Mis otros compañeros se fueron por la opción de hacer un analizador recursivo, un parser más sencillo. Para mi ambos eran desconocidos, yo no venía del área de computación.
 
