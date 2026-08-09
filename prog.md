@@ -328,7 +328,7 @@ Ese cuatrimestre, y los que le siguieron, MkTree se volvió la pieza que varios 
 
 *Recreación visua con IA, no una captura de pantalla real.*
 
-📥 Código original (sin modificar): [MKTREE.C](/assets/files/prog/MKTREE.C) · [EXPRTREE.H](/assets/files/prog/EXPRTREE.H)
+📥 Código original (sin modificar): [MKTREE.C](/assets/files/programacion/MKTREE.C) · [EXPRTREE.H](/assets/files/programacion/EXPRTREE.H)
 
 {% include volver-seccion.html url="/programacion/" %}
 
