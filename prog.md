@@ -25,8 +25,7 @@ Notas, proyectos y temas afines. La llegada de los LLM ha permitido que rescate 
 - [Cómo comencé a programar](#como-comence-a-programar), *julio de 2026* Del Basic en adelante
 - [Mi tesis de licenciatura](#simplex), *verano de 1993* 
 - [PAREIMM](#pareimm), *1992/1993* Un esfuerzo conjunto de estudiantes de Pedro Flores Pérez
-- [MkTree][#mktree), *1993* Un programa más útil de lo que pensé cuando lo hice.
-
+- [MkTree][#mktree), *1993* Un programa tipo caballo de batalla.
 ---
 
 ### GradienViz {#gradienviz}
@@ -315,7 +314,7 @@ El código en LaTeX no se ha modernizado y no compila.
 
 ---
 
-### MkTree: un caballo de batalla en el CINVESTAV {#mktree}
+### MkTree {#mktree}
 
 El primer cuatrimestre, cursaba Lógica Matemática del Dr. Guillermo Morles. Una de las primeras tareas fue una tabla de verdad para $$n$$ variables. Tuve la afortunada ocurrencia de tratar de generar el árbol sintáctico para luego evaluarlo con facilidad. Mis otros compañeros se fueron por la opción de hacer un analizador recursivo, un parser más sencillo. Para mi ambos eran desconocidos, yo no venía del área de computación.
 
