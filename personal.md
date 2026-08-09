@@ -23,7 +23,17 @@ Aquí hay un poco de todo, sobre cosas que me gustan en la vida. Fotos, comentar
 
 ## Familia
 
+Hijo de Miguel Angel Norzagaray y Esther Basilisa Cosío Lara. Fuimos tres hermanos de ese matrimonio, Yuye, mi hermana mayor y Joao, mi hermano menor.
+
+### Primos
+
+Crecí rodeado de muchos primos, especialmente del lado de mi mamá. 
+
+Del lado de mi papá, mi tía Rosario (su hermana) tuvo 4 hijos y las edades coincidían bastante bien. Mi tía Pacha (su hermana menor) tuvo más hijos, mayores que yo la mayoría, pero se fueron a vivir a San Luis Rio Colorado, así que la convivencia era menor.
+
 ### Juventud feliz
+
+Demasiado que decir de mi época de la primaria, secundaria y prepa. Poco a poco.
 
 ### Mi tribu
 <small style="color: #999;">Verano de 2000</small>
@@ -32,6 +42,12 @@ Tenía pocos días como jefe de departamento cuando llegó un profesor de Cienci
 
 Mi mayor sorpresa fue que fue y se sentó a mi lado, porque iba junto con una pareja de profesores del CICIMAR. Se llamaba Irma, en ese entonces estudiante de la UABCS, de agronegocios. Ya no salió de mi vida. Nos conocimos un 3 de septiembre y nos casamos 366 días después.
 
+Ella terminó de estudiar poco despues. Fueron años de varias salidas a congresos y de hacer planes. En 2006 nos fuimos a Hermosillo, un delicioso año. Al regresar a La Paz, compramos casa, era 2007, mi mamá tuvo su accidente vascular en primavera de ese año.
+
+Luego de 10 años juntos, tuvimos a Miguel. Dos años después a Antonio. Cuando los veo siempre recuerdo que en alguna ocasión, mi papá me dijo: *cuando tengas un hjo vas a entender la emoción que siento cuando te veo*. Lo entiendo ahora.
+
+{% include volver-seccion.html url="/personal/" %}
+
 ---
 
 ## Guitarra
@@ -39,6 +55,8 @@ Mi mayor sorpresa fue que fue y se sentó a mi lado, porque iba junto con una pa
 <small style="color: #999;">Verano de 1979</small>
 
 Entré a los 9 años a la Escuela de Música. Solfeo con Juana Teresa Ruiz Aguirre y pocos meses después batería con el profe Polo Montoya. Luego guitarra con él mismo. A los pocos años ya estaba con Jorge Isidoro Cardoza López. Grandes años, siguiendo los métodos de Sagreras, Carulli y Pujol. Un nuevo mundo cuando nos visitó Selvio Carrizosa, del Conservatorio Nacional, y nos abrió las puertas a lo que era tocar guitarra en serio.
+
+Aprendí rápido y a los 15 años comencé a dos clases en la academia Musical Bustamante. Mis primeras experiencias enseñando a otros y mi primera lanita. Fue una buena etapa. Entre otras cosas, tuve la oportunidad de ir al DF, al Seminario de Guitarra para Maestros de Yamaha. Ahí conocí a varios excelentes guitarristas y conseguí fotocopias de muchísimas partituras.
 
 Me falta:
 - Yamaha
