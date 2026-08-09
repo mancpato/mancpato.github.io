@@ -9,11 +9,13 @@ Aquí hay un poco de todo, sobre cosas que me gustan en la vida. Fotos, comentar
 
 **Lo que me hace feliz**
 - [Familia](#familia)
-  - [Juventud feliz](#juventud-feliz)
-  - [Mi tribu](#mi-tribu)
-- [Guitarra](#guitarra)
-- [Carne asada](#carne-asada)
-- [Ciencia](#ciencia)
+  - [Mi papá](#mi-papá)
+  - [Primos](#primos)
+  - [Juventud feliz {#juventud-feliz}](#juventud-feliz-juventud-feliz)
+  - [Mi tribu {#mi-tribu}](#mi-tribu-mi-tribu)
+- [Guitarra {#guitarra}](#guitarra-guitarra)
+- [Carne asada {#carne-asada}](#carne-asada-carne-asada)
+- [Ciencia {#ciencia}](#ciencia-ciencia)
 
 **Estudios**
 - [UNISON](#UNISON), *1989-1993*
@@ -25,17 +27,21 @@ Aquí hay un poco de todo, sobre cosas que me gustan en la vida. Fotos, comentar
 
 Hijo de Miguel Angel Norzagaray y Esther Basilisa Cosío Lara. Fuimos tres hermanos de ese matrimonio, Yuye, mi hermana mayor y Joao, mi hermano menor.
 
+### Mi papá
+
+Nació en La Paz el 29 de septiembre de 1943.
+
 ### Primos
 
 Crecí rodeado de muchos primos, especialmente del lado de mi mamá. 
 
 Del lado de mi papá, mi tía Rosario (su hermana) tuvo 4 hijos y las edades coincidían bastante bien. Mi tía Pacha (su hermana menor) tuvo más hijos, mayores que yo la mayoría, pero se fueron a vivir a San Luis Rio Colorado, así que la convivencia era menor.
 
-### Juventud feliz
+### Juventud feliz {#juventud-feliz}
 
 Demasiado que decir de mi época de la primaria, secundaria y prepa. Poco a poco.
 
-### Mi tribu
+### Mi tribu {#mi-tribu}
 <small style="color: #999;">Verano de 2000</small>
 
 Tenía pocos días como jefe de departamento cuando llegó un profesor de Ciencias Marinas, Carlos Villavicencio, para invitarme a un convivio de cierre de un evento que acababa de terminar y el departamento (no yo) había participado de diversas maneras. Fue como hacer caravana con sombrero ajeno, así que dudé asistir. Por fortuna, fui un rato a cumplir. Llegué, saludé gente y me senté donde estaba Carlos y otros profesores, una mesa de adultos, la mayoría eran estudiante. Ahí me tocó ver a una chica muy linda, de esas caras preciosas que hacen voltear, con una linda sonrisa.
@@ -50,7 +56,7 @@ Luego de 10 años juntos, tuvimos a Miguel. Dos años después a Antonio. Cuando
 
 ---
 
-## Guitarra
+## Guitarra {#guitarra}
 
 <small style="color: #999;">Verano de 1979</small>
 
@@ -67,7 +73,9 @@ Me falta:
 
 ---
 
-## Carne asada
+## Carne asada {#carne-asada}
+
+
 
 Pasión despertada por las costumbres de mi familia. Muchas reuniones de la infancia incluían brasa de carbón, generalmente con carne, a veces pescado. Al vivir lejos en los 90s, disfrutaba al máximo cada que venía de vacaciones a La Paz.
 
@@ -76,11 +84,14 @@ Pasión despertada por las costumbres de mi familia. Muchas reuniones de la infa
 
 ---
 
-## Ciencia
+## Ciencia {#ciencia}
 
-Me gustó desde que recuerdo. Documentales diversos, Cosmos de Carl Sagan, pláticas con Enrique Nava que era profesor de química y cosas así me motivaron mucho. Tres libros me marcaron desde la primaria: Cazadores de Microbios, Aritmética Recreativa y Matemática Recreativa. Puedo decir que mi entusiasmo por la ciencia fue principalmente en solitario. De niño encontré pocos que me siguieran la idea. Leonidas Reza, en la primaria fue el que más. Tal vez el Mingo, en la secundaria.
 
-En la secundaria estuve en electricidad, en la prepa en Técnico Laboratorista Químico y tuve la fortuna de tener como compañeros de salón a varios que sí disfrutaban de la ciencia. Noe fallecido en pandemia, Eduardo Ruiz, con los que después casi no tuve contacto. Luego me fui a la UNISON a estudiar matemáticas y caí felizmente en la astronomía.
+Me gustó desde que recuerdo. Documentales diversos, Cosmos de Carl Sagan, pláticas con Enrique Nava que era profesor de química y cosas así me motivaron mucho. Tres libros me marcaron desde la primaria: Cazadores de Microbios, Aritmética Recreativa y Matemática Recreativa. Puedo decir que mi entusiasmo por la ciencia fue principalmente en solitario. De niño encontré pocos que me siguieran la idea. Leonidas Reza, en la primaria fue el que más. 
+
+En la secundaria estuve en electricidad. Mi amigo Mingo, era el que más me seguía las ideas de ciencia, pero no tanto como Leonidas. Un gran proyecto que hicimos fue una exposición de animales vivos, en segundo de secundaria.
+
+En la prepa entré a Técnico Laboratorista Químico y tuve la fortuna de tener como compañeros de salón a varios que sí disfrutaban de la ciencia. Noe fallecido en pandemia, Eduardo Ruiz, con los que después casi no tuve contacto. Luego me fui a la UNISON a estudiar matemáticas y caí felizmente en la astronomía.
 
 
 {% include volver-seccion.html url="/personal/" %}

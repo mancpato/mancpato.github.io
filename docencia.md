@@ -26,7 +26,8 @@ Me tienen aquí dos cosas: el gusto por aprender y el gusto por compartir. No cr
 ---
 
 ## Asignaturas que imparto {#asignaturas}
-<small style="color: #999;">Julio de 2026</small>
+
+
 
 ### Álgebra Lineal
 
@@ -91,6 +92,16 @@ El archivo [MTUR](/assets/files/docencia/MTUR.jff){:target="_blank" rel="noopene
 ---
 
 ## Cálculo Diferencial 
+
+
+---
+
+
+## Complejidad y Computabilidad
+
+---
+
+## Métodos Numéricos
 
 
 ---
