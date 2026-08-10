@@ -9,10 +9,10 @@ Me tienen aquí dos cosas: el gusto por aprender y el gusto por compartir. No cr
 
 **Asignaturas del semestre actual** 
 
-Es importante consultar los sitios oficiales en la plataforma [EnLinea-UABCS](https://enlinea.uabcs.mx/). El temario oficial se pondrá en dicha plataforma, con los cambios necesarios, esta página tiene temarios genéricos que sirven a toda carrera. La liga directa a la página de cada curso en EnLíneaUABCS se agrega al final en cada caso.
-- [Teoría de la Computación](#TC), en ITC, TM y TV, DASC
-- [Cálculo Diferencial](#Cálculo-Diferencial), en IC TM, DASC. Liga a [EnLíneaUABCS-CalcDif](https://enlinea2026-2.uabcs.mx/course/view.php?id=3855){:target="_blank" rel="noopener noreferrer"}.
-- [Álgebra Lineal](#álgebra-lineal), en IFER, Pesquerías. Liga a [EnLíneaUABCS-AL](https://enlinea2026-2.uabcs.mx/course/view.php?id=4062){:target="_blank" rel="noopener noreferrer"}.
+Es importante consultar los sitios oficiales en la plataforma [EnLinea-UABCS](https://enlinea.uabcs.mx/). El temario oficial se pondrá en dicha plataforma, con los cambios necesarios, esta página tiene temarios genéricos que sirven a toda carrera. La **liga directa** lleva a la página de cada curso en la plataforma EnLíneaUABCS.
+- [Teoría de la Computación](#TC), en ITC. [Liga directa TM](https://enlinea2026-2.uabcs.mx/course/view.php?id=3852){:target="_blank" rel="noopener noreferrer"}, [Liga directa TV](https://enlinea2026-2.uabcs.mx/course/view.php?id=3851){:target="_blank" rel="noopener noreferrer"}, DASC.
+- [Cálculo Diferencial (Mate I)](#Cálculo-Diferencial), en IC TM, DASC. [Liga directa](https://enlinea2026-2.uabcs.mx/course/view.php?id=3855){:target="_blank" rel="noopener noreferrer"}.
+- [Álgebra Lineal](#álgebra-lineal), en IFER, Pesquerías. [Liga directa](https://enlinea2026-2.uabcs.mx/course/view.php?id=4062){:target="_blank" rel="noopener noreferrer"}.
 
 <div style="clear: both;"></div>
 

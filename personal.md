@@ -60,14 +60,23 @@ Luego de 10 años juntos, tuvimos a Miguel. Dos años después a Antonio. Cuando
 
 <small style="color: #999;">Verano de 1979</small>
 
-Entré a los 9 años a la Escuela de Música. Solfeo con Juana Teresa Ruiz Aguirre y pocos meses después batería con el profe Polo Montoya. Luego guitarra con él mismo. A los pocos años ya estaba con Jorge Isidoro Cardoza López. Grandes años, siguiendo los métodos de Sagreras, Carulli y Pujol. Un nuevo mundo cuando nos visitó Selvio Carrizosa, del Conservatorio Nacional, y nos abrió las puertas a lo que era tocar guitarra en serio.
+Entré a los 9 años a la Escuela de Música. Solfeo con Juana Teresa Ruiz Aguirre y pocos meses después batería con el profe Polo Montoya. Luego guitarra con él mismo. A los pocos años ya estaba con Jorge Isidoro Cardoza López. Grandes años, siguiendo los métodos de Sagreras, Carulli y Pujol. 
+
+Conocimos un nuevo mundo cuando nos visitó Selvio Carrizosa, maestro del Conservatorio Nacional, y nos abrió las puertas a lo que era tocar guitarra en serio. Detalles técnicos como los cruces, la optimización de movimientos, el cuidado de las uñas y mucho más.
+
+**Yamaha**
 
 Aprendí rápido y a los 15 años comencé a dos clases en la academia Musical Bustamante. Mis primeras experiencias enseñando a otros y mi primera lanita. Fue una buena etapa. Entre otras cosas, tuve la oportunidad de ir al DF, al Seminario de Guitarra para Maestros de Yamaha. Ahí conocí a varios excelentes guitarristas y conseguí fotocopias de muchísimas partituras.
 
-Me falta:
-- Yamaha
-- Trío Giuliani
+El más notable fue sin duda Juan Carlos Laguna, estudiante de la Escuela Nacional de Música de penúltimo año. Me invitó a ir a su casa y me sorprendió la cantidad de partituras en su cuarto, por todos lados. Alteros y más alteros, aparentemente desorganizados.
 
+**Trío Giuliani**
+
+Debió ser a mediados de 1990, cuando acompañé a Myriam Cisneros a la Casa de la Cultura porque ella quería tomar clases de baile folclórico. En una oficina encontramos la lista de cursos y maestros y vi que quien atendía guitarra clásica era Pablo Edmundo Ríos. Myriam se apuntó y yo no iba con la intención, pero también me apunté a la clase. Ya tenía referencia de Pablo por mi primo Jesusi, que lo conocía de ambientes musicales. A las pocas semanas comencé a ir con Pablo a tocar guitarra y por esos días también llegó Alejandro Barceló. 
+
+Pablo organizó de inmediato tríos y duos para ensayar. A los pocos meses ya andaba consiguiendo conciertos con el Instituto Sonorense de Cultura. Para Alejandro y para mi, estudiantes, era una lanita que no nos caía nada mal. Así conocimos diversas poblaciones de Sonora. 
+
+Fueron años felices practicando guitarra. Yo iba casi todos los días a las 7pm a practicar, tuviera trabajos o exámenes. Myriam no corrió con suerte, no se abrió su curso.
 
 {% include volver-seccion.html url="/personal/" %}
 
