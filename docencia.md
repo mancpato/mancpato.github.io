@@ -7,10 +7,20 @@ nav_order: 3
 
 Me tienen aquí dos cosas: el gusto por aprender y el gusto por compartir. No creo poner todas las asignaturas que he impartido, pero sí las actuales y las más significativas.
 
-**Asignaturas del semestre actual** Es importante consultar los sitios oficiales en la plataforma [EnLinea-UABCS](https://enlinea.uabcs.mx/). El temario oficial se pondrá en dicha plataforma, con los cambios necesarios, esta página tiene temarios genéricos que sirven a toda carrera.
+**Asignaturas del semestre actual** 
+
+Es importante consultar los sitios oficiales en la plataforma [EnLinea-UABCS](https://enlinea.uabcs.mx/). El temario oficial se pondrá en dicha plataforma, con los cambios necesarios, esta página tiene temarios genéricos que sirven a toda carrera. La liga directa a la página de cada curso en EnLíneaUABCS se agrega al final en cada caso.
 - [Teoría de la Computación](#TC), en ITC, TM y TV, DASC
-- [Cálculo Diferencial](#Cálculo-Diferencial), en IC TM, DASC
-- [Álgebra Lineal](#álgebra-lineal), en IFER, Pesquerías
+- [Cálculo Diferencial](#Cálculo-Diferencial), en IC TM, DASC. Liga a [EnLíneaUABCS-CalcDif](https://enlinea2026-2.uabcs.mx/course/view.php?id=3855){:target="_blank" rel="noopener noreferrer"}.
+- [Álgebra Lineal](#álgebra-lineal), en IFER, Pesquerías. Liga a [EnLíneaUABCS-AL](https://enlinea2026-2.uabcs.mx/course/view.php?id=4062){:target="_blank" rel="noopener noreferrer"}.
+
+<div style="clear: both;"></div>
+
+<figure style="text-align: center; margin: 2em 0 1em;">
+  <img src="/assets/images/docencia/Horario.png"
+       alt="Recursos GeoGebra"
+       style="display: block; margin: 0 auto; max-width: 60%; border-radius: 6px;">
+</figure>
 
 **Otros tópicos de mi interés**
 - [Más asignaturas que imparto](#asignaturas), *julio de 2026* El rango es muy amplio, casi aleatorio los primeros años.  
@@ -37,7 +47,10 @@ Me gusta decir que el álgebra lineal se compone de tres grandes ramas: 1- las p
 
 Todo temario serio de álgebra lineal debe tener de los tres componentes, en ese orden.
 
-No tengo duda de que el programa [GeoGebra](https://www.geogebra.org/) es de gran utilidad en los primeros semestres, estaremos usándolo constantemente.
+
+**GeoGebra**
+
+No tengo duda de que el programa [GeoGebra](https://www.geogebra.org/) es de gran utilidad en los primeros semestres, estaremos usándolo constantemente. Se puede usar en PC, via Web o descargando aplicaciones. También hay versiones para teléfono inteligente y será necesario tenerlas disponibles en clase.
 
 <div style="clear: both;"></div>
 
@@ -47,6 +60,12 @@ No tengo duda de que el programa [GeoGebra](https://www.geogebra.org/) es de gra
        style="display: block; margin: 0 auto; max-width: 90%; border-radius: 6px;">
   <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5em;">Algunos recursos de GeGebra de mis cursos.</figcaption>
 </figure>
+
+**Matlab**
+
+Geogebra es eficiente con lo didáctico, sin duda, pero el trabajo serio no se hace con dibujitos y colores, se hace con matrices y números, manejados con software profesional. Por eso se requiere usar **Matlab/Octave** para hacer cálculos.
+
+Para PC, Octave es la solución, ya que se gratuito, mientras que Matlab requiere licencia y es de alto costo. Para teléfono inteligente, Matlab sí funciona, pero requiere internet. Hay versiones de Octave para el celular pero yo no las he probado suficiente.
 
 **Materiales de lectura:** La lectura de textos académicos fomenta el desarrollo de la capacidad analítica, característica indispensable en todo profesional. Estos son materiales pensados para que estudiantes universitarios practiquen esta habilidad.
 
@@ -66,6 +85,9 @@ No tengo duda de que el programa [GeoGebra](https://www.geogebra.org/) es de gra
 
 
 {% include volver-seccion.html url="/docencia/" %}
+
+---
+
 ### Teoría de la Computación {#TC}
 
 La teoría de la computación consta de dos grandes apartados: 
