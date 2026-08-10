@@ -20,6 +20,7 @@ Es importante consultar los sitios oficiales en la plataforma [EnLinea-UABCS](ht
   <img src="/assets/images/docencia/Horario.png"
        alt="Recursos GeoGebra"
        style="display: block; margin: 0 auto; max-width: 60%; border-radius: 6px;">
+       <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5em;">Mi horario de este semestre.</figcaption>
 </figure>
 
 **Otros tópicos de mi interés**
@@ -113,7 +114,35 @@ El archivo [MTUR](/assets/files/docencia/MTUR.jff){:target="_blank" rel="noopene
 
 ---
 
-## Cálculo Diferencial 
+## Cálculo Diferencial {#Cálculo-Diferencial}
+
+El **cáclulo diferencial** es el fundamento de todo lo que modela los *fenómenos que cambian*. Difícil es pensar, tanto en la naturaleza como en las actividades humanas, algo que NO cambie.
+
+El curso recorre: propiedades de los reales, límites y continuidad, la derivada como tasa de cambio, reglas de derivación, derivadas parciales y aplicaciones.
+
+El concepto central **tasa de cambio** es la puerta a prácticamente todo lo 
+que se modela dinámicamente; por eso importa más entenderlo bien que 
+acumular reglas de derivación de memoria.
+
+**Un paréntesis importante: los números que en verdad usamos**
+
+Antes de derivar nada, vale la pena saber que los "números reales" del 
+curso no son los que manejamos en la práctica: usamos punto flotante 
+(IEEE 754). No entramos a fondo, pero es importante que sepan que existe 
+y qué implica para el cómputo.
+
+**GeoGebra**
+
+No tengo duda de que el programa [GeoGebra](https://www.geogebra.org/) es de gran utilidad en los primeros semestres, estaremos usándolo constantemente. Se puede usar en PC, via Web o descargando aplicaciones. También hay versiones para teléfono inteligente y será necesario tenerlas disponibles en clase.
+
+**Matlab**
+
+Geogebra es eficiente con lo didáctico, sin duda, pero el trabajo serio no se hace con dibujitos y colores, se hace con matrices y números, manejados con software profesional. Por eso se requiere usar **Matlab/Octave** para hacer cálculos.
+
+Para PC, Octave es la solución, ya que se gratuito, mientras que Matlab requiere licencia y es de alto costo. Para teléfono inteligente, Matlab sí funciona, pero requiere internet. Hay versiones de Octave para el celular pero yo no las he probado suficiente.
+
+
+{% include volver-seccion.html url="/docencia/" %}
 
 
 ---
