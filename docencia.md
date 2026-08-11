@@ -51,7 +51,7 @@ Todo temario serio de álgebra lineal debe tener de los tres componentes, en ese
 
 **GeoGebra**
 
-No tengo duda de que el programa [GeoGebra](https://www.geogebra.org/) es de gran utilidad en los primeros semestres, estaremos usándolo constantemente. Se puede usar en PC, via Web o descargando aplicaciones. También hay versiones para teléfono inteligente y será necesario tenerlas disponibles en clase.
+No tengo duda de que el programa [GeoGebra](https://www.geogebra.org/) es de gran utilidad en los primeros semestres, estaremos usándolo constantemente. Se puede usar en PC, via Web o descargando aplicaciones. También hay versiones para teléfono inteligente y será necesario tenerlas disponibles en clase. Tiene fines didácticos, no profesionales.
 
 <div style="clear: both;"></div>
 
@@ -64,7 +64,7 @@ No tengo duda de que el programa [GeoGebra](https://www.geogebra.org/) es de gra
 
 **Matlab**
 
-Geogebra es eficiente con lo didáctico, sin duda, pero el trabajo serio no se hace con dibujitos y colores, se hace con matrices y números, manejados con software profesional. Por eso se requiere usar **Matlab/Octave** para hacer cálculos.
+Geogebra es eficiente con lo didáctico, sin duda, pero el trabajo serio no se hace con dibujitos y colores, se hace con matrices y números, manejados con software profesional. Por eso se requiere usar **Matlab/Octave** para hacer cálculos más serios.
 
 Para PC, Octave es la solución, ya que se gratuito, mientras que Matlab requiere licencia y es de alto costo. Para teléfono inteligente, Matlab sí funciona, pero requiere internet. Hay versiones de Octave para el celular pero yo no las he probado suficiente.
 
@@ -116,7 +116,7 @@ El archivo [MTUR](/assets/files/docencia/MTUR.jff){:target="_blank" rel="noopene
 
 ## Cálculo Diferencial {#Cálculo-Diferencial}
 
-El **cáclulo diferencial** es el fundamento de todo lo que modela los *fenómenos que cambian*. Difícil es pensar, tanto en la naturaleza como en las actividades humanas, algo que NO cambie.
+El **cáclulo diferencial** es el fundamento de todo lo que modela los *fenómenos que cambian*. Difícil es pensar, tanto en la naturaleza como en las actividades humanas, algo que NO cambie. La idea aquí es analizar qué tan rápido cambian y cómo podemos aprovechar ese conocimiento.
 
 El curso recorre: propiedades de los reales, límites y continuidad, la derivada como tasa de cambio, reglas de derivación, derivadas parciales y aplicaciones.
 
@@ -133,11 +133,11 @@ y qué implica para el cómputo.
 
 **GeoGebra**
 
-No tengo duda de que el programa [GeoGebra](https://www.geogebra.org/) es de gran utilidad en los primeros semestres, estaremos usándolo constantemente. Se puede usar en PC, via Web o descargando aplicaciones. También hay versiones para teléfono inteligente y será necesario tenerlas disponibles en clase.
+No tengo duda de que el programa [GeoGebra](https://www.geogebra.org/) es de gran utilidad en los primeros semestres, estaremos usándolo constantemente. Se puede usar en PC, via Web o descargando aplicaciones. También hay versiones para teléfono inteligente y será necesario tenerlas disponibles en clase. Tiene fines didácticos, no profesionales.
 
 **Matlab**
 
-Geogebra es eficiente con lo didáctico, sin duda, pero el trabajo serio no se hace con dibujitos y colores, se hace con matrices y números, manejados con software profesional. Por eso se requiere usar **Matlab/Octave** para hacer cálculos.
+Geogebra es eficiente con lo didáctico, sin duda, pero el trabajo serio no se hace con dibujitos y colores, se hace con matrices y números, manejados con software profesional. Por eso se requiere usar **Matlab/Octave** para hacer cálculos más serios.
 
 Para PC, Octave es la solución, ya que se gratuito, mientras que Matlab requiere licencia y es de alto costo. Para teléfono inteligente, Matlab sí funciona, pero requiere internet. Hay versiones de Octave para el celular pero yo no las he probado suficiente.
 
@@ -305,16 +305,16 @@ Curiosidad   →   Revisión   →    Escribir
 
 Me inicié como docente de nivel superior en la Escuela Superior de Cómputo del IPN, en el verano de 1994 y en 1999 me cambié a la UABCS. Aquí hay materiales, reflexiones y experiencias enseñando matemáticas, especialmente en la UABCS. Dos grandes apartados: sobre las asignaturas regulares que imparto y el taller para profesores de matemáticas de la UABCS.
 
-
 {% include volver-seccion.html url="/docencia/" %}
 
 ---
 
 ## La experiencia en ESCOM {#escom}
-<small style="color: #999;">Julio de 2026</small>
+<small style="color: #999;">Verano de 1994</small>
 
 En 1993 terminé la carrera de matemáticas en la UNISON y de inmediato me fui al posgrado al CINVESTAV. Luego de un año de créditos, el verano siguiente comencé a dar clases de métodos numéricos a uno de los dos grupos de la primera generación de estudiantes de la nueva Escuela Superior de Cómputo del IPN.
 
+En la sección de Vida Profesional están los detalles de ese periodo en [ESCOM](/vidapro/#escom).
 
 {% include volver-seccion.html url="/docencia/" %}
 

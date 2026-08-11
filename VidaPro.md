@@ -25,8 +25,10 @@ Fueron 5 años de aprendizaje y desarrollo profesional acelerado. Inicio de gran
 
 ---
 
-## El primer contacto {#primer-contacto}
+## ESCOM {#escom}
 <small style="color: #999;">Verano de 1994</small>
+
+## El primer contacto {#primer-contacto}
 
 Al término del primer año en el CINVESTAV, con los créditos (asignaturas) ya terminados, seguí trabajar en la tesis, con mucha mayor libertad. Guillermo Morales le dijo a uno de mis compañeros, Julio César Gallardo, que si quería dar clases de Métodos Numéricos en una escuela del poli, que tenía que decidirse ya. Julio rechazó y como a mi siempre me gustaron los métodos numéricos, acepté.
 

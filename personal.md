@@ -9,7 +9,7 @@ Aquí hay un poco de todo, sobre cosas que me gustan en la vida. Fotos, comentar
 
 **Lo que me hace feliz**
 - [Familia](#familia)
-  - [Mi papá](#mi-papá)
+  - [Mis padres](#mis-padres)
   - [Primos](#primos)
   - [Juventud feliz {#juventud-feliz}](#juventud-feliz-juventud-feliz)
   - [Mi tribu {#mi-tribu}](#mi-tribu-mi-tribu)
@@ -27,13 +27,23 @@ Aquí hay un poco de todo, sobre cosas que me gustan en la vida. Fotos, comentar
 
 Hijo de Miguel Angel Norzagaray y Esther Basilisa Cosío Lara. Fuimos tres hermanos de ese matrimonio, Yuye, mi hermana mayor y Joao, mi hermano menor.
 
-### Mi papá
+### Mis padres
+
+**Esther Basilisa Cosío Lara**
+
+Nació el 9 de enero de 1934. Lo que más admiré de ella toda la vida fueron tres cosas: su calidad como cocinera, que sabía hacer familia y su sentido del humor.
+
+**Miguel Angel Norzagaray**
 
 Nació en La Paz el 29 de septiembre de 1943.
 
+De mi papá hay muchas cosas qué decir. Su origen en condiciones difíciles no le impidieron abrirse paso en la vida. Su empuje y capacidad intelectual lo sacaron de un bache en el que algunos de sus compañeros de juegos de la infancia se quedaron.
+
+Formó parte de diversas agrupaciones musicales. El Trío Remembranza, la Rondalla Azul, El Malibat, su grupo en La Caleta son excelentes ejemplos. Miembro fundador de la **Rondalla Azul**.
+
 ### Primos
 
-Crecí rodeado de muchos primos, especialmente del lado de mi mamá. 
+Crecí rodeado de muchos primos, especialmente del lado de mi mamá. Tuvo 7 hermanos, así que mis primos formaban una familia Telerín: había de todas las edades. La mayor mi prima Lupita, el menor, mi hermano Joao.
 
 Del lado de mi papá, mi tía Rosario (su hermana) tuvo 4 hijos y las edades coincidían bastante bien. Mi tía Pacha (su hermana menor) tuvo más hijos, mayores que yo la mayoría, pero se fueron a vivir a San Luis Rio Colorado, así que la convivencia era menor.
 
@@ -72,11 +82,13 @@ El más notable fue sin duda Juan Carlos Laguna, estudiante de la Escuela Nacion
 
 **Trío Giuliani**
 
-Debió ser a mediados de 1990, cuando acompañé a Myriam Cisneros a la Casa de la Cultura porque ella quería tomar clases de baile folclórico. En una oficina encontramos la lista de cursos y maestros y vi que quien atendía guitarra clásica era Pablo Edmundo Ríos. Myriam se apuntó y yo no iba con la intención, pero también me apunté a la clase. Ya tenía referencia de Pablo por mi primo Jesusi, que lo conocía de ambientes musicales. A las pocas semanas comencé a ir con Pablo a tocar guitarra y por esos días también llegó Alejandro Barceló. 
+Debió ser a mediados de 1990, cuando acompañé a Myriam Cisneros a la Casa de la Cultura porque ella quería tomar clases de baile folclórico. En una oficina encontramos la lista de cursos y maestros y vi que quien atendía guitarra clásica era Pablo Edmundo Ríos. Myriam se apuntó y yo no iba con la intención, pero también me apunté a la clase. Ya tenía referencia de Pablo por mi primo Jesusi, que lo conocía de ambientes musicales. 
+
+Myriam no corrió con suerte, no se abrió su curso. A las pocas semanas comencé a ir con Pablo a tocar guitarra y por esos días también llegó Alejandro Barceló. 
 
 Pablo organizó de inmediato tríos y duos para ensayar. A los pocos meses ya andaba consiguiendo conciertos con el Instituto Sonorense de Cultura. Para Alejandro y para mi, estudiantes, era una lanita que no nos caía nada mal. Así conocimos diversas poblaciones de Sonora. 
 
-Fueron años felices practicando guitarra. Yo iba casi todos los días a las 7pm a practicar, tuviera trabajos o exámenes. Myriam no corrió con suerte, no se abrió su curso.
+Fueron años felices practicando guitarra. Yo iba casi todos los días a las 7pm a practicar, tuviera trabajos o exámenes. 
 
 {% include volver-seccion.html url="/personal/" %}
 

@@ -318,7 +318,7 @@ El código en LaTeX no se ha modernizado y no compila.
 ### MkTree {#mktree}
 <small style="color: #999;">septiembre de 1993</small>
 
-El primer cuatrimestre de la maestría en el CINVESTAV, cursaba Lógica Matemática del Dr. Guillermo Morales. Una de las primeras tareas fue una tabla de verdad para $$n$$ variables. Tuve la afortunada ocurrencia de tratar de generar el árbol sintáctico para luego evaluarlo con facilidad. Mis otros compañeros se fueron por la opción de hacer un analizador recursivo, un parser más sencillo. Para mi ambos eran desconocidos, yo no venía del área de computación, y opté por construir el árbol en memoria. La experiencia con árboles en mi tesis de licenciatura me daba confianza.
+El primer cuatrimestre de la maestría en el CINVESTAV, cursaba Lógica Matemática del Dr. Guillermo Morales. Una de las primeras tareas fue una tabla de verdad para $$n$$ variables. Tuve la afortunada ocurrencia de tratar de construir el árbol sintáctico completo en memoria, para luego evaluarlo con facilidad. Mis otros compañeros se fueron por la opción de hacer un analizador recursivo, un parser más sencillo. Para mí ambos eran desconocidos, yo no venía del área de computación, y opté por construir el árbol en memoria. La experiencia con árboles en mi tesis de licenciatura me daba confianza.
 
 Este programa me costó varios días, menos de una semana, recuerdo, pero trabajábamos todo el día en el CINVESTAV. `MkTree` (así lo llamé) toma una fórmula proposicional escrita como cadena de texto — con `^`, `|`, `->`, `<->` y negación `—` y construye su árbol sintáctico respetando la precedencia entre conectivos. Sobre ese árbol se apoyaba un programa completo de tablas de verdad, con su propia interfaz de ventanas en modo texto de la época.
 
