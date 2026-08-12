@@ -160,11 +160,6 @@ El archivo [MTUR](/assets/files/docencia/MTUR.jff){:target="_blank" rel="noopene
 
 ---
 
-## Métodos Numéricos
-
-
----
-
 
 ## Uso de IA en clases de matemáticas {#ia-mate}
 <small style="color: #999;">Mayo de 2026</small>
