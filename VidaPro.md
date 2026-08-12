@@ -5,7 +5,7 @@ permalink: /vidapro/
 nav_order: 5
 ---
 
-Aquí cuento mis experiencias en la **ESCOM** y el **DASC**, mis dos centros de trabajo. La **astronomía**  esmucho más que un pasatiempo, podría incluirla aquí, pero se merece una sección completa (la primera liga en la parte superior).
+Aquí cuento mis experiencias en la **ESCOM** y el **DASC**, mis dos centros de trabajo. La **astronomía**  esmucho más que un pasatiempo, podría incluirla aquí, pero se merece una sección completa (liga en la parte superior).
 
 **ESCOM** *1994-1999* Inicio de mi carrera como docente en nivel superior. Fueron 5 años de aprendizaje y desarrollo profesional acelerado. Inicio de grandes amistades, la fortuna sonreía.
 - [El primer contacto](#primer-contacto) Una afortunada coincidencia.
@@ -17,8 +17,7 @@ Aquí cuento mis experiencias en la **ESCOM** y el **DASC**, mis dos centros de 
 Por fortuna, la posibilidad de impartir cursos en los departamentos académicos de geología y pesquerías a significado aire fresco que me da más ánimos.
 - [Primer año](#primer-año) Las grandes ilusiones
 - [Jefatura del DASC](#jefatura-del-dasc) Sirvió para conocer a mucha gente.
-- [Comienza la monarquía](#comienza-la-monarquia)
-- [Proscripción](#proscripcion)
+- [Comienza la monarquía](#comienza-la-monarquia) (y mi proscripción).
 - [Sabático](#sabatico) Gran cambio de aires y aprendizaje de programación numérica en serio.
 - [Pandemia](#pandemia) Entre problemas y nuevas oportunidades.
 - [Taller para profesores de matemáticas](#TallerMate) Mi nueva trinchera, llena de satisfactores.
@@ -92,8 +91,6 @@ Creo que Jorge Vale no se sintió cómodo designando como jefe de departamento a
 
 En esos años, a modo de desahogo, comencé a escribir un diario, a modo de bitácora, para escribir los malos ratos que pasaba un día sí y a veces otro también. 
 
-### Proscripción {#proscripcion}
-<small style="color: #999;">Verano de 2006</small>
 
 Estuve poco en posgrado y al entrar Jorge García Pámanes de rector yo dejé la jefatura y me fui de profesor al DASC.
 
