@@ -5,7 +5,7 @@ permalink: /docencia/
 nav_order: 3
 ---
 
-Me tienen aquí dos cosas: el gusto por aprender y el gusto por compartir. No creo poner todas las asignaturas que he impartido, pero sí las actuales y las más significativas. Las puedo separar en cursos de [matemáticas]#matemáticas y [computación](#computación).
+Me tienen aquí dos cosas: el gusto por aprender y el gusto por compartir. No creo poner todas las asignaturas que he impartido, pero sí las actuales y las más significativas. Las puedo separar en cursos de [matemáticas](#matemáticas) y [computación](#computación).
 
 **Asignaturas del semestre actual** 
 
