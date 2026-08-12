@@ -5,7 +5,7 @@ permalink: /docencia/
 nav_order: 3
 ---
 
-Me tienen aquí dos cosas: el gusto por aprender y el gusto por compartir. No creo poner todas las asignaturas que he impartido, pero sí las actuales y las más significativas.
+Me tienen aquí dos cosas: el gusto por aprender y el gusto por compartir. No creo poner todas las asignaturas que he impartido, pero sí las actuales y las más significativas. Las puedo separar en cursos de [matemáticas]#matemáticas y [computación](#computación).
 
 **Asignaturas del semestre actual** 
 
@@ -23,8 +23,7 @@ Es importante consultar los sitios oficiales en la plataforma [EnLinea-UABCS](ht
        <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5em;">Mi horario de este semestre.</figcaption>
 </figure>
 
-**Otros tópicos de mi interés**
-- [Más asignaturas que imparto](#asignaturas), *julio de 2026* El rango es muy amplio, casi aleatorio los primeros años.  
+**Otros tópicos de mi interés** 
 - [Uso de IA en clases de matemáticas](#ia-mate) *mayo de 2026* Algunas ideas sobre el uso de la tecnología en la docencia de las matemáticas y el lastre que nos detiene.
 - [Taller de matemáticas para profesores en la UABCS](#tallemate), *enero de 2023* Espacio de trabajo al que poco a poco le hemos dado forma entre los colegas asistentes y un servidor.
 - [Sobre la enseñanza del Álgebra Lineal](#EnAL), *verano de 2023* Análisis para entender el **enorme desfase** entre los contenidos de las asignaturas de Álgebra Lineal y la práctica científica e industrial.
@@ -36,8 +35,7 @@ Es importante consultar los sitios oficiales en la plataforma [EnLinea-UABCS](ht
   
 ---
 
-## Asignaturas que imparto {#asignaturas}
-
+## Matemáticas {#matemáticas}
 
 
 ### Álgebra Lineal
@@ -47,7 +45,6 @@ Hoy en día, en el mundo digitalizado en que vivimos, casi toda la inforamción 
 Me gusta decir que el álgebra lineal se compone de tres grandes ramas: 1- las propiedades de vectores y matrices, 2- la descomposición de matrices y 3- los sistemas de ecuaciones lineales. Casi todo problema de álgebra lineal en ingeniería cabe en cualquiera de esos tres, dejando afuera los tensores, geometría convexa y espacios de dimensión infinita, que no son tema de este curso.
 
 Todo temario serio de álgebra lineal debe tener de los tres componentes, en ese orden.
-
 
 **GeoGebra**
 
@@ -89,32 +86,13 @@ Para PC, Octave es la solución, ya que se gratuito, mientras que Matlab requier
 
 ---
 
-### Teoría de la Computación {#TC}
-
-La teoría de la computación consta de dos grandes apartados: 
-1- la teoría de lenguajes formales y autómatas y 
-2- la complejidad y computabilidad.
-
-La **Teoría de Lenguajes Formales y Autómatas** es la base de la traducción de programas que entiende el usuario a código que entiende el hardware, además de ofrecer el modelo de cómputo básico, las **Máquinas de Turing**, que se usa para representar algoritmos, en forma de lenguajes.
-
-- [Notas de clase (PDF)](/assets/files/docencia/NotasTC.pdf){:target="_blank" rel="noopener noreferrer"}, acumuladas en el transcurso de muchos años.
-- [Fundamentos matemáticos (PDF)](/assets/files/docencia/FundaMateTC.pdf){:target="_blank" rel="noopener noreferrer"}, soporte de las notas de clase.
-
-Para operar con autómatas, nada mejor que usar [JFLAP](https://www.jflap.org/), aplicación en **Java**, gratuita. Recientemente apareció **FSAM**, para Android, descargable desde Play Store, tiene menos características, pero saca del apuro.
-
-**Máquina de Turing Universal Restringida (MTUR)**
-La **MTUR** es un ejemplo de una MT de tres cintas. En la primera cinta recibe el código de otra MT limitada a pocos estados y alfabeto pequeño. La segunda cinta es la entrada para la MT y la tercera cinta lleva el registro del estado en que está la MT y el estado final.
-
-El archivo [MTUR](/assets/files/docencia/MTUR.jff){:target="_blank" rel="noopener noreferrer"} está en formato para JFLAP 7.0.
-
-<!-- ![MTUR](/assets/images/docencia/foto.jpg) -->
-
+### Métodos Numéricos {#metnum}
 
 {% include volver-seccion.html url="/docencia/" %}
 
 ---
 
-## Cálculo Diferencial {#Cálculo-Diferencial}
+### Cálculo Diferencial {#Cálculo-Diferencial}
 
 El **cáclulo diferencial** es el fundamento de todo lo que modela los *fenómenos que cambian*. Difícil es pensar, tanto en la naturaleza como en las actividades humanas, algo que NO cambie. La idea aquí es analizar qué tan rápido cambian y cómo podemos aprovechar ese conocimiento.
 
@@ -143,6 +121,36 @@ Para PC, Octave es la solución, ya que se gratuito, mientras que Matlab requier
 
 
 {% include volver-seccion.html url="/docencia/" %}
+
+---
+
+## Computación {#computación}
+
+### Teoría de la Computación {#TC}
+
+La teoría de la computación consta de dos grandes apartados: 
+1- la teoría de lenguajes formales y autómatas y 
+2- la complejidad y computabilidad.
+
+La **Teoría de Lenguajes Formales y Autómatas** es la base de la traducción de programas que entiende el usuario a código que entiende el hardware, además de ofrecer el modelo de cómputo básico, las **Máquinas de Turing**, que se usa para representar algoritmos, en forma de lenguajes.
+
+- [Notas de clase (PDF)](/assets/files/docencia/NotasTC.pdf){:target="_blank" rel="noopener noreferrer"}, acumuladas en el transcurso de muchos años.
+- [Fundamentos matemáticos (PDF)](/assets/files/docencia/FundaMateTC.pdf){:target="_blank" rel="noopener noreferrer"}, soporte de las notas de clase.
+
+Para operar con autómatas, nada mejor que usar [JFLAP](https://www.jflap.org/), aplicación en **Java**, gratuita. Recientemente apareció **FSAM**, para Android, descargable desde Play Store, tiene menos características, pero saca del apuro.
+
+**Máquina de Turing Universal Restringida (MTUR)**
+La **MTUR** es un ejemplo de una MT de tres cintas. En la primera cinta recibe el código de otra MT limitada a pocos estados y alfabeto pequeño. La segunda cinta es la entrada para la MT y la tercera cinta lleva el registro del estado en que está la MT y el estado final.
+
+El archivo [MTUR](/assets/files/docencia/MTUR.jff){:target="_blank" rel="noopener noreferrer"} está en formato para JFLAP 7.0.
+
+<!-- ![MTUR](/assets/images/docencia/foto.jpg) -->
+
+
+{% include volver-seccion.html url="/docencia/" %}
+
+## Redes Neuronales
+
 
 
 ---
