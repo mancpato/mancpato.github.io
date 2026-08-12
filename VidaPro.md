@@ -5,23 +5,24 @@ permalink: /vidapro/
 nav_order: 5
 ---
 
-Aquí cuento mis experiencias en la **ESCOM** y el **DASC**, mis dos centros de trabajo.
+Aquí cuento mis experiencias en la **ESCOM** y el **DASC**, mis dos centros de trabajo. La **astronomía**  esmucho más que un pasatiempo, podría incluirla aquí, pero se merece una sección completa (la primera liga en la parte superior).
 
-**ESCOM** *1994-1999* Inicio de mi carrera como docente.
-Fueron 5 años de aprendizaje y desarrollo profesional acelerado. Inicio de grandes amistades, la fortuna sonreía.
+**ESCOM** *1994-1999* Inicio de mi carrera como docente en nivel superior. Fueron 5 años de aprendizaje y desarrollo profesional acelerado. Inicio de grandes amistades, la fortuna sonreía.
 - [El primer contacto](#primer-contacto) Una afortunada coincidencia.
-- [Plaza y jefatura](#plaza-y-jefatura) 
+- [Plaza y jefatura](#plaza-y-jefatura) Un camino recorrido rápido.
 - [ANIEI/CONAIC y CENEVAL](#anieiconaic-y-ceneval) Conociendo académicos ejemplares.
 
 **DASC** *1999-* Donde me jubilaré (supongo). Comenzó con grandes planes, hasta que un cáncer hizo de las suyas. Ya cumplí 27 años aquí, tiempo suficiente para equivocarme muchas veces y para ser testigo demasiado silencioso de la mala administración del **D**epartamento **A**ntidemocrático de **S**istemas **C**omputacionales. De esto hay mucho qué decir, paciencia.
+
+Por fortuna, la posibilidad de impartir cursos en los departamentos académicos de geología y pesquerías a significado aire fresco que me da más ánimos.
 - [Primer año](#primer-año) Las grandes ilusiones
-- [Jefatura del DASC](#jefatura-del-dasc)
+- [Jefatura del DASC](#jefatura-del-dasc) Sirvió para conocer a mucha gente.
 - [Comienza la monarquía](#comienza-la-monarquia)
 - [Proscripción](#proscripcion)
-- [Sabático](#sabatico)
-- [Pandemia](#pandemia)
-- [Taller para profesores de matemáticas](#TallerMate)
-- [Ingeniería en IA](#ing-ia)
+- [Sabático](#sabatico) Gran cambio de aires y aprendizaje de programación numérica en serio.
+- [Pandemia](#pandemia) Entre problemas y nuevas oportunidades.
+- [Taller para profesores de matemáticas](#TallerMate) Mi nueva trinchera, llena de satisfactores.
+- [Ingeniería en IA](#ing-ia) 
 
 ---
 
