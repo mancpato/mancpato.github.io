@@ -67,6 +67,8 @@ Ya cumplí 27 años en la UABCS, tiempo suficiente para equivocarme muchas veces
 
 Llegué por un concurso de oposición, del que me enteré por la revista U2000, que circulaba entre instituciones educativas. Yo no tenía idea de qué se hacía en BCS, mi tirada era regresar a Sonora. Al ver la convocatoria, fui a decirle a José Madrid, el director de la ESCOM, que iría a participar, no con la idea de irme, pero para conocer qué se hacía por allá. Debía decirle yo antes que le llegara un mal rumor.
 
+Llegué al Departamento de Sistemas Computacionalesn todos los papeles que la convocatoria pedía. Un poco también para saber si la plaza que se concursaba no estaba ya comprometida y la convocatoria esa un formalismo. No fue así. Algo inesperado fue que me encontré ahí a Luz del Carmen, la secretaria del departamento, compañera mía del jardín de niños y la primaria.
+
 Gané el concurso y en agosto ya estaba en la UABCS. José Madrid no me dejó renunciar porque "si no te gusta allá, ¿cómo te recibo devuelta?", cosa que le agradezco. El mismo me buscó 4 horas a la semana en el CICIMAR para que no renunciara. Al año regresé a ESCOM y presenté mi renuncia.
 
 Recuerdo que las primeras asignaturas que impartí fueron Graficación por Computadora y Paradigmas de Programación. No había dado ningún curso, así que fue de mucho estudiar. El cambio de ESCOM a la UABCS fue enorme, en cuanto a vida académica. Sin seminarios, sin reuniones de academias para discutir temas disciplinarios, demasiado tiempo invertido en la política interna, con tremendas diferencias entre profesores de cada departamento, el DASC no era la excepción.

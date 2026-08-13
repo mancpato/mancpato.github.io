@@ -31,7 +31,9 @@ Hijo de Miguel Angel Norzagaray y Esther Basilisa Cosío Lara. Fuimos tres herma
 
 **Esther Basilisa Cosío Lara**
 
-Nació el 9 de enero de 1934. Lo que más admiré de ella toda la vida fueron tres cosas: su calidad como cocinera, que sabía hacer familia y su sentido del humor.
+Nació el 9 de enero de 1934. Lo que más admiré de ella toda la vida fueron tres cosas: su calidad como cocinera, que sabía hacer familia y su sentido del humor. La cantidad de anécdotas que se cuentan de ella en mi familia es casi inagotable. Se reía sin problema hasta de ella misma.
+
+En 2007 tuvo un accidente vascular que la dejó en cama y sin hablar. Murió en 2009, luego de mes y medio en el hospital, sin haber vuelto a dar señales de conciencia. La extraño mucho y es tema común de plática con mi tribu. No conoció a mis hijos, pero sí supo cuando Irma se embarazó de Miguel, reobazaba de alegría y le sobaba la panza a Irma cuando íbamos. Se merecía un mejor final.
 
 **Miguel Angel Norzagaray**
 
@@ -39,7 +41,7 @@ Nació en La Paz el 29 de septiembre de 1943.
 
 De mi papá hay muchas cosas qué decir. Su origen en condiciones difíciles no le impidieron abrirse paso en la vida. Su empuje y capacidad intelectual lo sacaron de un bache en el que algunos de sus compañeros de juegos de la infancia se quedaron.
 
-Formó parte de diversas agrupaciones musicales. El Trío Remembranza, la Rondalla Azul, El Malibat, su grupo en La Caleta son excelentes ejemplos. Miembro fundador de la **Rondalla Azul**.
+Formó parte de diversas agrupaciones musicales. El Trío Remembranza, la Rondalla Azul, El Malibat, su grupo en La Caleta son excelentes ejemplos. Miembro fundador de la **Rondalla Azul** ([borrador](/assets/files/personal/RondallaWikiBorrador.pdf)).
 
 ### Primos
 
@@ -50,6 +52,8 @@ Del lado de mi papá, mi tía Rosario (su hermana) tuvo 4 hijos y las edades coi
 ### Juventud feliz {#juventud-feliz}
 
 Demasiado que decir de mi época de la primaria, secundaria y prepa. Poco a poco.
+
+Soy de las generaciones que vivieron reencuentros gracias a las redes sociales. **Facebook** permitió encontrar a compañeros de todos los niveles educativos. Fue cosa de tiempo para tener un grupo de Whastsapp de la primaria, scundaria y universidad. Lamento no estar en alguno de la prepa, aunque tengo de contacto a varios. Este tipo de reencuentros no lo vivirán nuestros hijos, que ya no perderán contacto con sus amigos cercanos.
 
 ### Mi tribu {#mi-tribu}
 <small style="color: #999;">Verano de 2000</small>

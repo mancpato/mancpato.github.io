@@ -88,6 +88,14 @@ Para PC, Octave es la solución, ya que se gratuito, mientras que Matlab requier
 
 ### Métodos Numéricos {#metnum}
 
+Los **métodos numéricos** son algoritmos que permiten resolver problemas matemáticos cuya solución son números o aproximarlos. Es común usarlo como sinónimo de **análisis numérico**, que se refiere a su estudio y caracterización, para determinar el tamaño del error que tiene la solución, al emplear aritmética de precisión finita, normalmente, **Aritmética de Punto Flotante**. Por lo general se tratan de problemas de aplicación en civersas ciencias e ingeniería.
+
+Otros problemas de base que se mencionan poco son los de **aritmética computacional**, como los algoritmos de suma de arreglos o la aproximación de funciones trascendentes ($$\sin(x)$$, $$\cos(x)$$, $$e^x$$, ...). Su aplicación principal es para el desarrollo de las librerías matemáticas de cómputo que se usan para programar métodos numéricos.
+
+Ambos casos me interesan y los llamo **Programación Numérica**.
+
+
+
 {% include volver-seccion.html url="/docencia/" %}
 
 ---
