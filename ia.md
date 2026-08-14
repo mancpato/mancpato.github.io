@@ -8,16 +8,16 @@ nav_order: 1
 Notas y proyectos sobre IA (y temas afines). La pandemia fue un detonador importante, me dio tiempo de aprender nuevas tecnologías de redes neuronales y terminar muchos proyectos comenzados hacía años. El trabajo docente aterrizó bien, en mancuerna con mis colegas Margarita de Anda y Jaime Eudes, de la UABCS, aunque ahora veo un futuro incierto en el DASC.
 
 **Algunos proyectos:**
-- [SuiteRNA](#suiterna), *abril de 2026* Gran proyecto de análisis de entrenamiento de redes neuronales. Desde perceptrones multicapa hasta redes de atención, incluyendo redes especiales.
-- [GradienViz](#gradienviz), *febrero de 2026* Visualizador de optimización por gradiente para regresión lineal. Se originó de una plática de redes neuronales y por eso está aquí.
-- [Consensus](#consensus), *mayo de 2026* El debate automatizado para asistencia colegiada.
-- [BusqProfundidad](#busqprofundidad), *febrero de 2020* Búsqueda en profundidad simple, programada en Processing.
-- [BusqAmplitud](#busqamplitud), *febrero de 2020* Búsqueda en amplitud (anchura) simple, programada en Processing.
+- [SuiteRNA](#suiterna), *abril de 2026*. Gran proyecto de análisis de entrenamiento de redes neuronales. Desde perceptrones multicapa hasta redes de atención, incluyendo redes especiales.
+- [GradienViz](#gradienviz), *febrero de 2026*. Visualizador de optimización por gradiente para regresión lineal. Se originó de una plática de redes neuronales y por eso está aquí.
+- [Consensus](#consensus), *mayo de 2026*. El debate automatizado para asistencia colegiada.
+- [BusqProfundidad](#busqprofundidad), *febrero de 2020*. Búsqueda en profundidad simple, programada en Processing.
+- [BusqAmplitud](#busqamplitud), *febrero de 2020*. Búsqueda en amplitud (anchura) simple, programada en Processing.
 
 **Del baúl de los recuerdos:**
 
-- [Mi inicio en la IA](#cinvestav-ia), *1994*, Sobre cómo comencé esta ruta de vida.
-- [Tesis de maestría](#tesis-cinvestav) *1995/1996*
+- [Mi inicio en la IA](#cinvestav-ia), *1994*. Sobre cómo comencé esta ruta de vida.
+- [Tesis de maestría](#tesis-cinvestav), *1995/1996*.
 
 ---
 

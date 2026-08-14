@@ -33,13 +33,13 @@ Hijo de Miguel Angel Norzagaray y Esther Basilisa Cosío Lara. Fuimos tres herma
 
 Nació el 9 de enero de 1934. Lo que más admiré de ella toda la vida fueron tres cosas: su calidad como cocinera, que sabía hacer familia y su sentido del humor. La cantidad de anécdotas que se cuentan de ella en mi familia es casi inagotable. Se reía sin problema hasta de ella misma.
 
-En 2007 tuvo un accidente vascular que la dejó en cama y sin hablar. Murió en 2009, luego de mes y medio en el hospital, sin haber vuelto a dar señales de conciencia. La extraño mucho y es tema común de plática con mi tribu. No conoció a mis hijos, pero sí supo cuando Irma se embarazó de Miguel, reobazaba de alegría y le sobaba la panza a Irma cuando íbamos. Se merecía un mejor final.
+En 2007 tuvo un accidente vascular que la dejó en cama y sin hablar. Murió en 2009, luego de mes y medio en el hospital, sin haber vuelto a dar señales de conciencia. La extraño mucho y es tema común de plática con mi tribu. No conoció a mis hijos, pero sí supo cuando Irma se embarazó de Miguel, rebozaba de alegría y le sobaba la panza a Irma cuando íbamos. Se merecía un mejor final.
 
 **Miguel Angel Norzagaray**
 
 Nació en La Paz el 29 de septiembre de 1943.
 
-De mi papá hay muchas cosas qué decir. Su origen en condiciones difíciles no le impidieron abrirse paso en la vida. Su empuje y capacidad intelectual lo sacaron de un bache en el que algunos de sus compañeros de juegos de la infancia se quedaron.
+De mi papá hay muchas cosas que decir. Su origen en condiciones difíciles no le impidieron abrirse paso en la vida. Su empuje y capacidad intelectual lo sacaron de un bache en el que algunos de sus compañeros de juegos de la infancia se quedaron.
 
 Formó parte de diversas agrupaciones musicales. El Trío Remembranza, la Rondalla Azul, El Malibat, su grupo en La Caleta son excelentes ejemplos. Miembro fundador de la **Rondalla Azul** ([borrador](/assets/files/personal/RondallaWikiBorrador.pdf)).
 
@@ -47,7 +47,7 @@ Formó parte de diversas agrupaciones musicales. El Trío Remembranza, la Rondal
 
 Crecí rodeado de muchos primos, especialmente del lado de mi mamá. Tuvo 7 hermanos, así que mis primos formaban una familia Telerín: había de todas las edades. La mayor mi prima Lupita, el menor, mi hermano Joao.
 
-Del lado de mi papá, mi tía Rosario (su hermana) tuvo 4 hijos y las edades coincidían bastante bien. Mi tía Pacha (su hermana menor) tuvo más hijos, mayores que yo la mayoría, pero se fueron a vivir a San Luis Rio Colorado, así que la convivencia era menor.
+Del lado de mi papá, mi tía Rosario (su hermana) tuvo 4 hijos y las edades coincidían bastante bien. Mi tía Pacha (su hermana menor) tuvo más hijos, mayores que yo la mayoría, pero se fueron a vivir a San Luis Río Colorado, así que la convivencia era menor.
 
 ### Juventud feliz {#juventud-feliz}
 
@@ -60,11 +60,11 @@ Soy de las generaciones que vivieron reencuentros gracias a las redes sociales. 
 
 Tenía pocos días como jefe de departamento cuando llegó un profesor de Ciencias Marinas, Carlos Villavicencio, para invitarme a un convivio de cierre de un evento que acababa de terminar y el departamento (no yo) había participado de diversas maneras. Fue como hacer caravana con sombrero ajeno, así que dudé asistir. Por fortuna, fui un rato a cumplir. Llegué, saludé gente y me senté donde estaba Carlos y otros profesores, una mesa de adultos, la mayoría eran estudiante. Ahí me tocó ver a una chica muy linda, de esas caras preciosas que hacen voltear, con una linda sonrisa.
 
-Mi mayor sorpresa fue que fue y se sentó a mi lado, porque iba junto con una pareja de profesores del CICIMAR. Se llamaba Irma, en ese entonces estudiante de la UABCS, de agronegocios. Ya no salió de mi vida. Nos conocimos un 3 de septiembre y nos casamos 366 días después.
+Mi mayor sorpresa fue que fue y se sentó a mi lado, porque iba junto con una pareja de profesores del CICIMAR. Se llamaba Irma, en ese entonces estudiante de la UABCS, de Agronegocios. Ya no salió de mi vida. Nos conocimos un 3 de septiembre y nos casamos 366 días después.
 
-Ella terminó de estudiar poco despues. Fueron años de varias salidas a congresos y de hacer planes. En 2006 nos fuimos a Hermosillo, un delicioso año. Al regresar a La Paz, compramos casa, era 2007, mi mamá tuvo su accidente vascular en primavera de ese año.
+Ella terminó de estudiar poco despues. Fueron años de varias salidas a congresos y de formular planes planes. En 2006 nos fuimos a Hermosillo, un delicioso año. Al regresar a La Paz, compramos casa, era 2007, mi mamá tuvo su accidente vascular en primavera de ese año.
 
-Luego de 10 años juntos, tuvimos a Miguel. Dos años después a Antonio. Cuando los veo siempre recuerdo que en alguna ocasión, mi papá me dijo: *cuando tengas un hjo vas a entender la emoción que siento cuando te veo*. Lo entiendo ahora.
+Luego de 10 años juntos, tuvimos a Miguel. Dos años después a Antonio. Cuando los veo siempre recuerdo que en alguna ocasión, mi papá me dijo: *cuando tengas un hijo vas a entender la emoción que siento cuando te veo*. Lo entiendo ahora.
 
 {% include volver-seccion.html url="/personal/" %}
 
@@ -102,7 +102,7 @@ Fueron años felices practicando guitarra. Yo iba casi todos los días a las 7pm
 
 
 
-Pasión despertada por las costumbres de mi familia. Muchas reuniones de la infancia incluían brasa de carbón, generalmente con carne, a veces pescado. Al vivir lejos en los 90s, disfrutaba al máximo cada que venía de vacaciones a La Paz.
+Pasión despertada por las costumbres de mi familia. Muchas reuniones de la infancia incluían brasa de carbón, generalmente con carne, a veces pescado. Al vivir lejos en los 90s, disfrutaba al máximo cada vez que venía de vacaciones a La Paz.
 
 
 {% include volver-seccion.html url="/personal/" %}
@@ -112,11 +112,11 @@ Pasión despertada por las costumbres de mi familia. Muchas reuniones de la infa
 ## Ciencia {#ciencia}
 
 
-Me gustó desde que recuerdo. Documentales diversos, Cosmos de Carl Sagan, pláticas con Enrique Nava que era profesor de química y cosas así me motivaron mucho. Tres libros me marcaron desde la primaria: Cazadores de Microbios, Aritmética Recreativa y Matemática Recreativa. Puedo decir que mi entusiasmo por la ciencia fue principalmente en solitario. De niño encontré pocos que me siguieran la idea. Leonidas Reza, en la primaria fue el que más. 
+Me gustó desde que recuerdo. Documentales diversos, Cosmos de Carl Sagan, pláticas con Enrique Nava que era profesor de química y cosas así me motivaron mucho. Tres libros me marcaron desde la primaria: *Cazadores de Microbios*, *Aritmética Recreativa* y *Matemática Recreativa*. Puedo decir que mi entusiasmo por la ciencia fue principalmente en solitario. De niño encontré pocos que me siguieran la idea. Leonidas Reza, en la primaria fue el que más. 
 
 En la secundaria estuve en electricidad. Mi amigo Mingo, era el que más me seguía las ideas de ciencia, pero no tanto como Leonidas. Un gran proyecto que hicimos fue una exposición de animales vivos, en segundo de secundaria.
 
-En la prepa entré a Técnico Laboratorista Químico y tuve la fortuna de tener como compañeros de salón a varios que sí disfrutaban de la ciencia. Noe fallecido en pandemia, Eduardo Ruiz, con los que después casi no tuve contacto. Luego me fui a la UNISON a estudiar matemáticas y caí felizmente en la astronomía.
+En la prepa entré a Técnico Laboratorista Químico y tuve la fortuna de tener como compañeros de salón a varios que sí disfrutaban de la ciencia. Noe fallecido en la pandemia, Eduardo Ruiz, con los que después casi no tuve contacto. Luego me fui a la UNISON a estudiar matemáticas y caí felizmente en la astronomía.
 
 
 {% include volver-seccion.html url="/personal/" %}

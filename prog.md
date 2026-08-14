@@ -8,24 +8,24 @@ nav_order: 2
 Notas, proyectos y temas afines. Así como escribo para organizar ideas, programar algoritmos también permite una comprensión más profunda de los métodos y sus detalles. La llegada de los LLM ha permitido que rescate mucho código que he escrito durante décadas, organizando mejor en repositorios de [github](https://github.com/mancpato) cuando creo que vale la pena.
 
 **Algunos proyectos**
-- [GradienViz](#gradienviz), *febrero de 2026* Visualizador de optimización por gradiente, con raíces en programación numérica. Entrada completa en la sección de IA.
-- [paranoia2](#paranoia2), *verano de 2026* Un verificador de los tipos binarios de la norma IEEE 754 de 2019. 
-- [Lebesgue](#Lebesgue), *febrero/abril de 2026* un comparador visual de las integrales de Riemann y Lebesgue.
+- [GradienViz](#gradienviz), *febrero de 2026*. Visualizador de optimización por gradiente, con raíces en programación numérica. Entrada completa en la sección de IA.
+- [paranoia2](#paranoia2), *verano de 2026*. Un verificador de los tipos binarios de la norma IEEE 754 de 2019. 
+- [Lebesgue](#Lebesgue), *febrero/abril de 2026*. un comparador visual de las integrales de Riemann y Lebesgue.
 - [CUDA](#cuda), verano de 2024, el inicio de programas de alto rendimiento.
-- [Monografía de mi sabático](#mono), *2007/2008* Trabajo comenzado en la UNISON en 2007 y terminado en la UABCS. Presenté la monografía al regresar, pero continué desarrollándolo unos años más hasta darle la forma que quería.
-- [Regresión Lineal](#RegreLineal) *agosto de 2020* Para un curso de posgrado, programado en Processing.
-- [PromedioImg](#PromedioImg) *agosto de 2020* Ejemplo de PDI para estudiantes visitantes del Tec de Mulegé.
+- [Monografía de mi sabático](#mono), *2007/2008*. Trabajo comenzado en la UNISON en 2007 y terminado en la UABCS. Presenté la monografía al regresar, pero continué desarrollándolo unos años más hasta darle la forma que quería.
+- [Regresión Lineal](#RegreLineal) *agosto de 2020*. Para un curso de posgrado, programado en Processing.
+- [PromedioImg](#PromedioImg) *agosto de 2020*. Ejemplo de PDI para estudiantes visitantes del Tec de Mulegé.
 
 **Topología geométrica/combinatoria**
-- [NautyNav](#nauty-nav), *agosto de 2026* Visualizador de grafos generados con geng.c
-- [SmallGraph/TinyGraph](#smallgraph), *2015 -* Grafos he programado desde la licenciatura en la UNISON, pero aquí comencé a tener rutinas serias.
-- [KnotViz](#knotviz), *mayo de 2026* Un visualizador de nudos y algunos de sus invariantes.
+- [NautyNav](#nauty-nav), *agosto de 2026*. Visualizador de grafos generados con `geng.c`.
+- [SmallGraph/TinyGraph](#smallgraph), *2015 - *. Grafos he programado desde la licenciatura en la UNISON, pero aquí comencé a tener rutinas serias.
+- [KnotViz](#knotviz), *mayo de 2026*. Un visualizador de nudos y algunos de sus invariantes.
 
 **Del baúl de los recuerdos:**
-- [Cómo comencé a programar](#como-comence-a-programar), *julio de 2026* Del Basic en adelante
-- [Mi tesis de licenciatura](#simplex), *verano de 1993* 
-- [PAREIMM](#pareimm), *1992/1993* Un esfuerzo conjunto de estudiantes de Pedro Flores Pérez
-- [MkTree](#mktree), *1993* Un programa tipo caballo de batalla.
+- [Cómo comencé a programar](#como-comence-a-programar), *julio de 2026*. Del Basic en adelante
+- [Mi tesis de licenciatura](#simplex), *verano de 1993*. 
+- [PAREIMM](#pareimm), *1992/1993*. Un esfuerzo conjunto de estudiantes de Pedro Flores Pérez
+- [MkTree](#mktree), *1993*. Un programa tipo caballo de batalla.
   
 ---
 
@@ -49,10 +49,10 @@ Explorador interactivo de grafos no isomorfos generados por nauty/geng. Es una h
 
 **Funcionalidades**
 - Panel 1 — Grafo G con layout Fruchterman-Reingold. Hover sobre un vértice muestra su vecindad N(v) y grado; click fija la selección.
-- Panel 2 — Datos básicos, clasificación automática (Kₙ, Cₙ, Pₙ, K₁,ₙ₋₁, Kᵣ,ₛ, Wₙ) e invariantes métricos (diámetro, radio, cintura, centro, triángulos).
+- Panel 2 — Datos básicos, clasificación automática (Kₙ, Cₙ, Pₙ, K₁,ₙ-₁, Kᵣ,ₛ, Wₙ) e invariantes métricos (diámetro, radio, cintura, centro, triángulos).
 - Panel 3 — Matriz de adyacencia interactiva. Hover sobre una celda resalta la arista correspondiente en Panel 1.
 - Panel 4 — Grafo complemento G̅, con opción de mismo layout que G o layout FR independiente.
-Navegación en el slider (arriba), botones ◄◄ ◄ ► ►► y aleatorio; filtro para grafos conexos.
+- Navegación en el slider (arriba), botones ◄◄ ◄ ► ►► y aleatorio; filtro para grafos conexos.
 
 Permite navegar visualmente por todos los grafos no isomorfos de orden n (4 ≤ n ≤ 9), mostrando en tiempo real sus propiedades estructurales y algebraicas. 
 
@@ -71,7 +71,7 @@ Era fácil de hacer, como subproducto de un proyecto mayor que permite hacer bú
 
 Comencé a programar grafos desde la UNISON, gracias a que Pedro Flores estaba metido en optimización y luego de trabajar matricialmente con el método Simplex, decidió meterse a optimización de flujo en redes. Los que estábamos en sus cursos optativos éramos Edelmira, Irene, Myriam y yo.
 
-Es primera versión de grafos era por listas de adyacencia usadas de manera descuidad. Optimizabamos memoria pero no tiempo, cosa que entendí hasta llegar al CINVESTAV. Me han seguido gustando los problemas de grafos y no fue sino hasta 2015 que me regresó la curiosidad por hacer una estructura de datos eficiente, empleando matrices de adyacencia, pero con máscaras de bits.
+La primera versión de grafos era por listas de adyacencia usadas de manera descuidad. Optimizábamos memoria pero no tiempo, cosa que entendí hasta llegar al CINVESTAV. Me han seguido gustando los problemas de grafos y no fue sino hasta 2015 cuando me regresó la curiosidad por hacer una estructura de datos eficiente, empleando matrices de adyacencia, pero con máscaras de bits.
 
 Con la actual arquitectura de 64 bits, me decidí por trabajar rutinas exclusivamente para grafos con un máximo de 64 nodos, lo que significaba un arreglo de 64 enteros largos sin signo. Con esa idea surgió **SmallGraph**. Primero en lenguaje C, fiel a mi origen, pero pocos años más tarde lo mudé a C++, con una clase `SmallGraph.hpp`.
 
@@ -81,7 +81,7 @@ Los grafos distintos crecen tan rápidamente, que sus conteos y búsquedas estab
 
 Con esta estructura y unas pocas semanas de cómputo 24/7 de mi PC de la UABCS (viejita, un intel i3 con 4 núcleos), logré contar todos los grafos de 13 nodos en busca de aquellos con las características de interés. Espero pronto escribir una entrada específica al respecto.
 
-Este fue de mis primero programas optimizados con IA, que hizo una lookup table para reducir cálculos y mejoró una rutina incorporando la nueva operación `popcount` de los procesadores modernos.
+Este fue de mis primero programas optimizados con con ayuda de IA, que hizo una lookup table para reducir cálculos y mejoró una rutina incorporando la nueva operación `popcount` de los procesadores modernos.
 
 
 {% include volver-seccion.html url="/programacion/" %}
@@ -95,7 +95,7 @@ Visualizador interactivo de nudos y algunos de sus invariantes. Los nudos (matem
 
 Pero mi amiga de la UNISON Gaby Hinojosa publicó un paper que me hizo recordar estos intentos y decidí dejar un poco los grafos para indagar sobre estructuras para representar y operar con nudos. No tenía idea del camino tan complicado que estaba tomando, comparado con las matrices de adyacencia de grafos representadas con operaciones bit a bit.
 
-Un nudo es una curva cerrada en el espacio tridimensional y su estudio se basa  en la representación de diagramas planos que capturan su estructura topológica. Para representar un nudo es necesario una estructura de datos que pueda codificar tanto la conectividad entre los segmentos del nudo como la información de los cruces (quién pasa por encima y quién por debajo) y la orientación local en cada cruce (la dirección del trazo). 
+Un nudo es una curva cerrada en el espacio tridimensional y su estudio se basa  en la representación de diagramas planos que capturan su estructura topológica. Para representar un nudo se necesita una estructura de datos que pueda codificar tanto la conectividad entre los segmentos del nudo como la información de los cruces (quién pasa por encima y quién por debajo) y la orientación local en cada cruce (la dirección del trazo). 
 
 Esto requiere combinar varios ingredientes simultáneos: 
 - embedding planar (sistema de rotación), que ya trae consigo la conectividad, pues el orden cíclico de aristas alrededor de cada vértice la presupone, 
@@ -105,7 +105,7 @@ Esto requiere combinar varios ingredientes simultáneos:
 Hay tres representaciones canónicas clásicas:
 - Gauss Code (código de Gauss), que guarda la secuencia de cruces a lo largo de un recorrido del nudo,
 - Código de Diagrama Plano, que describe explícitamente su estructura como un grafo planar con información de cruces y orientación y
-- el código de Dowker-Thistlethwaite, que aprovecha que al recorrer el nudo cada cruce recibe dos números, uno par y uno impar, y para cada cruce (identificado por su etiqueta impar) guarda el número par correspondiente con signo según si el paso es por encima o por debajo, codificando así de un jalón la identidad del cruce y el dato over/under.
+- el código de Dowker-Thistlethwaite, aprovecha que al recorrer el nudo cada cruce recibe dos números, uno par y uno impar, y para cada cruce (identificado por su etiqueta impar) guarda el número par correspondiente con signo según si el paso es por encima o por debajo, codificando así de un jalón la identidad del cruce y el dato over/under.
 
 <img src="{{ site.baseurl }}/assets/images/prog/NudoEjem.png" alt="Pantalla de ejemplo" width="600">
 
@@ -129,7 +129,7 @@ El repositorio se encuentra en [github.com/mancpato/KnotViz](https://github.com/
 ### Paranoia2
 <small style="color: #999;">Julio de 2026</small>
 
-En 1983, el analista numérico William Kahan programó paranoia.bas, un programa que buscaba defectos en las comptadoras de la época. Cada una hacía cuentas a su propio estilo, lo que llevaba a que el mismo programa diera resultados distintos si se cambiaba de computadora. Fue el arquitecto principal de la norma 754 de IEEE, que rige cómo las computadoras deben hacer los cálculos, algo que a la gran mayoría de las personas les pasa desapercibido pero lo usan todo el tiemmpo. Sus trabajos le ganaron la medalla Turing, el equivalente al Nobrel en computación.
+En 1983, el analista numérico William Kahan programó paranoia.bas, un programa que buscaba defectos en las computadoras de la época. Cada una hacía cuentas a su propio estilo, lo que llevaba a que el mismo programa diera resultados distintos si se cambiaba de computadora. Fue el arquitecto principal de la norma 754 de IEEE, que rige cómo las computadoras deben hacer los cálculos, algo que a la gran mayoría de las personas les pasa desapercibido pero lo usan todo el tiempo. Sus trabajos le ganaron la medalla Turing, el equivalente al Nobel en computación.
 
 Conocí el programa traducido paranoia.c y es una maravilla de genialidad. Hoy por fortuna casi toda computadora cumple la norma. **paranoia2** es un verificador del cumplimiento de la norma 2019, para formatos binarios (la norma incluye base 10, pensado para cuestiones económicas).
 
@@ -156,13 +156,15 @@ La iniciativa, idea, interfaces internas, decisiones de diseño, dirección y de
 ### Lebesgue {#Lebesgue}
 <small style="color: #999;">Abril de 2026</small>
 
-En los últimos semestres de la licenciatura en matemáticas conocí la **integral de Lebesgue** y nunca más la volví a usar. Creo recordar que ni le entendí del todo y cada que Lebesgue aprecía en algún documento era un pendiente. Cuando en 2022, regresando de pandemia, me enteré de la **Teoría del Aprendizaje Singular** (Watanabe), me sorprendió ver a Lebesgue metido como técnica imprescindible de integración y en ese momento se despertó mi curiosidad. 
+En los últimos semestres de la licenciatura en matemáticas conocí la **integral de Lebesgue** y nunca más la volví a usar. Creo recordar que ni le entendí del todo y cada que Lebesgue aparecía en algún documento, sentía una deuda moral como matemático. Siempre pensaba volver a revisar el tema, pero cada vez había algo más importante.
 
-Busqué recursos en Geogebra sobre Lebesgue pero no encontré nada, Geogebra está muy orientado a la integral de Reimann, hasta funciones especiales tiene para eso. No quedó más remedio que hacer una propia. En 2023 me decidí por hacer una en **Processing** (un dialecto de javascript), una herramienta que me encanta y que he usado mucho para simular algoritmos para IA. Diseñé una interfaz para comparar una con otra y seleccioné las funciones que permitieran ver mejor las diferencias. Por diversos motivos no lo terminé, es una vergüenza, pero me faltó la parte de la integral de Riemann, lo más fácil.
+Desde hace año he estado metido en el tema de las redes neuronales y en 2022, regresando de pandemia, me enteré de la **Teoría del Aprendizaje Singular** (Watanabe), me sorprendió ver a Lebesgue metido como técnica imprescindible de integración y en ese momento se despertó mi curiosidad. 
+
+Busqué recursos en Geogebra sobre Lebesgue pero no encontré nada, Geogebra está muy orientado a la integral de Riemann, hasta funciones especiales tiene para eso. No quedó más remedio que hacer una propia. En 2023 me decidí por hacer una en **Processing** (un dialecto de javascript), una herramienta que me encanta y que he usado mucho para simular algoritmos para IA. Diseñé una interfaz para comparar una con otra y seleccioné las funciones que permitieran ver mejor las diferencias. Por diversos motivos no lo terminé, es una vergüenza, pero me faltó la parte de la integral de Riemann, lo más fácil.
 
 Creo que en ese momento perdí el interés momentaneamente porque el reto mayor es que la comparación luce cuando la partición involucra conjuntos numerables y no numerables. En la computadora, la aritmética de punto flotante limita a sólo un subconjunto finito de racionales distribuidos logarítmicamente, pero eso no tiene por qué detener un programa que hace una simulación. Una vez que logré el objetivo, me entró un poco de flojera por los rectángulos de Riemann y el proyecto se quedó durmiendo el sueño de los justos, durante un año.
 
-En 2026, aprovechando la diversificación de IAs que sirven de eficientes chalanes programadores, reretomé el proyecto y terminé lo que faltaba. 
+En 2026, aprovechando la diversificación de IAs que sirven de eficientes chalanes programadores, retomé el proyecto y terminé lo que faltaba. Finalmente entendía la parte operativa de la integral de Lebesgue.
 
 La diferencia entre ambas integrales no es computacional sino epistemológica: **Riemann particiona el dominio (eje X), Lebesgue particiona el codominio (eje Y).** Este simulador hace esa diferencia visible e interactiva.
 
@@ -190,9 +192,9 @@ Desde el *Hola mundo* para **CUDA** (el modelo y herramientas de programación d
 
 Programar para **CPU** es como dirigir a unos pocos ingenieros expertos (núcleos) que resuelven tareas complejas, pero lo hacen en secuencia: hay que optimizar instrucciones para minimizar la latencia, cuidar la predicción de saltos y diseñar para usar bien la memoria caché (nuestro aliado en este caso).
 
-Programar para **GPU** es como organizar a miles de obreros principiantes para que hagan el mismo trabajo con tareas más simples, pero en paralelo masivo. Exige pensar la geometría del problema para llenar miles de núcleos con trabajo idéntico y minimizar la divergencia de hilos. Para colmo, la memoria cahe se convierte en un cuello de botella oculto; hay que saturar el ancho de banda, aquí la latencia es secundaria. No todo problema es paralelizable de esta forma.
+Programar para **GPU** es como organizar a miles de obreros principiantes para que hagan el mismo trabajo con tareas más simples, pero en paralelo masivo. Exige pensar la geometría del problema para llenar miles de núcleos con trabajo idéntico y minimizar la divergencia de hilos. Para colmo, la memoria cache se convierte en un cuello de botella oculto; hay que saturar el ancho de banda, aquí la latencia es secundaria. No todo problema es paralelizable de esta forma.
 
-Me gustó tanto que a fin de año compré una **RTX 3060** para mi computadora de la UABCS. Ya quiero dar un curso de introducción a la programación en CUDA, si no no voy a terminar de aprender.
+Me gustó tanto que a fin de año compré una **RTX 3060** para mi computadora de la UABCS. Ya quiero dar un curso de introducción a la programación en CUDA, si no, no voy a terminar de aprender.
 
 {% include volver-seccion.html url="/programacion/" %}
 
@@ -274,7 +276,7 @@ Ya en la universidad me enseñaron Fortran y lo usé pocos años para hacer prog
 
 Me fui al posgrado y comencé a usar un poco de c++. El libro "Introduction to Algorithms" de Cormen comenzó a ser nuestra biblia, además de "El Arte de Programar Computadoras" de Knuth, el antiguo testamento. Un poco menos, el de "Sistemas Operativos Modernos" de Tenenbaum. Terminando el primer año de créditos, tuve la osadía de comenzar a dar clases en la Escuela Superior de Cómputo del IPN en 1994, donde tuve la fortuna de conocer alumnos con excelentes habilidades para programar y pude comenzar a transferir muchas de las cosas que había aprendido desde 10 años atrás. Ahora sí sentí que ya sabía programar.
 
-En 1999, me vine a la UABCS y por google encontré el libro "The Practice of Programming de Kernighan", escrito más de 20 años después del primero, con notables diferencias que reflejaban cambios profundos en la manera de programar. Me atraganté con ese libro. En esa época leí muchos artículos de la ACM al respecto. Pocos años después, "Code Complete" de MacConnell llegó a mis manos. Me encantó, pero no correspondía a mis asignaturas, así que un tiempo lo tuvo mi colega Italia Estrada, que daba ingeniería de software. Luego me lo llevé a un sabático en Hermosillo y con mi colega Edelmira Edelmira Rodríguez separamos los checklist para hacer un folleto para estudiantes. Pocos años después, me llegó el libro "Clean Code" de Martin, con ideas diferentes pero complementarias.
+En 1999, me vine a la UABCS y por google encontré el libro "The Practice of Programming de Kernighan", escrito más de 20 años después del primero, con notables diferencias que reflejaban cambios profundos en la manera de programar. Me atraganté con ese libro. En esa época leí muchos artículos de la ACM al respecto. Pocos años después, "Code Complete" de MacConnell llegó a mis manos. Me encantó, pero no correspondía a mis asignaturas, así que un tiempo lo tuvo mi colega Italia Estrada, que daba ingeniería de software. Luego me lo llevé a un sabático en Hermosillo y con mi colega Edelmira Rodríguez separamos los checklist para hacer un folleto para estudiantes. Pocos años después, me llegó el libro "Clean Code" de Martin, con ideas diferentes pero complementarias.
 
 Para ese entonces, los cursos de inteligencia artificial y estadística ya me habían hecho incursionar en R y Processing. Nunca dejé el C y tuve que agregar Matlab para cosas numéricas. Poder usar bajo o alto nivel sí funciona. Definitivamente sentía que ya sabía programar.
 Desde hace pocos años sólo doy cursos de matemáticas, pero sin dejar de hacer programas, aunque más sencillos en muchos casos. Con la llegada de los modelos de lenguajes como ChatGPT, Claude, Julius o Gemini, la generación de código nos pone en otro panorama. Mucho de lo que he aprendido tiene que cambiar, lo mismo que la manera de enseñarlo. Ahora, 40 años después de comenzar con BASIC, estoy seguro de que no terminaré de aprender a programar.
@@ -294,7 +296,7 @@ En ese texto, faltó la experiencia con CUDA.
 **P**rograma de **A**nálisis de **R**edes fue el nombre que nos gustó a quienes lo desarrollamos. 
 Fuimos 4 estudiantes de matemáticas los que nos animamos a tomar los cursos optativos que Pedro Flores ofreció sobre optimización: Edelmira, Irene, Myriam y yo. De la primera letra de nuestros nombres sale **EIMM**, con lo que tenemos el nombre completo del proyecto, **PAREIMM**. Implementamos en C los algoritmos Prim, Kruskal, Floyd y Dijkstra. Pedro Flores nos asesoró.
 
-No teniendo formación como desarrolladores de sistemas, creo que fue una buena hazaña de esa época, mucho qué aprender. El sistema de menúes en modo texto lo hice yo y se pegaron así los 4 programas individuales con un editor en modo texto para las redes y el manejo de archivos. Creo que ese fue mi primer gran programa, además colaborando con grandes amigas.
+No teniendo formación como desarrolladores de sistemas, creo que fue una buena hazaña de esa época, mucho que aprender. El sistema de menúes en modo texto lo hice yo y se pegaron así los 4 programas individuales con un editor en modo texto para las redes y el manejo de archivos. Creo que ese fue mi primer gran programa, además colaborando con grandes amigas.
 
 {% include volver-seccion.html url="/programacion/" %}
 
@@ -303,7 +305,7 @@ No teniendo formación como desarrolladores de sistemas, creo que fue una buena 
 ### Mi tesis de licenciatura {#simplex}
 <small style="color: #999;">julio de 1993</small>
 
-Estudié e implemente un problema de optimización lineal: el método Símplex especializado en redes. El trabajo fue desarrollado en el Departamento de Matemáticas de la Universidad de Sonora. Tesis dirigida por Pedro Flores Pérez. La terminé en el verano de 1993. La presenté un viernes, me dieron mi acta de examen profesional el lunes. El martes ya estaba en la Sección de Computación del Departamento de Ingeniería Eléctrica del CINVESTAV.
+Estudié e implementé un problema de optimización lineal: el método Símplex especializado en redes. El trabajo fue desarrollado en el Departamento de Matemáticas de la Universidad de Sonora. Tesis dirigida por Pedro Flores Pérez. La terminé en el verano de 1993. La presenté un viernes, me dieron mi acta de examen profesional el lunes. El martes ya estaba en la Sección de Computación del Departamento de Ingeniería Eléctrica del CINVESTAV.
 
 El repositorio se encuentra en [github.com/mancpato/MiSimplex](https://github.com/mancpato/MiSimplex). El código fue desarrollado usando Borland C/C++ (3.0 o 3.1) y el documento escrito usando LaTeX. 
 
@@ -328,7 +330,7 @@ Ese cuatrimestre, y los que le siguieron, MkTree se volvió la pieza que varios 
 
 <img src="/assets/images/prog/MkTreeBC31.png" alt="Recreación visual (generada con IA) de MkTree.c abierto en Borland C++ 3.1" width="500">
 
-*Recreación visua con IA, no una captura de pantalla real.*
+*Recreación visual con IA, no una captura de pantalla real.*
 
 📥 Código original (sin modificar): [MKTREE.C](/assets/files/programacion/MKTREE.C) · [EXPRTREE.H](/assets/files/programacion/EXPRTREE.H)
 

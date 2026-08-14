@@ -5,14 +5,14 @@ permalink: /vidapro/
 nav_order: 5
 ---
 
-Aquí cuento mis experiencias en la **ESCOM** y el **DASC**, mis dos centros de trabajo. La **astronomía**  esmucho más que un pasatiempo, podría incluirla aquí, pero se merece una sección completa (liga en la parte superior).
+Aquí cuento mis experiencias en la **ESCOM** y el **DASC**, mis dos centros de trabajo. La **astronomía**  es mucho más que un pasatiempo, podría incluirla aquí, pero se merece una sección completa (liga en la parte superior).
 
 **ESCOM** *1994-1999* Inicio de mi carrera como docente en nivel superior. Fueron 5 años de aprendizaje y desarrollo profesional acelerado. Inicio de grandes amistades, la fortuna sonreía.
 - [El primer contacto](#primer-contacto) Una afortunada coincidencia.
 - [Plaza y jefatura](#plaza-y-jefatura) Un camino recorrido rápido.
 - [ANIEI/CONAIC y CENEVAL](#anieiconaic-y-ceneval) Conociendo académicos ejemplares.
 
-**DASC** *1999-* Donde me jubilaré (supongo). Comenzó con grandes planes, hasta que un cáncer hizo de las suyas. Ya cumplí 27 años aquí, tiempo suficiente para equivocarme muchas veces y para ser testigo demasiado silencioso de la mala administración del **D**epartamento **A**ntidemocrático de **S**istemas **C**omputacionales. De esto hay mucho qué decir, paciencia.
+**DASC** *1999-* Donde me jubilaré (supongo). Comenzó con grandes planes, hasta que un cáncer hizo de las suyas. Ya cumplí 27 años aquí, tiempo suficiente para equivocarme muchas veces y para ser testigo demasiado silencioso de la mala administración del **D**epartamento **A**ntidemocrático de **S**istemas **C**omputacionales. De esto hay mucho que decir, paciencia.
 
 Por fortuna, la posibilidad de impartir cursos en los departamentos académicos de geología y pesquerías a significado aire fresco que me da más ánimos.
 - [Primer año](#primer-año) Las grandes ilusiones
@@ -30,7 +30,7 @@ Por fortuna, la posibilidad de impartir cursos en los departamentos académicos 
 
 ## El primer contacto {#primer-contacto}
 
-Al término del primer año en el CINVESTAV, con los créditos (asignaturas) ya terminados, seguí trabajar en la tesis, con mucha mayor libertad. Guillermo Morales le dijo a uno de mis compañeros, Julio César Gallardo, que si quería dar clases de Métodos Numéricos en una escuela del poli, que tenía que decidirse ya. Julio rechazó y como a mi siempre me gustaron los métodos numéricos, acepté.
+Al término del primer año en el CINVESTAV, con los créditos (asignaturas) ya terminados, seguí trabajarndo en mi tesis, con mucha mayor libertad. Guillermo Morales le dijo a uno de mis compañeros, Julio César Gallardo, que si quería dar clases de Métodos Numéricos en una escuela del poli, que tenía que decidirse ya. Julio rechazó y como a mi siempre me gustaron los métodos numéricos, acepté.
 
 Tuve el gusto de darle a uno de los dos grupos de la primera generación de la **Escuela Superior de Cómputo**. Puedo contar a varios entre mis amigos, aunque no los vea seguido. Alta tasa de alumnos brillantes.
 
@@ -39,7 +39,7 @@ Tuve el gusto de darle a uno de los dos grupos de la primera generación de la *
 
 Mi primer contrato fue en el segundo semestre de 1994, por 4.5 horas. Un curso de métodos numéricos, cuando la ESCOM aún trabajaba en instalaciones prestadas por otra escuela en el IPN-Zacatenco. El siguiente semestre me dieron dos grupos, 9 horas, dos grupos de estructuras de datos. El segundo semestre de 1995 mi contrato fue de medio tiempo y 1996 ya fue por 40 horas.
 
-No cumplí el año como tiempo completo cuando José Madrid, el director de ESCOM me preguntó si quería ser Jefe del Departamento de Desarrollo Curricular. Acepté de inmediato.
+No cumplí el año como tiempo completo cuando José Madrid, director de la ESCOM me preguntó si quería ser Jefe del Departamento de Desarrollo Curricular. Acepté de inmediato.
 
 ## ANIEI/CONAIC y CENEVAL {#anieiconaic-y-ceneval}
 <small style="color: #999;">Verano de 1996</small>
@@ -48,7 +48,7 @@ Como responsable del desarrollo curricular, José Madrid me comisionó para asis
 
 El trabajo se organizó en 3 comisiones, una para ver los asuntos legales, otra para la parte logística y de procedimientos y la tercera encargada de los criterios de acreditación. En esa me metí. Fue un año de trabajo con excelentes colegas académicos de diversas instituciones del país. Yo representando al IPN, había gente de la UAM, los sistemas Tecnológicos y otras universidades. Año de viajes y rico trabajo académico. Lourdes Sánchez Guerrero, la vicepresidenta de ANIEI era la encargada de nuestra comisión.
 
-En la siguiente reunión nacional presentamos los 10 criterios de acreditación con los que comenzaría a trabajar el Consejo Nacional de Acreditación en Informática y Computación, **CONAIC**. recuerdo como si fuera ayer que cuando los presentamos, muchos de los presentes se quejaron de que no lograrían pasar con el nivel que estábamos exigiendo. Me tocó ser a mi el que explicó que tuvimos muchas decisiones al respecto y que la idea final fue que los criterios debían ser la manera de ir con el rector o director para decirle "si no tengo más computadoras o mejoras la infraestructura, no aprobamos" y finalmente no hubo más peros. Esa noche celebramos.
+En la siguiente reunión nacional presentamos los 10 criterios de acreditación con los que comenzaría a trabajar el Consejo Nacional de Acreditación en Informática y Computación, **CONAIC**. Recuerdo como si fuera ayer que cuando los presentamos, muchos de los presentes se quejaron de que no lograrían pasar con el nivel que estábamos exigiendo. Me tocó ser a mi el que explicó que tuvimos muchas decisiones al respecto y que la idea final fue que los criterios debían ser la manera de ir con el rector o director para decirle "si no tengo más computadoras o mejoras la infraestructura, no aprobamos" y finalmente no hubo más peros. Esa noche celebramos.
 
 **CENEVAL** solicitaba constantemente profesores y profesionales para ayudar en la evaluación de reactivos y conformación de exámenes. Ahí tuve la oportunidad de conocer a otros académicos, distintos a los de ANIEI, todos de gran calidad académica. Las reuniones, presididas por Silvia González Brambila, encargada de los exámenes de computación e informática, era siempre discusiones académicas muy agradable.
 
@@ -60,27 +60,27 @@ En la siguiente reunión nacional presentamos los 10 criterios de acreditación 
 
 <small style="color: #999;">Agosto de 1999</small>
 
-Ya cumplí 27 años en la UABCS, tiempo suficiente para equivocarme muchas veces y para ser testigo demasiado silencioso de la mala administración del Departamento de Sistemas Computacionales. De esto hay mucho qué decir, paciencia.
+Ya cumplí 27 años en la UABCS, tiempo suficiente para equivocarme muchas veces y para ser testigo demasiado silencioso de la mala administración del Departamento de Sistemas Computacionales. De esto hay mucho que decir, paciencia.
 
 ### Primer año {#primer-año}
 <small style="color: #999;">Verano de 1999</small>
 
 Llegué por un concurso de oposición, del que me enteré por la revista U2000, que circulaba entre instituciones educativas. Yo no tenía idea de qué se hacía en BCS, mi tirada era regresar a Sonora. Al ver la convocatoria, fui a decirle a José Madrid, el director de la ESCOM, que iría a participar, no con la idea de irme, pero para conocer qué se hacía por allá. Debía decirle yo antes que le llegara un mal rumor.
 
-Llegué al Departamento de Sistemas Computacionalesn todos los papeles que la convocatoria pedía. Un poco también para saber si la plaza que se concursaba no estaba ya comprometida y la convocatoria esa un formalismo. No fue así. Algo inesperado fue que me encontré ahí a Luz del Carmen, la secretaria del departamento, compañera mía del jardín de niños y la primaria.
+Llegué al Departamento de Sistemas Computacionalesn con todos los papeles que la convocatoria pedía. Un poco también para saber si la plaza que se concursaba no estaba ya comprometida y la convocatoria era un formalismo. No fue así. Algo inesperado fue que me encontré ahí a Luz del Carmen, la secretaria del departamento, compañera mía del jardín de niños y la primaria.
 
-Gané el concurso y en agosto ya estaba en la UABCS. José Madrid no me dejó renunciar porque "si no te gusta allá, ¿cómo te recibo devuelta?", cosa que le agradezco. El mismo me buscó 4 horas a la semana en el CICIMAR para que no renunciara. Al año regresé a ESCOM y presenté mi renuncia.
+Gané el concurso y en agosto ya estaba en la UABCS. José Madrid no me dejó renunciar porque "si no te gusta allá, ¿cómo te recibo devuelta?", cosa que le agradezco. Él mismo me buscó 4 horas a la semana en el CICIMAR para que no renunciara. Al año regresé a ESCOM y presenté mi renuncia.
 
 Recuerdo que las primeras asignaturas que impartí fueron Graficación por Computadora y Paradigmas de Programación. No había dado ningún curso, así que fue de mucho estudiar. El cambio de ESCOM a la UABCS fue enorme, en cuanto a vida académica. Sin seminarios, sin reuniones de academias para discutir temas disciplinarios, demasiado tiempo invertido en la política interna, con tremendas diferencias entre profesores de cada departamento, el DASC no era la excepción.
 
 El rector en turno, Jorge Vale, matemático de la UNISON, que acababa de ser elegido y había muchos cambios, y pleitos que no acababan. El nuevo jefe de departamento fue Joel Suárez Cansino. Fue claro desde el principio que no era del equipo del rector, al igual de Thomas Hucke y su gente, el encargado del Programa de Telecomunicaciones de la UABCS.
 
-A Joel le dije que había que reestructurar la carrera que ofrecía el departamento, aunque invertí demasiado tiempo tratando de convencerlo. Yo venía de ser jefe del Departamento de Diseño Curricular en ESCOM y conocía metodologías, pero él no sabía mucho del asunto y estaba inseguro. Había más problemas que le preocupaban. Tan es así que no duró de jefe de departamento y Jorge Vale me ofreció a mi la jefatura. Acepté. Ahora creo que fue demasiado pronto, necesitaba conocer más del DASC y de la UABCS para haber aprovechado ese momento.
+A Joel le dije que había que reestructurar la carrera que ofrecía el departamento, aunque invertí demasiado tiempo tratando de convencerlo. Yo venía de ser jefe del Departamento de Diseño Curricular en ESCOM y conocía metodologías, pero él no sabía mucho del asunto y estaba inseguro. Había más problemas que le preocupaban. Tan es así que no duró de jefe de departamento y Jorge Vale me ofreció la jefatura. Acepté. Ahora creo que fue demasiado pronto, necesitaba conocer más del DASC y de la UABCS para haber aprovechado ese momento.
 
 ### Jefatura del DASC {#jefatura-del-dasc}
 <small style="color: #999;">Verano de 2000</small>
 
-El nombramiento fue rápido, supongo que tomó a muchos por sorpresa. De inmediato me di a la tarea de trabajar en cambios curriculares, con el caminito que conocía del IPN, primero invitar a todos a participar y luego planeando las actividades. A la UABCS le aprobaron 4 plazas para profesores de tiempo completo del departamento, de inmediato pensé que tal vez podríamos enriquecer la planta consiguiendo más gente de fuera para enriquecer académicamente nuestra oferta, pero la sed interna era mucho mayor de lo que yo suponía.
+El nombramiento fue rápido, supongo que tomó a muchos por sorpresa. De inmediato me di a la tarea de trabajar en cambios curriculares, con el caminito que conocía del IPN, primero invitar a todos a participar y luego planeando las actividades. A la UABCS le aprobaron 4 plazas para profesores de tiempo completo del departamento, de inmediato pensé que tal vez podríamos fortalecer la planta consiguiendo más gente de fuera para enriquecer académicamente nuestra oferta, pero la sed interna era mucho mayor de lo que yo suponía.
 
 Jorge Vale, el rector, nunca permitió que se sacaran a concurso las 4 plazas o al menos 2. Luego entendí que quería esperar a que la gente de su gente en el DASC terminara un posgrado para aumentar sus posibilidades, como ocurrió.
 
@@ -89,7 +89,7 @@ Jorge Vale, el rector, nunca permitió que se sacaran a concurso las 4 plazas o 
 
 
 
-Creo que Jorge Vale no se sintió cómodo designando como jefe de departamento a Mónica o Andrés, sus sobrinos (y ahijados de boda, según se) y entró Javier Carmona. A los pocos meses, cuando comenzó a tomar decisiones más neutrales (en su interpretación, a favor de los que consideraban sus enemigos) lo quitaron y pusieron a Martín Agúndez, que les quedó como anillo al dedo. No dudo, que con la experiencia actual (2026), Martín fuera hoy un buen jefe, pero en ese entonces era un vil títere.
+Creo que Jorge Vale no se sintió cómodo designando como jefe de departamento a Mónica o Andrés, sus sobrinos (y ahijados de boda, según sé) y entró Javier Carmona. A los pocos meses, cuando comenzó a tomar decisiones más neutrales (en su interpretación, a favor de los que consideraban sus enemigos) lo quitaron y pusieron a Martín Agúndez, que les quedó como anillo al dedo. No dudo, que con la experiencia actual (2026), Martín pudiera ser hoy un buen jefe, pero en ese entonces era un vil títere.
 
 En esos años, a modo de desahogo, comencé a escribir un diario, a modo de bitácora, para escribir los malos ratos que pasaba un día sí y a veces otro también. 
 
@@ -103,7 +103,7 @@ Ya cumplía los requisitos y decidí tomar un respiro de la UABCS, aprovechando 
 
 Si hubiera sido por Martín Agúndez, no me voy al sabático. Me dijo que en ese momento mi sabático no era prioridad para el departamento. Creo que le falto darse cuenta de que ningún proyecto de sabático debiera ser prioridad nunca para ningún departamento, simplemente es un derecho ganado y aporta un material nuevo y útil, en mi caso un estudio sobre un área muy específica de programación. Pocos días después, Andrés Sandoval habló con él y aprobó mi sabático.
 
-Fue un cambio de aires en buen momento. Un año feliz en la UNISON, visitando a mis amigos matemáticos, a los del Area de Astronomía y a la familia. A los guitarristas los vi mucho menos.
+Fue un cambio de aires en buen momento. Un año feliz en la UNISON, visitando a mis amigos matemáticos, a los del Área de Astronomía y a la familia. A los guitarristas los vi mucho menos.
 
 Pude comenzar a escribir una monografía sobre los detalles finos de programar cuando la aritmética de punto flotante importa. Ese trabajo lo llamé Programación Numérica. Lo entregué como monografía al regresar, pero lo continué hasta darle forma de libro.
 
@@ -129,6 +129,6 @@ Esta es sin duda ninguna, la mayor pifia e injusticia que he vivido en la UABCS.
 
 Para cuando solicité pasarme a dar cursos de matemáticas, yo ya había dado mas de 25 cursos relacionados con IA en 20 años de trabajo en el DASC. Eso era perfectamente acorde a mi formación en el posgrado.
 
-Fue a finales de 2025, cuando luego de un congreso de IA, me enteré de que el próximo año se ofrecería una Ingeniería en Inteligencia Artificial. Si eso era cierto, estaban próximos a meter la propuesta a Consejo General, lo que significaba que ya estaban terminando el proyecto. Su majestad Andrés me hizo a un lado de un proyecto que él sabía
+Fue a finales de 2025, cuando luego de un congreso de IA, me enteré de que el próximo año se ofrecería una Ingeniería en Inteligencia Artificial. Si eso era cierto, estaban próximos a meter la propuesta a Consejo General, lo que significaba que ya estaban terminando el proyecto. Su majestad Andrés me hizo a un lado de un proyecto que él no solo sabía que me interesaba tanto, sino que estaba perfectamente preparado para participar.
 
 {% include volver-seccion.html url="/vidapro/" %}

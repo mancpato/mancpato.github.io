@@ -9,7 +9,7 @@ Me tienen aquí dos cosas: el gusto por aprender y el gusto por compartir. No cr
 
 **Asignaturas del semestre actual** 
 
-Es importante consultar los sitios oficiales en la plataforma [EnLinea-UABCS](https://enlinea.uabcs.mx/). El temario oficial se pondrá en dicha plataforma, con los cambios necesarios, esta página tiene temarios genéricos que sirven a toda carrera. La **liga directa** lleva a la página de cada curso en la plataforma EnLíneaUABCS.
+Es importante consultar los sitios oficiales en la plataforma [EnLinea-UABCS](https://enlinea.uabcs.mx/). El temario oficial se pondrá en dicha plataforma, con los cambios necesarios; esta página tiene temarios genéricos que sirven a toda carrera. La **liga directa** lleva a la página de cada curso en la plataforma EnLíneaUABCS.
 - [Teoría de la Computación](#TC), en ITC. [Liga directa TM](https://enlinea2026-2.uabcs.mx/course/view.php?id=3852){:target="_blank" rel="noopener noreferrer"}, [Liga directa TV](https://enlinea2026-2.uabcs.mx/course/view.php?id=3851){:target="_blank" rel="noopener noreferrer"}, DASC.
 - [Cálculo Diferencial (Mate I)](#Cálculo-Diferencial), en IC TM, DASC. [Liga directa](https://enlinea2026-2.uabcs.mx/course/view.php?id=3855){:target="_blank" rel="noopener noreferrer"}.
 - [Álgebra Lineal](#álgebra-lineal), en IFER, Pesquerías. [Liga directa](https://enlinea2026-2.uabcs.mx/course/view.php?id=4062){:target="_blank" rel="noopener noreferrer"}.
@@ -27,7 +27,7 @@ Es importante consultar los sitios oficiales en la plataforma [EnLinea-UABCS](ht
 - [Uso de IA en clases de matemáticas](#ia-mate) *mayo de 2026* Algunas ideas sobre el uso de la tecnología en la docencia de las matemáticas y el lastre que nos detiene.
 - [Taller de matemáticas para profesores en la UABCS](#tallemate), *enero de 2023* Espacio de trabajo al que poco a poco le hemos dado forma entre los colegas asistentes y un servidor.
 - [Sobre la enseñanza del Álgebra Lineal](#EnAL), *verano de 2023* Análisis para entender el **enorme desfase** entre los contenidos de las asignaturas de Álgebra Lineal y la práctica científica e industrial.
-- [Mi forma de trabajo](#forma-trabajo) Esto es la escencia de lo que hago y he hecho por años.
+- [Mi forma de trabajo](#forma-trabajo) Esto es la esencia de lo que hago y he hecho por años.
 
 **Del baúl de los recuerdos:**
 - [Cómo comencé a dar clases](#como-comence-a-dar-clases), *julio de 2026* Un afortunado accidente.
@@ -40,15 +40,15 @@ Es importante consultar los sitios oficiales en la plataforma [EnLinea-UABCS](ht
 
 ### Álgebra Lineal
 
-Hoy en día, en el mundo digitalizado en que vivimos, casi toda la inforamción que tenemos nos llega tabulada, es decir, en forma de tablas, arreglos bidimensionales de datos, que en matemáticas se llaman matrices. 
+Hoy en día, en el mundo digitalizado en que vivimos, casi toda la información que tenemos nos llega tabulada, es decir, en forma de tablas, arreglos bidimensionales de datos, que en matemáticas se llaman matrices. 
 
 Me gusta decir que el álgebra lineal se compone de tres grandes ramas: 1- las propiedades de vectores y matrices, 2- la descomposición de matrices y 3- los sistemas de ecuaciones lineales. Casi todo problema de álgebra lineal en ingeniería cabe en cualquiera de esos tres, dejando afuera los tensores, geometría convexa y espacios de dimensión infinita, que no son tema de este curso.
 
-Todo temario serio de álgebra lineal debe tener de los tres componentes, en ese orden.
+Todo temario serio de álgebra lineal debe tener de las tres componentes, en ese orden.
 
 **GeoGebra**
 
-No tengo duda de que el programa [GeoGebra](https://www.geogebra.org/) es de gran utilidad en los primeros semestres, estaremos usándolo constantemente. Se puede usar en PC, via Web o descargando aplicaciones. También hay versiones para teléfono inteligente y será necesario tenerlas disponibles en clase. Tiene fines didácticos, no profesionales.
+No tengo duda de que el programa [GeoGebra](https://www.geogebra.org/) es de gran utilidad en los primeros semestres, estaremos usándolo constantemente. Se puede usar en PC, vía Web o descargando aplicaciones. También hay versiones para teléfono inteligente y será necesario tenerlas disponibles en clase. Tiene fines didácticos, no profesionales.
 
 <div style="clear: both;"></div>
 
@@ -56,14 +56,14 @@ No tengo duda de que el programa [GeoGebra](https://www.geogebra.org/) es de gra
   <img src="/assets/images/docencia/AlgLin-GeoGebra.jpg"
        alt="Recursos GeoGebra"
        style="display: block; margin: 0 auto; max-width: 90%; border-radius: 6px;">
-  <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5em;">Algunos recursos de GeGebra de mis cursos.</figcaption>
+  <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5em;">Algunos recursos de GeoGebra de mis cursos.</figcaption>
 </figure>
 
 **Matlab**
 
 Geogebra es eficiente con lo didáctico, sin duda, pero el trabajo serio no se hace con dibujitos y colores, se hace con matrices y números, manejados con software profesional. Por eso se requiere usar **Matlab/Octave** para hacer cálculos más serios.
 
-Para PC, Octave es la solución, ya que se gratuito, mientras que Matlab requiere licencia y es de alto costo. Para teléfono inteligente, Matlab sí funciona, pero requiere internet. Hay versiones de Octave para el celular pero yo no las he probado suficiente.
+Para PC, Octave es la solución, ya que es gratuito, mientras que Matlab requiere licencia y es de alto costo. Para teléfono inteligente, Matlab sí funciona, pero requiere internet. Hay versiones de Octave para el celular pero yo no las he probado lo suficiente.
 
 **Materiales de lectura:** La lectura de textos académicos fomenta el desarrollo de la capacidad analítica, característica indispensable en todo profesional. Estos son materiales pensados para que estudiantes universitarios practiquen esta habilidad.
 
@@ -88,7 +88,7 @@ Para PC, Octave es la solución, ya que se gratuito, mientras que Matlab requier
 
 ### Métodos Numéricos {#metnum}
 
-Los **métodos numéricos** son algoritmos que permiten resolver problemas matemáticos cuya solución son números o aproximarlos. Es común usarlo como sinónimo de **análisis numérico**, que se refiere a su estudio y caracterización, para determinar el tamaño del error que tiene la solución, al emplear aritmética de precisión finita, normalmente, **Aritmética de Punto Flotante**. Por lo general se tratan de problemas de aplicación en civersas ciencias e ingeniería.
+Los **métodos numéricos** son algoritmos que permiten resolver problemas matemáticos cuya solución son números o aproximarlos. Es común usarlo como sinónimo de **análisis numérico**, que se refiere a su estudio y caracterización, para determinar el tamaño del error que tiene la solución, al emplear aritmética de precisión finita, normalmente, **Aritmética de Punto Flotante**. Por lo general se tratan de problemas de aplicación en diversas ciencias e ingeniería.
 
 Otros problemas de base que se mencionan poco son los de **aritmética computacional**, como los algoritmos de suma de arreglos o la aproximación de funciones trascendentes ($$\sin(x)$$, $$\cos(x)$$, $$e^x$$, ...). Su aplicación principal es para el desarrollo de las librerías matemáticas de cómputo que se usan para programar métodos numéricos.
 
@@ -102,7 +102,7 @@ Ambos casos me interesan y los llamo **Programación Numérica**.
 
 ### Cálculo Diferencial {#Cálculo-Diferencial}
 
-El **cáclulo diferencial** es el fundamento de todo lo que modela los *fenómenos que cambian*. Difícil es pensar, tanto en la naturaleza como en las actividades humanas, algo que NO cambie. La idea aquí es analizar qué tan rápido cambian y cómo podemos aprovechar ese conocimiento.
+El **cálulo diferencial** es el fundamento de todo lo que modela los *fenómenos que cambian*. Difícil es pensar en algo, tanto en la naturaleza como en las actividades humanas, algo que NO cambie. La idea aquí es analizar qué tan rápido cambian y cómo podemos aprovechar ese conocimiento.
 
 El curso recorre: propiedades de los reales, límites y continuidad, la derivada como tasa de cambio, reglas de derivación, derivadas parciales y aplicaciones.
 
@@ -140,7 +140,7 @@ La teoría de la computación consta de dos grandes apartados:
 1- la teoría de lenguajes formales y autómatas y 
 2- la complejidad y computabilidad.
 
-La **Teoría de Lenguajes Formales y Autómatas** es la base de la traducción de programas que entiende el usuario a código que entiende el hardware, además de ofrecer el modelo de cómputo básico, las **Máquinas de Turing**, que se usa para representar algoritmos, en forma de lenguajes.
+La **Teoría de Lenguajes Formales y Autómatas** es la base de la traducción de programas que entiende el usuario a código que entiende el hardware, además de ofrecer el modelo de cómputo básico, las **Máquinas de Turing**, que se usan para representar algoritmos, en forma de lenguajes.
 
 - [Notas de clase (PDF)](/assets/files/docencia/NotasTC.pdf){:target="_blank" rel="noopener noreferrer"}, acumuladas en el transcurso de muchos años.
 - [Fundamentos matemáticos (PDF)](/assets/files/docencia/FundaMateTC.pdf){:target="_blank" rel="noopener noreferrer"}, soporte de las notas de clase.
@@ -159,12 +159,14 @@ El archivo [MTUR](/assets/files/docencia/MTUR.jff){:target="_blank" rel="noopene
 
 ## Redes Neuronales
 
-
+*(en construcción)*
 
 ---
 
 
 ## Complejidad y Computabilidad
+
+*(en construcción)*
 
 ---
 
@@ -240,15 +242,15 @@ La IA no nos obliga a responder esta pregunta. Nos obliga a dejar de ignorarla.
 ## Taller de matemáticas para profesores {#tallemate}
 <small style="color: #999;">Enero de 2023</small>
 
-Como muchos, siempre me quejé del nivel con el que llegaban los alumnos a la segnda mitad de la carrera. Como matemático, eso me hizo pensar muchas cosas, de tal forma que en 2012 comencé a dar vueltas a la idea dar profesionalización a maestros universitarios de matemáticas y comencé a escribir algunas ideas sobre la docencia de las matemáticas. 
+Como muchos, siempre me quejé del nivel con el que llegaban los alumnos a la segunda mitad de la carrera. Como matemático, eso me hizo pensar muchas cosas, de tal forma que en 2012 comencé a dar vueltas a la idea de dar profesionalización a maestros universitarios de matemáticas y comencé a escribir algunas ideas sobre la docencia de las matemáticas. 
 
 Comenzó mi interés por trabajar estos temas con profesores del DASC, pero no convencí a cada jefe en turno (Mónica-Andrés). Diseñé un taller con materiales y al no tener eco en la UABCS lo di primero en preparatorias, como taller más corto. Fue hasta 2023 cuando pude impartir el primer taller de matemáticas para profesores de la UABCS, cosa que le agradezco a Jaime Suárez. Desde entonces, se repite cada semestre y se ha convertido en un espacio de trabajo, para compartir experiencias y metodologías modernas.
 
-Hay varias ideas que han orientado y poco a poco cambiado el rumbo del taller. En especial los siguientes tres puntos: 1- la matemática para desarrollo intelectual, 2- para desarrollo profesional y 3- el apoyo obligatorio de la tecnología. Los primeros dos puntos fueron la orientación desde enero de 2023. Desde 2024 hemos hecho uso constante de tecnología, especialmente **GeoGebra** y **Matlab/Octave**. Desde verano de 2025, el uso de IA se integró al taller y en verano de 2026 ya se está usando la IA como programador para la generación de recursos dinámicos en clase, concentrándonos en páginas web con **p5.j** y notebooks de **Google Colaboratory**. 
+Hay varias ideas que han orientado y poco a poco cambiado el rumbo del taller. En especial los siguientes tres puntos: 1- la matemática para desarrollo intelectual, 2- para desarrollo profesional y 3- el apoyo obligatorio de la tecnología. Los primeros dos puntos fueron la orientación desde enero de 2023. Desde 2024 hemos hecho uso constante de tecnología, especialmente **GeoGebra** y **Matlab/Octave**. Desde verano de 2025, el uso de IA se integró al taller y en verano de 2026 ya se está usando la IA como programador para la generación de recursos dinámicos en clase, concentrándonos en páginas web con **p5.js** y notebooks de **Google Colaboratory**. 
 
 ### Un poco más de detalle:
-- **Análisis y demostraciones para desarrollar habilidades intelectuales.** El pensamiento crítico, la capacidad de análisis y la abstracción son características deseables en un profesional competente, capaz de adaptar sus metodologías y herramientas a un mercado laboral que cambia y se moderniza. Esas características se desarrollan pensando, abstrayendo, cosas que suelen practicarse en cursos de matemáticas que no son sólo maquila de ejercicios, sino análisis de conceptos, en especial el estudio de demostraciones que ayudan a razonar y comprender la escencia de las herramientas abstractas. Los cursos donde la mayor parte del tiempo consiste en resolver ejercicios mecánicos no cumplen este papel.
-- **Capacitación dirigida para profesores de matemáticas** En BCS, la gran mayoría de los profesores de matemáticas no son matemáticos. SOn ingenieros de alguna disciplina, biólogos, economistas, electrónicos, cviles, ... Los que somos licenciados en matemáticas somos muy escasos. Como siempre ejemplifico, no es igual a que yo me ponga a estudiar y de un curso de química o biología a que el curso lo de un químico o un biólogo. El contexto que se maneja es muy distinto. Lo mismo pasa con las matemáticas: el contexto, la relación entre áreas distintas y el buen uso de las demostraciones requiere que el profesor de matemáticas logre ver los temas de la asignatura que imparte desde la perspectiva de las matemáticas.
+- **Análisis y demostraciones para desarrollar habilidades intelectuales.** El pensamiento crítico, la capacidad de análisis y la abstracción son características deseables en un profesional competente, capaz de adaptar sus metodologías y herramientas a un mercado laboral que cambia y se moderniza. Esas características se desarrollan pensando, abstrayendo, cosas que suelen practicarse en cursos de matemáticas que no son sólo maquila de ejercicios, sino análisis de conceptos, en especial el estudio de demostraciones que ayudan a razonar y comprender la esencia de las herramientas abstractas. Los cursos donde la mayor parte del tiempo consiste en resolver ejercicios mecánicos no cumplen este papel.
+- **Capacitación dirigida para profesores de matemáticas** En BCS, la gran mayoría de los profesores de matemáticas no son matemáticos. Son ingenieros de alguna disciplina, biólogos, economistas, electrónicos, civiles, ... Los que somos licenciados en matemáticas somos muy escasos. Como siempre ejemplifico, no es igual a que yo me ponga a estudiar y de un curso de química o biología a que el curso lo de un químico o un biólogo. El contexto que se maneja es muy distinto. Lo mismo pasa con las matemáticas: el contexto, la relación entre áreas distintas y el buen uso de las demostraciones requiere que el profesor de matemáticas logre ver los temas de la asignatura que imparte desde la perspectiva de las matemáticas.
 - **Uso adecuado de tecnología en cursos de matemáticas** Este es un tema muy satanizado. La tecnología llegó para quedarse: desde finales de la década de 1980 ya se contaba con software que facilitaba muchos cálculos y permitía reducir el tiempo de trabajo. Pocos países adoptaron la idea desde entonces. Ya décadas antes había ocurrido lo mismo al popularizarse el uso de calculadoras, hubo una enorme resistencia a su uso en el aula. Eso sí, las calculadoras primero y luego el software se incorporaron de inmediato a la práctica profesional, pero la resistencia de las plantas docentes es muy alta a cambiar de métodos de trabajo. Software más sofisticado y útil aún llegó en las primeras dos décadas de este siglo, pero los cursos de matemáticas siguieron exigiendo mucha labor manual. En 2022, con la llegada de ChatGPT y otros LLM, el problema, que existía desde hace más de 4 décadas se hizo más evidente aún y exige un cambio en la manera de trabajar en el aula.
 
 En síntesis, estos tres puntos y el buen uso de tecnología llevaron el taller de matemáticas a lo que es hoy.
@@ -261,7 +263,7 @@ La problemática y recursos analizados no son exclusivos de/para la UABCS u otra
 
 La edición del taller en agosto de 2026 fue un éxito mayor al esperado. Tanto así que decidí escribir un post en Facebook. Lo reproduzco parcialmente aquí:
 
->Este verano, le di un giro y nos pusimos a generar programas didácticos apoyados por IA. Escribir código era una barrera infranqueable para la mayoría, ya no lo es. Desde el lunes abrí la puerta de este mundo con un ejemplo sencillo y pensaba llevármelos caminando de la mano, como creo que debe ser. Pero para cuando me di cuenta, ya la mayoría se había soltado iban corriendo cada quien para su rumbo. Ni manera de volver a juntarlos. Para el martes ya nadie caminaba a mi lado. Tuve que cambiar la modalidad de exposición a clase personalizada, viendo con cada asistente lo que estaba haciendo y ayudándole lo mejor que podía.
+>Este verano, le di un giro y nos pusimos a generar programas didácticos apoyados por IA. Escribir código era una barrera infranqueable para la mayoría, ya no lo es. Desde el lunes abrí la puerta de este mundo con un ejemplo sencillo y pensaba llevármelos caminando de la mano, como creo que debe ser. Pero para cuando me di cuenta, ya la mayoría se había soltado e iban corriendo cada quien para su rumbo. Ni manera de volver a juntarlos. Para el martes ya nadie caminaba a mi lado. Tuve que cambiar la modalidad de exposición a clase personalizada, viendo con cada asistente lo que estaba haciendo y ayudándole lo mejor que podía.
 
 >Los comentarios de los asistentes nunca habían sido tan elogiosos como en esta ocasión. Salieron con herramientas bien hechas y el caminito para hacer más. El plan en enero próximo es ver la manera de hacer herramientas más sofisticadas. Ya quiero que termine el semestre. Lo que sigue de feliz.
 
