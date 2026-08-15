@@ -24,10 +24,147 @@ Para quienes nos gusta la divulgación científica esta ciencia es punta de lanz
 ## Calidad del cielo en BCS {#cielos-bcs}
 <small style="color: #999;">2024-2025</small>
 
-En este proyecto, las Sociedades Astronómicas Merak y Mira unimos esfuerzos para medir con fotómetros SQM-L la calidad del cielo en diversas regiones del estado. Fuimos patrocinados por fondos gubernamentales que se concursaron en dos convocatorias sucesivas de COSCyT que aprobaron recurso económico con el que se adquirieron 9 fotómetros, 6 el primer año y otros 3 el segundo, además de un fotómetro TESS en la versión de barrido TAS, diseñada para generar mapas detallados de la bóveda celeste.
+Cuando calificamos un sitio desde lo subjetivo de nuestra pasión, lo describimos tan bien como podemos, exagerando con nuestro vocabulario. Así pasa cuando la gente describe el cielo estrellado de antaño o de ciertos sitios alejados de la ciudad. Por la manera como BCS se desarrolló, aislado del resto del país, es natural que aún haya muchos sitios aislados y oscuros, pero la duda mucho tiempo era *¿cuál es la verdadera calidad del cielo de BCS? ¿Cómo se mide?*.
 
-Los integrantes iniciales fueron Lorena Villavicencio, Irma Guadalupe Navarro, Leonardo Macías, Eduardo Sández y yo. Para lograr todas las mediciones en el estado, fuimos apoyados por muchas más personas a las que se les dio capacitación para usar los fotómetros SQM y llenar el formato de registro.
+### Antecedentes
 
+Ya hacía mucho tiempo que yo conocía de [Dark Sky](https://darksky.org/){:target="_blank" rel="noopener noreferrer"} y durante la pandemia leí un poco más al respecto. Incluso hubo al menos dos personas que me contactaron tratando de hacer un capítulo de DarkSky en BCS. Yo sabía de sitios con cielo privilegiado en el mundo. El primero que me habló de eso fue Antonio Sánchez, en mi periodo en la UNISON. 20 años después, encontré en la página de Darksky una lista con sitios certificados. 
+
+Yo estaba seguro de que en BCS de seguro había sitios con esa calidad. Leyendo el protocolo de certificación, me enteré de los fotómetros [SQM-L](https://www.unihedron.com/projects/sqm-l/){:target="_blank" rel="noopener noreferrer"}. 
+
+Para mis clases en pandemia, luego de pasar por varios medios de comunicación, caí en Slack, que creo que es el más profesional de los disponibles al público. En los canales vi que había uno para DarkSky y entré. Allí me refirieron en México a Fernando Ávila, como uno de los representantes en México. De inmediato lo busqué, yo ya lo conocía. Hijo de un profesor de matemáticas de la UNISON y entró al Área de Astronomía con Antonio cuando nosotros egresamos. La asesoría de Fernando ha sido de gran utilidad desde entonces, es un excelente profesional.
+
+### Inicio del proyecto
+
+Esto lo platiqué con Eduardo Sández, que yo suponía que también se acordaba de él. Todo esto coincidió con una convocatoria para proyectos de investigación y divulgación que saco COSCyT. Ya teníamos más de 10 años haciendo divulgación, así que de inmediato platicamos para organizar uno sobre calidad del cielo en BCS. Le comenté a Sara, la directora de COSCyT, quien sugirió que no lo propusiéramos como divulgación, sino como investigación, en el área de cuidado del medio ambiente. Así lo hicimos.
+
+Nos aprobaron el proyecto y así fue como las Sociedades Astronómicas Merak y Mira unimos esfuerzos para medir con fotómetros SQM-L la calidad del cielo en diversas regiones del estado, patrocinados por fondos gubernamentales. Los fotómetros los encontramos en la página de Kosmos, cosa que facilitaba la vida.Los integrantes iniciales fuimos Lorena Villavicencio, Irma Guadalupe Navarro, Leonardo Macías, Eduardo Sández y yo.
+
+<div style="clear: both;"></div>
+
+<figure style="text-align: center; margin: 2em 0 1em;">
+  <img src="/assets/images/astronomia/DarkSkyRangersBCS.png"
+       alt="Integrantes iniciales del proyecto de Cielos Oscuros"
+       style="display: block; margin: 0 auto; max-width: 70%; border-radius: 6px;">
+  <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5em;">LIntegrantes iniciales del proyecto de Cielos Oscuros.</figcaption>
+</figure>
+
+### Los primeros santuarios
+
+Con el recurso económico aprobado, adquirimos 6 fotómetros. Nos quedamos con tres en Mira y se mandaron otros tres a Merak. Ellos fueron los primeros en encontrar **santuarios astronómicos**, lugares donde el fotómetro registra 21.5 o más. Eso fue en las cercanías del **Volcán de las Tres Vírgenes** y fue momento de gran emoción. Era de esperarse, considerando que la mitad norte del estado es la más oscura. Pocos meses después, Aracely Angulo encontraría otro en el Cañon de La Zorra, municipio de Los Cabos.
+
+Por nuestra parte, Irma, Leo y yo hicimos registro de la zona sur, en muchos sitios, pero la contaminación de La Paz es más fuerte de lo que uno cree. Playas como El Saltito o El Tecolote, que la gente considera con un cielo de lo mejor, apenas si pasaban de 21 en el SQM-L.
+
+**La Purísima**
+
+Irma y yo fuimos a La Purísima, lo teníamos como pendiente. No teníamos expectativas anticipadas, fuimos sólo con fotómetros, binoculares astronómicos y nuestra cámara fotográfica, una Nikon D7500. 
+
+### Segundo año del proyecto
+
+El estado es muy grande, ya teníamos localizadas zonas con buen cielo y teníamos sospecha de otras. Nos faltaba demasiado por cubrir, así que en la siguiente convocatoria también participamos. Nos aprobaron la continuación y se adquirieron otros 3 fotómetros, además de un fotómetro TESS en la versión de barrido TAS, diseñada para generar mapas detallados de la bóveda celeste.
+
+Para lograr todas las mediciones en el estado, fuimos apoyados por muchas más personas a las que se les dio capacitación para usar los fotómetros SQM y llenar el formato de registro. La siguiente es una tabla con los mejores lugares localizados en BCS con este proyecto.
+
+<table style="width: auto; margin: 0 auto; margin-bottom: 2rem;">
+  <thead>
+    <tr>
+      <th>Municipio</th>
+      <th>Nombre del sitio</th>
+      <th>Magnitud</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Comondú</td>
+      <td>Llanito de los Becerros</td>
+      <td>21.8</td>
+    </tr>
+    <tr>
+      <td>Mulegé</td>
+      <td>Playa El Coyote Mulegé</td>
+      <td>21.7</td>
+    </tr>
+    <tr>
+      <td>Mulegé</td>
+      <td>Volcán Las Tres Vírgenes</td>
+      <td>21.7</td>
+    </tr>
+    <tr>
+      <td>Mulegé</td>
+      <td>Bahía Concepción</td>
+      <td>21.6</td>
+    </tr>
+    <tr>
+      <td>La Paz</td>
+      <td>San Evaristo</td>
+      <td>21.6</td>
+    </tr>
+    <tr>
+      <td>Mulegé</td>
+      <td>Santa Martha</td>
+      <td>21.5</td>
+    </tr>
+    <tr>
+      <td>Los Cabos</td>
+      <td>Cañón de la Zorra</td>
+      <td>21.5</td>
+    </tr>
+    <tr>
+      <td>Mulegé</td>
+      <td>San Lucas</td>
+      <td>21.5</td>
+    </tr>
+    <tr>
+      <td>La Paz</td>
+      <td>Las Pilas</td>
+      <td>21.5</td>
+    </tr>
+    <tr>
+      <td>Los Cabos</td>
+      <td>Los Frailes</td>
+      <td>21.5</td>
+    </tr>
+    <tr>
+      <td>La Paz</td>
+      <td>San Antonio de la Sierra</td>
+      <td>21.5</td>
+    </tr>
+    <tr>
+      <td>Los Cabos</td>
+      <td>Camino Miraflores - Los Frailes</td>
+      <td>21.5</td>
+    </tr>
+    <tr>
+      <td>Mulegé</td>
+      <td>Bahía Ojo de Liebre</td>
+      <td>21.5</td>
+    </tr>
+    <tr>
+      <td>Mulegé</td>
+      <td>Ejido Bonfil</td>
+      <td>21.5</td>
+    </tr>
+    <tr>
+      <td>La Paz</td>
+      <td>Las Pocitas</td>
+      <td>21.5</td>
+    </tr>
+    <tr>
+      <td>La Paz</td>
+      <td>Las Ánimas</td>
+      <td>21.5</td>
+    </tr>
+  </tbody>
+</table>
+
+De esta tabla hay varias cosas que mencionar:
+- El sitio se refiere al nombre del lugar, no a la localización precisa de donde se tomó la medición, la cual se especifica en coordenadas Lat-Long.
+- Bahía Concepción es un promedio representativo de 4 playas.
+- Las mediciones no son todas a la misma hora, lo ideal sería que así fuera, a las 1:30 de la madrugada, pero no es así.
+- La humedad y cercanía del cenit con la Vía Láctea es variable e importa.
+- La actividad solar también interfiere con la lectura.
+
+La tabla de una muestra representativa de la calidad del cielo que es posible encontrar en BCS. Aún faltan zonas de la Sierra de la Giganta que deben ser medidas y también hacer mediociones mensuales de sitios de interés para ver las fluctuaciones mes a mes.
 
 <div style="clear: both;"></div>
 

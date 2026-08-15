@@ -25,7 +25,7 @@ Es importante consultar los sitios oficiales en la plataforma [EnLinea-UABCS](ht
 
 **Otros tópicos de mi interés** 
 - [Uso de IA en clases de matemáticas](#ia-mate) *mayo de 2026* Algunas ideas sobre el uso de la tecnología en la docencia de las matemáticas y el lastre que nos detiene.
-- [Discalculia](#discalculia) *2024*. Este es un pendiente difícil de olvidar. Debiéramos atenderlo de la misma manera que el rezago académico en materia de matemáticas.
+- [Discalculia](#discalculia) *2024*. **¡Importante!** Este es un pendiente difícil de olvidar. Debiéramos atenderlo de la misma manera que el rezago académico en materia de matemáticas.
 - [Taller de matemáticas para profesores en la UABCS](#tallemate), *enero de 2023* Espacio de trabajo al que poco a poco le hemos dado forma entre los colegas asistentes y un servidor.
 - [Sobre la enseñanza del Álgebra Lineal](#EnAL), *verano de 2023* Análisis para entender el **enorme desfase** entre los contenidos de las asignaturas de Álgebra Lineal y la práctica científica e industrial.
 - [Mi forma de trabajo](#forma-trabajo) Esto es la esencia de lo que hago y he hecho por años.
