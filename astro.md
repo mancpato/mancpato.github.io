@@ -7,17 +7,59 @@ nav_order: 4
 
 Para quienes nos gusta la divulgación científica esta ciencia es punta de lanza. Se vende fácil y con el público cautivo se puede comenzar a hablar de más cosas. Eso sin mencionar lo interesante, bello y cautivador que es el cosmos y la profundidad de algunas preguntas que aún nos hacemos.
 
-- [Cielos oscuros de BCS y recursos en línea](#cielos-bcs), *julio de 2026*. Comparación entre predicciones de lightpollutionmap y mediciones reales con fotómetro TESS en San Pedro, BCS.
+## El proyecto principal
+- [Calidad del cielo en BCS](#cielos-bcs), *2024-2025*. Dos años seguidos haciendo mediciones de la calidad del cielo en BCS con fotómetros SQM-L. 
+
+**Otros proyectos y actividades**
+- [Astronomía en tu comunidad](#astro-comnidad)
+- [Cielos oscuros de BCS y otros recursos en línea](#cielos-bcs-recursos-en-linea), *julio de 2026*. Comparación entre predicciones de lightpollutionmap y mediciones reales con fotómetro TESS en San Pedro, BCS.
 - [Apuntes breves sobre ciencia](#apuntes-breves), *julio de 2026*. Este libro es una compilación de trabajos de divulgación sobre astronomía y matemáticas.
 
 **Del baúl de los recuerdos:**
 - [Cómo comencé con astronomía](#eos-asi), *julio de 2026*. Otra de las historias que me gusta recordar
 - [El eclipse de 1991](#eclipse-1991), *agosto de 2026*. De las mejores experiencias
 
+---
+
+## Calidad del cielo en BCS {#cielos-bcs}
+<small style="color: #999;">2024-2025</small>
+
+En este proyecto, las Sociedades Astronómicas Merak y Mira unimos esfuerzos para medir con fotómetros SQM-L la calidad del cielo en diversas regiones del estado. Fuimos patrocinados por fondos gubernamentales que se concursaron en dos convocatorias sucesivas de COSCyT que aprobaron recurso económico con el que se adquirieron 9 fotómetros, 6 el primer año y otros 3 el segundo, además de un fotómetro TESS en la versión de barrido TAS, diseñada para generar mapas detallados de la bóveda celeste.
+
+Los integrantes iniciales fueron Lorena Villavicencio, Irma Guadalupe Navarro, Leonardo Macías, Eduardo Sández y yo. Para lograr todas las mediciones en el estado, fuimos apoyados por muchas más personas a las que se les dio capacitación para usar los fotómetros SQM y llenar el formato de registro.
+
+
+<div style="clear: both;"></div>
+
+<figure style="text-align: center; margin: 2em 0 1em;">
+  <img src="/assets/images/astronomia/BCS-SQM-2024-2025.png"
+       alt="Mis gustos"
+       style="display: block; margin: 0 auto; max-width: 80%; border-radius: 6px;">
+  <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5em;">Los mapas con registros de cada año.</figcaption>
+</figure>
+
+Esto nos ha permitido localizar algunos de los mejores cielos de BCS para hacer observación sideral. La siguiente tabla muestra algunos ejemplos notables.
+
+
+
+Los registros se pueden descargar en el enlace [2024](/assets/files/astronomia/MedicionesBCS2024.csv){:target="_blank" rel="noopener noreferrer"} y [2025](/assets/files/astronomia/MedicionesBCS2025.csv){:target="_blank" rel="noopener noreferrer"}, con los que se generan los mapas interactivos de la imagen previa. Un mapa interactivo con todas las mediciones se puede cargar [aquí](/assets/files/astronomia/MedicionesBCS2024-2025.html){:target="_blank" rel="noopener noreferrer"} (este mapa no distingue la fecha de la medición y se entiende que en épocas distintas del año o con otras condiciones atmosféricas la lectura no es igual).
+
+Hoy en día, el proyecto ha derivado en el cuidado de los cielos oscuros desde más perspectivas. Se han integrado Nacho Peláez, los hermanos César y Francisco Patiño, Jesús Ordóñez, Maura Luginbuhl, Graciela Tiburcio y más personas que desde sus propias trincheras están colaborando. Se puede decir que en BCS se está ganando un *momentum* formidable.
+
+
+{% include volver-seccion.html url="/astronomia/" %}
 
 ---
 
-## Cielos oscuros de BCS y recursos en línea  {#cielos-bcs}
+## Astronomía en tu comunidad {#astro-comnidad}
+<small style="color: #999;">Julio de 2026</small>
+
+Proyecto de divulgación aprobado por COSCyT en el que Irma Navarro Hernández, Leonardo Macías y yo llevamos actividades de divulgación científica a diversas comunidades del estado, cercanas al La Paz. Centrado en astronomía, la principal actividad es siempre la observación con telescopios, pero también otras actividades lúdicas.
+
+---
+
+
+## Cielos oscuros de BCS y otros recursos en línea  {#cielos-bcs-recursos-en-linea}
 <small style="color: #999;">Julio de 2026</small>
 
 Sociedad Astronómica Mira, La Paz, BCS

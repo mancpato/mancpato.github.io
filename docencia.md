@@ -25,6 +25,7 @@ Es importante consultar los sitios oficiales en la plataforma [EnLinea-UABCS](ht
 
 **Otros tópicos de mi interés** 
 - [Uso de IA en clases de matemáticas](#ia-mate) *mayo de 2026* Algunas ideas sobre el uso de la tecnología en la docencia de las matemáticas y el lastre que nos detiene.
+- [Discalculia](#discalculia) *2024*. Este es un pendiente difícil de olvidar. Debiéramos atenderlo de la misma manera que el rezago académico en materia de matemáticas.
 - [Taller de matemáticas para profesores en la UABCS](#tallemate), *enero de 2023* Espacio de trabajo al que poco a poco le hemos dado forma entre los colegas asistentes y un servidor.
 - [Sobre la enseñanza del Álgebra Lineal](#EnAL), *verano de 2023* Análisis para entender el **enorme desfase** entre los contenidos de las asignaturas de Álgebra Lineal y la práctica científica e industrial.
 - [Mi forma de trabajo](#forma-trabajo) Esto es la esencia de lo que hago y he hecho por años.
@@ -235,6 +236,21 @@ La IA no nos obliga a responder esta pregunta. Nos obliga a dejar de ignorarla.
 
 *Documento de reflexión para discusión académica interna · UABCS*. 
 *Elaborado a partir de una serie de talleres de verano impartidos entre 2023 y 2026.*
+
+{% include volver-seccion.html url="/docencia/" %}
+
+---
+
+## Discalculia {#discalculia}
+<small style="color: #999;">2024</small>     
+
+Durante un taller de matemáticas que imparto para profesores de la UABCS, incluí el tema de **discalculia**, el trastorno equivalente a la dislexia pero con números. Mucho menos conocido y estudiado. Al querer verificar mejor, encontré algo que no esperaba: la investigación sobre discalculia, comparada con la de dislexia, es notablemente escasa, dispersa y sin consenso —ni siquiera en cuántos "tipos" existen, ni en cómo delimitarla frente a la ansiedad matemática o el simple rezago escolar. Las clasificaciones difieren entre sí, y varían incluso entre la literatura en inglés, español y alemán.
+
+Esto coincide con algo que he notado al hablar con colegas: casi todos conocen la dislexia, casi nadie ha oído hablar de la discalculia, y sin embargo es razonable suponer que afecta más estudiantes de los que creemos en nuestras aulas, de forma silenciosa. Un alumno puede pasar toda su vida académica mal etiquetado como malo para las matemáticas, cuando lo que tiene es la falta de un diagnóstico justo y la carencia consecuente de tratamiento adecuado. 
+
+No tengo todavía una definición propia que ofrecer —el campo mismo no la tiene resuelta— pero me interesa entender mejor el problema, con el rigor que exige, antes de proponer nada institucional. Esta nota es un primer registro de ese interés, que iré ampliando conforme avance.
+
+En enero de 2026 propuse un examen para tratar de hacer un diagnóstico temprano, con todo y mi ignorancia y poca experiencia en el tema. Aún así, lo apliqué a mis dos grupos del semestre 2026-II, de la carrera de ITC, uno de segundo semestre y otro de cuarto. Los resultados no concluyen nada, excepto que mi instrumento es deficieente y que obré con demasiada inocencia. 
 
 {% include volver-seccion.html url="/docencia/" %}
 
