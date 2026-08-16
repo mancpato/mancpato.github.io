@@ -76,6 +76,7 @@ Solo copia el carácter y pégalo directo en el `.md`. No necesitan configuraci�
 🐾 mascota (si aplica)
 🏔️ naturaleza / paisaje
 🌵 desierto / BCS
+🦟 zancudo
 
 ## Ribetes / separadores decorativos
 

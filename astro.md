@@ -76,8 +76,9 @@ Poco a poco veíamos cómo se disipaban los cirrus que había, mientras llegaba 
 
 Seguía en mi asombro cuando comenzamos a medir. Con la primera lectura del fotómetro, temí que estuviera fallando porque no llevaba otro: 21.91 la primera lectura, la que había que descartar. El promedio de las restantes dio 21.86. No lo podíamos creer.
 
-Regresamos a la cabaña que rentó Irma, la **Cassita Doña Ene** y con las luces apagadas nos quedamos afuera, viendo hacia el cerro del pilón, disfrutando del cielo estrellado.
-Con toda razón, el fraile franciscano **Francisco Palou**, que acompañaba a Fray **Junípero Serra** a mediados del siglo XVIII, dejó escrito: *Un bello sitio y un cielo feliz*. Ese fraile anduvo en muchos sitios en una época donde no existía la contaminación lumínica, pero de La Purísima dijo eso, no de los otros.
+Regresamos a la cabaña que rentó Irma, la **Cassita Doña Ene** y con las luces apagadas nos quedamos afuera, viendo hacia el cerro del pilón, disfrutando del cielo estrellado. Fue un rato de éxtasis, platicando con Irma, tomando un vinito. Ninguna luz molestaba. Felicidad con la mejor compañia.
+
+Con toda razón, el fraile franciscano **Francisco Palou**, que acompañaba a Fray **Junípero Serra** a mediados del siglo XVIII, dejó escrito: *Un bello sitio y un cielo feliz*. Ese fraile anduvo en muchos sitios en una época donde no existía la contaminación lumínica, pero de La Purísima dijo eso, no de los otros lugares. ¿Microclima especial? Habrá que estudiar más.
 
 ### Segundo año del proyecto
 
@@ -226,6 +227,8 @@ En 2008, diversas instituciones nacionales planearon el evento, CONACyT, UNAM, I
 A todos nos tomó por sorpresa en evento y no estábamos preparados para la cantidad de gente que llegó al espacio frente al Hotel Los Arcos, donde está la estatua de *El Viejo y El Mar*. Fuimos rebasados por la cantidad de gente que llegó. Fue claro para todos que las actividades de astronomía tenían enorme potencial.
 
 El Año Internacional de la Astronomía me trae el mal recuerdo de las muertes de Antonio Sánchez y de mi mamá.
+
+
 
 {% include volver-seccion.html url="/astronomia/" %}
 
