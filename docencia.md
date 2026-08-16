@@ -32,7 +32,7 @@ Es importante consultar los sitios oficiales en la plataforma [EnLinea-UABCS](ht
 
 **Del baúl de los recuerdos:**
 - [Cómo comencé a dar clases](#como-comence-a-dar-clases), *julio de 2026* Un afortunado accidente.
-- [La experiencia en ESCOM](#escom), *julio de 2026* Esta es una etapa llena de recuerdos gratos, historias que me gusta contar. 
+- [Asesorías de Matemáticas](#asesorias) *1992 - 1993*
   
 ---
 
@@ -332,18 +332,22 @@ Curiosidad   →   Revisión   →    Escribir
 ## Cómo comencé a dar clases {#como-comence-a-dar-clases}
 <small style="color: #999;">Verano de 1994</small>
 
-Me inicié como docente de nivel superior en la Escuela Superior de Cómputo del IPN, en el verano de 1994 y en 1999 me cambié a la UABCS. Aquí hay materiales, reflexiones y experiencias enseñando matemáticas, especialmente en la UABCS. Dos grandes apartados: sobre las asignaturas regulares que imparto y el taller para profesores de matemáticas de la UABCS.
+Me inicié como docente de nivel superior en la Escuela Superior de Cómputo del IPN. Hay más de esto en la sección de Vida Profesional, pero puedo platicar algo sobre mi primer grupo. Eran estudiantes de tercer semestre, el grupo B. Un curso de Métodos Numéricos, pero como me enteré de que no habían llevado estructuras de datos, sino C++, di un curso entre estructuras y métodos numeŕicos.
+
+Aún recuerdo que en las últimas clases, Rolando y Andrés ya se sentaban hasta enfrente y apuntaban cada pedazo de código que ponía en el pizarrón. En ese momento lo mío era más entusiasmo por compartir conocimiento que otra cosa, aún no llevaba ningún curso de técnicas didácticas como apoyo.
+
+No terminamos el semestre ahí, en la ESIA, casi al final fueron entregadas las instalaciónes de la ESCOM. Muy modernas.
 
 {% include volver-seccion.html url="/docencia/" %}
 
 ---
 
-## La experiencia en ESCOM {#escom}
-<small style="color: #999;">Verano de 1994</small>
+## Asesorías de Matemáticas {#asesorias}
+<small style="color: #999;">1992 - <small>
 
-En 1993 terminé la carrera de matemáticas en la UNISON y de inmediato me fui al posgrado al CINVESTAV. Luego de un año de créditos, el verano siguiente comencé a dar clases de métodos numéricos a uno de los dos grupos de la primera generación de estudiantes de la nueva Escuela Superior de Cómputo del IPN.
+Durante un año le estuve dando asesorías de matemáticas y programación a un estudiante de preparatoria. Fue experiencia agradable, podía experimentar con él enseñarle técnicas que tal vez no usaría pero le despertaban la curiosidad. Hasta juegos de destreza mental jugábamos en su máquina.
 
-En la sección de Vida Profesional están los detalles de ese periodo en [ESCOM](/vidapro/#escom).
+Circunstancialmente, comencé a darle clases de guitarra a su hermano mayor. Para mi era fácil, divertido y significaba una lanita extra que me caía muy bien.
+
 
 {% include volver-seccion.html url="/docencia/" %}
-
