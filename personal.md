@@ -29,6 +29,15 @@ Hijo de Miguel Angel Norzagaray y Esther Basilisa Cosío Lara. Fuimos tres herma
 
 ### Mis padres
 
+<div style="clear: both;"></div>
+
+<figure style="text-align: center; margin: 2em 0 1em;">
+  <img src="/assets/images/personal/Padres.jpg"
+       alt="Mis padres"
+       style="display: block; margin: 0 auto; max-width: 70%; border-radius: 6px;">
+  <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5em;">Mis adorados padres. Foto de hace muchos años.</figcaption>
+</figure>
+
 **Esther Basilisa Cosío Lara**
 
 Nació el 9 de enero de 1934. Lo que más admiré de ella toda la vida fueron tres cosas: su calidad como cocinera, que sabía hacer familia y su sentido del humor. La cantidad de anécdotas que se cuentan de ella en mi familia es casi inagotable. Se reía sin problema hasta de ella misma.
@@ -58,13 +67,13 @@ Soy de las generaciones que vivieron reencuentros gracias a las redes sociales. 
 ### Mi tribu {#mi-tribu}
 <small style="color: #999;">Verano de 2000</small>
 
-Tenía pocos días como jefe de departamento cuando llegó un profesor de Ciencias Marinas, Carlos Villavicencio, para invitarme a un convivio de cierre de un evento que acababa de terminar y el departamento (no yo) había participado de diversas maneras. Fue como hacer caravana con sombrero ajeno, así que dudé asistir. Por fortuna, fui un rato a cumplir. Llegué, saludé gente y me senté donde estaba Carlos y otros profesores, una mesa de adultos, la mayoría eran estudiante. Ahí me tocó ver a una chica muy linda, de esas caras preciosas que hacen voltear, con una linda sonrisa.
+Tenía pocos días como jefe de departamento cuando llegó un profesor de Ciencias Marinas, Carlos Villavicencio, para invitarme a un convivio de cierre de un evento que acababa de terminar y el departamento (no yo) había participado de diversas maneras. Fue como hacer caravana con sombrero ajeno, así que dudé asistir. Por fortuna, fui un rato a cumplir. Llegué al Hotel La Concha, saludé gente y me senté donde estaba Carlos y otros profesores, una mesa de adultos, la mayoría eran estudiante. Ahí me tocó ver a una chica muy linda, de esas caras preciosas que hacen voltear, con una linda sonrisa.
 
-Mi mayor sorpresa fue que fue y se sentó a mi lado, porque iba junto con una pareja de profesores del CICIMAR. Se llamaba Irma, en ese entonces estudiante de la UABCS, de Agronegocios. Ya no salió de mi vida. Nos conocimos un 3 de septiembre y nos casamos 366 días después.
+Mi mayor sorpresa fue que fue y se sentó a mi lado, porque iba junto con una pareja de profesores del CICIMAR. Se llamaba Irma, en ese entonces estudiante de la UABCS, de Agronegocios.  De La Concha nos fuimos y nos metimos a La Pitahaya, un bar. Ya no salió de mi vida. Nos conocimos un 3 de septiembre y nos casamos 366 días después.
 
 Ella terminó de estudiar poco despues. Fueron años de varias salidas a congresos y de formular planes planes. En 2006 nos fuimos a Hermosillo, un delicioso año. Al regresar a La Paz, compramos casa, era 2007, mi mamá tuvo su accidente vascular en primavera de ese año.
 
-Luego de 10 años juntos, tuvimos a Miguel. Dos años después a Antonio. Cuando los veo siempre recuerdo que en alguna ocasión, mi papá me dijo: *cuando tengas un hijo vas a entender la emoción que siento cuando te veo*. Lo entiendo ahora.
+Luego de 10 años juntos, tuvimos a Miguel. Dos años después a Antonio. Cuando los veo siempre recuerdo que en alguna ocasión, mi papá me dijo: *cuando tengas un hijo vas a entender la emoción que siento cuando te veo*. Lo entiendo ahora. Veo a Irma y no me imagino la vida sin ella, pese a todos los proyectos por los que ronda mi mente, ella conserva un lugar especial.
 
 {% include volver-seccion.html url="/personal/" %}
 
