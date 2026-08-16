@@ -11,8 +11,9 @@ Para quienes nos gusta la divulgación científica esta ciencia es punta de lanz
 - [Calidad del cielo en BCS](#cielos-bcs), *2024-2025*. Dos años seguidos haciendo mediciones de la calidad del cielo en BCS con fotómetros SQM-L. 
 
 **Otros proyectos y actividades**
-- [Astronomía en tu comunidad](#astro-comnidad)
+- [Astronomía en tu comunidad](#astro-comnidad). El primer proyecto que tuvimos Irma y yo, actividades bonitas y significativas.
 - [Cielos oscuros de BCS y otros recursos en línea](#cielos-bcs-recursos-en-linea), *julio de 2026*. Comparación entre predicciones de lightpollutionmap y mediciones reales con fotómetro TESS en San Pedro, BCS.
+- [Noche de las Estrellas](#NdE) *2009 -* Un gran proyecto de divulgación a nivel nacional.
 - [Apuntes breves sobre ciencia](#apuntes-breves), *julio de 2026*. Este libro es una compilación de trabajos de divulgación sobre astronomía y matemáticas.
 
 **Del baúl de los recuerdos:**
@@ -32,13 +33,13 @@ Ya hacía mucho tiempo que yo conocía de [Dark Sky](https://darksky.org/){:targ
 
 Yo estaba seguro de que en BCS de seguro había sitios con esa calidad. Leyendo el protocolo de certificación, me enteré de los fotómetros [SQM-L](https://www.unihedron.com/projects/sqm-l/){:target="_blank" rel="noopener noreferrer"}. 
 
-Para mis clases en pandemia, luego de pasar por varios medios de comunicación, caí en Slack, que creo que es el más profesional de los disponibles al público. En los canales vi que había uno para DarkSky y entré. Allí me refirieron en México a Fernando Ávila, como uno de los representantes en México. De inmediato lo busqué, yo ya lo conocía. Hijo de un profesor de matemáticas de la UNISON y entró al Área de Astronomía con Antonio cuando nosotros egresamos. La asesoría de Fernando ha sido de gran utilidad desde entonces, es un excelente profesional.
+Para mis clases en pandemia, luego de pasar por varios medios de comunicación, caí en Slack, que creo que es el más profesional de los disponibles al público. En los canales vi que había uno para DarkSky y entré. Allí me refirieron en México a **Fernando Ávila**, como uno de los representantes en México. De inmediato lo busqué, yo ya lo conocía. Hijo de un profesor de matemáticas de la UNISON y entró al Área de Astronomía con Antonio cuando nosotros egresamos. La asesoría de Fernando ha sido de gran utilidad desde entonces, es un excelente profesional.
 
 ### Inicio del proyecto
 
 Esto lo platiqué con Eduardo Sández, que yo suponía que también se acordaba de él. Todo esto coincidió con una convocatoria para proyectos de investigación y divulgación que saco COSCyT. Ya teníamos más de 10 años haciendo divulgación, así que de inmediato platicamos para organizar uno sobre calidad del cielo en BCS. Le comenté a Sara, la directora de COSCyT, quien sugirió que no lo propusiéramos como divulgación, sino como investigación, en el área de cuidado del medio ambiente. Así lo hicimos.
 
-Nos aprobaron el proyecto y así fue como las Sociedades Astronómicas Merak y Mira unimos esfuerzos para medir con fotómetros SQM-L la calidad del cielo en diversas regiones del estado, patrocinados por fondos gubernamentales. Los fotómetros los encontramos en la página de Kosmos, cosa que facilitaba la vida.Los integrantes iniciales fuimos Lorena Villavicencio, Irma Guadalupe Navarro, Leonardo Macías, Eduardo Sández y yo.
+Nos aprobaron el proyecto y así fue como las Sociedades Astronómicas **Merak** y **Mira** unimos esfuerzos para medir con fotómetros SQM-L la calidad del cielo en diversas regiones del estado, patrocinados por fondos gubernamentales. Los fotómetros los encontramos en la página de Kosmos, cosa que facilitaba la vida. Los integrantes iniciales fuimos Lorena Villavicencio, Irma Guadalupe Navarro, Leonardo Macías, Eduardo Sández y yo.
 
 <div style="clear: both;"></div>
 
@@ -46,18 +47,37 @@ Nos aprobaron el proyecto y así fue como las Sociedades Astronómicas Merak y M
   <img src="/assets/images/astronomia/DarkSkyRangersBCS.png"
        alt="Integrantes iniciales del proyecto de Cielos Oscuros"
        style="display: block; margin: 0 auto; max-width: 70%; border-radius: 6px;">
-  <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5em;">LIntegrantes iniciales del proyecto de Cielos Oscuros.</figcaption>
+  <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5em;">Integrantes iniciales del proyecto de Cielos Oscuros.</figcaption>
 </figure>
+
+### Protocolo de medición
+
+Para confiar en las mediciones reportadas por los fotómetros, se calibraron al llegar y se han vuelto a calibrar cada seis meses. No se puede manipular un SQM-L para dar una lectura, son equipos confiables, pero sí es importante asegurarse que todos reportan la misma magnitud (mag/arcsec²). Desde que los compramos, desviación estándar de las medias siempre se ha mantenido debajo de la centésima de magnitud.
+
+Se siguieron los lineamientos recomendados por **DarkSky International**: se toman 6 lecturas, se descarta la primera y se promedian las 5 restantes. Si el fotómetro se toma con la mano apuntando al cenit, debe girarse 90° cada lectura para reducir el ruido de la inclinación de la muñeca. Es preferible colocarlo en un tripié y verificar que apunta al cenit con un inclinómetro.
+
+Además de la magnitud, deben registrarse otras variables, como humedad, altitud, seeing, bortle, temperatura, hora, fecha, latitud, longitud, ángulo del cenit al ecuador galáctico y otras de tipo administrativo, como el equipo empleado (cada fotómetro tiene un número asignado) y los observadores que hicieron la medición.
+
+La primera calibración la hicimos Leo y yo en diciembre de 2023, en la entrada de la presa La Buena Mujer. 
 
 ### Los primeros santuarios
 
-Con el recurso económico aprobado, adquirimos 6 fotómetros. Nos quedamos con tres en Mira y se mandaron otros tres a Merak. Ellos fueron los primeros en encontrar **santuarios astronómicos**, lugares donde el fotómetro registra 21.5 o más. Eso fue en las cercanías del **Volcán de las Tres Vírgenes** y fue momento de gran emoción. Era de esperarse, considerando que la mitad norte del estado es la más oscura. Pocos meses después, Aracely Angulo encontraría otro en el Cañon de La Zorra, municipio de Los Cabos.
+Con el recurso económico aprobado, adquirimos 6 fotómetros. Nos quedamos con tres en Mira y se mandaron otros tres a Merak. Ellos fueron los primeros en encontrar **santuarios astronómicos**, lugares donde el fotómetro registra 21.5 o más. Eso fue en las cercanías del **Volcán de las Tres Vírgenes** y fue momento de gran emoción. Era de esperarse, considerando que la mitad norte del estado es la más oscura. Pocos meses después, Aracely Angulo encontraría otro en el Cañón de La Zorra, municipio de Los Cabos.
 
 Por nuestra parte, Irma, Leo y yo hicimos registro de la zona sur, en muchos sitios, pero la contaminación de La Paz es más fuerte de lo que uno cree. Playas como El Saltito o El Tecolote, que la gente considera con un cielo de lo mejor, apenas si pasaban de 21 en el SQM-L.
 
 **La Purísima**
 
 Irma y yo fuimos a La Purísima, lo teníamos como pendiente. No teníamos expectativas anticipadas, fuimos sólo con fotómetros, binoculares astronómicos y nuestra cámara fotográfica, una Nikon D7500. 
+
+La idea era llegar a un sitio que el mapa nombraba Llanito de los Becerros, en  el camino que comunica San Isidro con el golfo. La última cuesta antes de llegar estaba horrible, el carro compacto que llevábamos no daba onfianza y nos regresamos un poco hasta localizar un sitio en la brecha que se sentía seguro.
+
+Poco a poco veíamos cómo se disipaban los cirrus que había, mientras llegaba la noche. Pero hacia el sureste, unas nubes se precibían detras del monte. Tuve el temor de que se fuera a nublar, pero había tiempo. Irma y yo disfrutábamos el paisaje y sacábamos fotos. Cuando llegó la noche, con el Sol 20 grados debajo del horizonte, la "nube" había subido lo suficiente para darme cuenta de que realmente ¡se trataba de la **Vía Láctea** más profusa que he visto! Estoy acostumbrado a ver el cielo, pero ese me engañó. 
+
+Seguía en mi asombro cuando comenzamos a medir. Con la primera lectura del fotómetro, temí que estuviera fallando porque no llevaba otro: 21.91 la primera lectura, la que había que descartar. El promedio de las restantes dio 21.86. No lo podíamos creer.
+
+Regresamos a la cabaña que rentó Irma, la **Cassita Doña Ene** y con las luces apagadas nos quedamos afuera, viendo hacia el cerro del pilón, disfrutando del cielo estrellado.
+Con toda razón, el fraile franciscano **Francisco Palou**, que acompañaba a Fray **Junípero Serra** a mediados del siglo XVIII, dejó escrito: *Un bello sitio y un cielo feliz*. Ese fraile anduvo en muchos sitios en una época donde no existía la contaminación lumínica, pero de La Purísima dijo eso, no de los otros.
 
 ### Segundo año del proyecto
 
@@ -159,12 +179,13 @@ Para lograr todas las mediciones en el estado, fuimos apoyados por muchas más p
 
 De esta tabla hay varias cosas que mencionar:
 - El sitio se refiere al nombre del lugar, no a la localización precisa de donde se tomó la medición, la cual se especifica en coordenadas Lat-Long.
+- Cuando hubo mediciones en fechas distintas, se reporta la mayor, no se tiene la calidad promedio en el año.
 - Bahía Concepción es un promedio representativo de 4 playas.
 - Las mediciones no son todas a la misma hora, lo ideal sería que así fuera, a las 1:30 de la madrugada, pero no es así.
 - La humedad y cercanía del cenit con la Vía Láctea es variable e importa.
 - La actividad solar también interfiere con la lectura.
 
-La tabla de una muestra representativa de la calidad del cielo que es posible encontrar en BCS. Aún faltan zonas de la Sierra de la Giganta que deben ser medidas y también hacer mediociones mensuales de sitios de interés para ver las fluctuaciones mes a mes.
+La tabla es una muestra representativa de la calidad del cielo que es posible encontrar en BCS. Aún faltan zonas de la Sierra de la Giganta que deben ser medidas y también hacer mediciones mensuales de sitios de interés para ver las fluctuaciones mes a mes.
 
 <div style="clear: both;"></div>
 
@@ -174,10 +195,6 @@ La tabla de una muestra representativa de la calidad del cielo que es posible en
        style="display: block; margin: 0 auto; max-width: 80%; border-radius: 6px;">
   <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5em;">Los mapas con registros de cada año.</figcaption>
 </figure>
-
-Esto nos ha permitido localizar algunos de los mejores cielos de BCS para hacer observación sideral. La siguiente tabla muestra algunos ejemplos notables.
-
-
 
 Los registros se pueden descargar en el enlace [2024](/assets/files/astronomia/MedicionesBCS2024.csv){:target="_blank" rel="noopener noreferrer"} y [2025](/assets/files/astronomia/MedicionesBCS2025.csv){:target="_blank" rel="noopener noreferrer"}, con los que se generan los mapas interactivos de la imagen previa. Un mapa interactivo con todas las mediciones se puede cargar [aquí](/assets/files/astronomia/MedicionesBCS2024-2025.html){:target="_blank" rel="noopener noreferrer"} (este mapa no distingue la fecha de la medición y se entiende que en épocas distintas del año o con otras condiciones atmosféricas la lectura no es igual).
 
@@ -193,17 +210,43 @@ Hoy en día, el proyecto ha derivado en el cuidado de los cielos oscuros desde m
 
 Proyecto de divulgación aprobado por COSCyT en el que Irma Navarro Hernández, Leonardo Macías y yo llevamos actividades de divulgación científica a diversas comunidades del estado, cercanas al La Paz. Centrado en astronomía, la principal actividad es siempre la observación con telescopios, pero también otras actividades lúdicas.
 
+Por parte de **COSCyT** nos acompañó **Leo Macías**. Fue el primer proyecto con el que nos compramos accesorios para nuestros telescopios.
+
+{% include volver-seccion.html url="/astronomia/" %}
+
 ---
 
+## Noche de las Estrellas {#NdE}
+<small style="color: #999;">2009 -</small>
+
+En 2009 se celebró el 400 aniversario de que **Galileo Galilei** vio el cosmos con su telescopio. Por ello la UNESCO lo declaró *Año Internacional de la Astronomía*. En Francia hacía acntividades astronómicas cada año y en esa ocasión invitaron al mundo entero a que se uniera a la cebración, realizando lo que llamaban **Noche de las Estrellas**.
+
+En 2008, diversas instituciones nacionales planearon el evento, CONACyT, UNAM, IPN, Embajada Francesa y otras más. Ese mismo año, en La Paz se había organizado CÓDICE, la **Comunidad Sudcaliforniana de Divulgadores de la Ciencia** y uno de sus miembros, **Alejandro Zárate** se enteró del evento. Fue él quien comenzó a mover los hilos para coordinarse a última hora con gente del IPN y participar en enero de 2009. 
+
+A todos nos tomó por sorpresa en evento y no estábamos preparados para la cantidad de gente que llegó al espacio frente al Hotel Los Arcos, donde está la estatua de *El Viejo y El Mar*. Fuimos rebasados por la cantidad de gente que llegó. Fue claro para todos que las actividades de astronomía tenían enorme potencial.
+
+El Año Internacional de la Astronomía me trae el mal recuerdo de las muertes de Antonio Sánchez y de mi mamá.
+
+{% include volver-seccion.html url="/astronomia/" %}
 
 ## Cielos oscuros de BCS y otros recursos en línea  {#cielos-bcs-recursos-en-linea}
 <small style="color: #999;">Julio de 2026</small>
 
 Sociedad Astronómica Mira, La Paz, BCS
 
-Si alguna vez buscaste un sitio para observar o fotografiar el cielo nocturno, probablemente consultaste lightpollutionmap.info — una herramienta muy difundida y útil como punto de partida. Pero hay algo importante que debes saber antes de confiar en sus números: sus estimaciones pueden ser sistemáticamente más optimistas que la realidad, y sus propios autores lo advierten.
+Si alguna vez buscaste un sitio para observar o fotografiar el cielo nocturno, probablemente consultaste `https://lightpollutionmap.info` — una herramienta muy difundida y útil como punto de partida. Pero hay algo importante que debes saber antes de confiar en sus números: sus estimaciones pueden ser sistemáticamente más optimistas que la realidad, y sus propios autores lo advierten. Son estimaciones a partir de registros del satélite **VIIRS**.
 
 Las Sociedades Astronómicas [Merak](https://www.facebook.com/search/top?q=sociedad%20astron%C3%B3mica%20merak) (en Santa Rosalía) y [Mira](https://www.facebook.com/SociedadAstronomicaMira) llevamos años midiendo la calidad del cielo en sitios de BCS con fotómetros calibrados, el esfuerzo se ha extendido y hoy contamos con el apoyo de colaboradores en varios lugares del estado. La discrepancia con el mapa en línea es consistente: los fotómetros marcan alrededor de 0.5 mag/arcsec² menos que lo que predice el modelo — es decir, el cielo real es más brillante (más contaminado) de lo que el mapa sugiere.
+
+
+<div style="clear: both;"></div>
+
+<figure style="text-align: center; margin: 2em 0 1em;">
+  <img src="/assets/images/astronomia/LightPollution.png"
+       alt="Mis gustos"
+       style="display: block; margin: 0 auto; max-width: 80%; border-radius: 6px;">
+  <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5em;">Mapa de contaminación lumínica según datos de VIIRS.</figcaption>
+</figure>
 
 ### El caso concreto: San Pedro, BCS
 

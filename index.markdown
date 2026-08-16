@@ -36,7 +36,7 @@ Poco a poco iré contando historias diversas, cosas de las que quiero dejar cons
 
 <!-- Para actualizar, mantener una liga representativa por sección -->
 
-- 🔭 [Cielos oscuros de BCS y recursos en línea](/astronomia/#cielos-bcs) — Astronomía
+- 🔭 [Cielos oscuros de BCS](/astronomia/#cielos-bcs) — Astronomía
 - 🎓 [Uso de IA en clases de matemáticas](/docencia/#ia-mate) — Docencia
 - 📝 [Enseñanza del Álgebra Lineal](/docencia/#EnAL) — Docencia
 - 🤖 [GradienViz](/ia/#gradienviz) — Inteligencia Artificial
