@@ -41,6 +41,8 @@ Es importante consultar los sitios oficiales en la plataforma [EnLinea-UABCS](ht
 
 ### Álgebra Lineal
 
+[Diagnos](https://forms.gle/jVpmjAQLriYBWaE29)
+
 Hoy en día, en el mundo digitalizado en que vivimos, casi toda la información que tenemos nos llega tabulada, es decir, en forma de tablas, arreglos bidimensionales de datos, que en matemáticas se llaman matrices. 
 
 Me gusta decir que el álgebra lineal se compone de tres grandes ramas: 1- las propiedades de vectores y matrices, 2- la descomposición de matrices y 3- los sistemas de ecuaciones lineales. Casi todo problema de álgebra lineal en ingeniería cabe en cualquiera de esos tres, dejando afuera los tensores, geometría convexa y espacios de dimensión infinita, que no son tema de este curso.
@@ -102,6 +104,8 @@ Ambos casos me interesan y los llamo **Programación Numérica**.
 ---
 
 ### Cálculo Diferencial {#Cálculo-Diferencial}
+
+[Diagnos](https://forms.gle/ruPzsyC2f2BT2Vc69)
 
 El **cálulo diferencial** es el fundamento de todo lo que modela los *fenómenos que cambian*. Difícil es pensar en algo, tanto en la naturaleza como en las actividades humanas, algo que NO cambie. La idea aquí es analizar qué tan rápido cambian y cómo podemos aprovechar ese conocimiento.
 
