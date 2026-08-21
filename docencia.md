@@ -9,7 +9,7 @@ Me tienen aquí dos cosas: el gusto por aprender y el gusto por compartir. No cr
 
 **Asignaturas del semestre actual** 
 
-Es importante consultar los sitios oficiales en la plataforma [EnLinea-UABCS](https://enlinea.uabcs.mx/). El temario oficial se pondrá en dicha plataforma, con los cambios necesarios; esta página tiene temarios genéricos que sirven a toda carrera. La **liga directa** lleva a la página de cada curso en la plataforma EnLíneaUABCS.
+Es importante consultar los sitios oficiales en la plataforma [EnLínea-UABCS](https://enlinea.uabcs.mx/). El temario oficial se pondrá en dicha plataforma, con los cambios necesarios; esta página tiene temarios genéricos que sirven a toda carrera. La **liga directa** lleva a la página de cada curso en la plataforma EnLíneaUABCS.
 - [Teoría de la Computación](#TC), en ITC. [Liga directa TM](https://enlinea2026-2.uabcs.mx/course/view.php?id=3852){:target="_blank" rel="noopener noreferrer"}, [Liga directa TV](https://enlinea2026-2.uabcs.mx/course/view.php?id=3851){:target="_blank" rel="noopener noreferrer"}, DASC.
 - [Cálculo Diferencial (Mate I)](#Cálculo-Diferencial), en IC TM, DASC. [Liga directa](https://enlinea2026-2.uabcs.mx/course/view.php?id=3855){:target="_blank" rel="noopener noreferrer"}.
 - [Álgebra Lineal](#álgebra-lineal), en IFER, Pesquerías. [Liga directa](https://enlinea2026-2.uabcs.mx/course/view.php?id=4062){:target="_blank" rel="noopener noreferrer"}.
@@ -131,7 +131,6 @@ No tengo duda de que el programa [GeoGebra](https://www.geogebra.org/) es de gra
 Geogebra es eficiente con lo didáctico, sin duda, pero el trabajo serio no se hace con dibujitos y colores, se hace con matrices y números, manejados con software profesional. Por eso se requiere usar **Matlab/Octave** para hacer cálculos más serios.
 
 Para PC, Octave es la solución, ya que se gratuito, mientras que Matlab requiere licencia y es de alto costo. Para teléfono inteligente, Matlab sí funciona, pero requiere internet. Hay versiones de Octave para el celular pero yo no las he probado suficiente.
-
 
 {% include volver-seccion.html url="/docencia/" %}
 
