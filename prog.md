@@ -158,7 +158,7 @@ La iniciativa, idea, interfaces internas, decisiones de diseño, dirección y de
 
 En los últimos semestres de la licenciatura en matemáticas conocí la **integral de Lebesgue** y nunca más la volví a usar. Creo recordar que ni le entendí del todo y cada que Lebesgue aparecía en algún documento, sentía una deuda moral como matemático. Siempre pensaba volver a revisar el tema, pero cada vez había algo más importante.
 
-Desde hace año he estado metido en el tema de las redes neuronales y en 2022, regresando de pandemia, me enteré de la **Teoría del Aprendizaje Singular** (Watanabe), me sorprendió ver a Lebesgue metido como técnica imprescindible de integración y en ese momento se despertó mi curiosidad. 
+Desde hace años he estado metido en el tema de las redes neuronales y en 2022, regresando de pandemia, me enteré de la **Teoría del Aprendizaje Singular** (Watanabe), me sorprendió ver a Lebesgue metido como técnica imprescindible de integración y en ese momento se despertó mi curiosidad. 
 
 Busqué recursos en Geogebra sobre Lebesgue pero no encontré nada, Geogebra está muy orientado a la integral de Riemann, hasta funciones especiales tiene para eso. No quedó más remedio que hacer una propia. En 2023 me decidí por hacer una en **Processing** (un dialecto de javascript), una herramienta que me encanta y que he usado mucho para simular algoritmos para IA. Diseñé una interfaz para comparar una con otra y seleccioné las funciones que permitieran ver mejor las diferencias. Por diversos motivos no lo terminé, es una vergüenza, pero me faltó la parte de la integral de Riemann, lo más fácil.
 

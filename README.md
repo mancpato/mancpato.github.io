@@ -30,6 +30,9 @@ Si no se ha instalado Ruby antes:
 
 O más pro sin instalar en el sistema:
         docker run --rm -v "$PWD:/srv/jekyll" -p 4000:4000 jekyll/jekyll jekyll serve
+
+Para estadísticas ir a https://analytics.google.com/ con manc@uabcs.mx
+
  -->
  
  Eaborado con la ayuda de Claude (Anthropic) para diseño y comprobación de errores de contenido.
