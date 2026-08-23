@@ -144,12 +144,16 @@ La teoría de la computación consta de dos grandes apartados:
 1- la teoría de lenguajes formales y autómatas y 
 2- la complejidad y computabilidad.
 
+**Digresión**: Nota complementaria a mi queja en Facebook sobre la necesidad de **TC** en Inteligencia Artificial y Ciberseguridad [en esta liga](/docencia/TC-necePag/).
+
 La **Teoría de Lenguajes Formales y Autómatas** es la base de la traducción de programas que entiende el usuario a código que entiende el hardware, además de ofrecer el modelo de cómputo básico, las **Máquinas de Turing**, que se usan para representar algoritmos, en forma de lenguajes.
 
 - [Notas de clase (PDF)](/assets/files/docencia/NotasTC.pdf){:target="_blank" rel="noopener noreferrer"}, acumuladas en el transcurso de muchos años.
 - [Fundamentos matemáticos (PDF)](/assets/files/docencia/FundaMateTC.pdf){:target="_blank" rel="noopener noreferrer"}, soporte de las notas de clase.
 
-Para operar con autómatas, nada mejor que usar [JFLAP](https://www.jflap.org/), aplicación en **Java**, gratuita. Recientemente apareció **FSAM**, para Android, descargable desde Play Store, tiene menos características, pero saca del apuro.
+Para operar con autómatas, nada mejor que usar [JFLAP](https://www.jflap.org/), aplicación en **Java**, gratuita. Recientemente apareció **FSAM**, para Android (no para iOS), descargable desde Play Store, tiene menos características, pero saca del apuro.
+
+
 
 **Máquina de Turing Universal Restringida (MTUR)**
 La **MTUR** es un ejemplo de una MT de tres cintas. En la primera cinta recibe el código de otra MT limitada a pocos estados y alfabeto pequeño. La segunda cinta es la entrada para la MT y la tercera cinta lleva el registro del estado en que está la MT y el estado final.
