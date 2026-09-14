@@ -7,8 +7,15 @@ nav_order: 1
 
 Notas y proyectos sobre IA (y temas afines). La pandemia fue un detonador importante, me dio tiempo de aprender nuevas tecnologías de redes neuronales y terminar muchos proyectos comenzados hacía años. El trabajo docente aterrizó bien, en mancuerna con mis colegas Margarita de Anda y Jaime Eudes, de la UABCS, aunque ahora veo un futuro incierto en el DASC.
 
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 1.2em 1.5em; margin: 1.5em 0; background: rgba(127,127,127,0.05);">
+<strong style="font-size: 1.1em;">SuiteRNA</strong>
+
+Mi proyecto principal: un conjunto de visualizadores interactivos de redes neuronales para la enseñanza, donde varias redes entrenan en paralelo variando exactamente un hiperparámetro, para hacer observable en tiempo real su efecto. Desde perceptrones multicapa hasta redes de atención, incluyendo arquitecturas especiales.
+
+[Ir a SuiteRNA →](/ia/suiterna/)
+</div>
+
 **Algunos proyectos:**
-- [SuiteRNA](#suiterna), *abril de 2026*. Gran proyecto de análisis de entrenamiento de redes neuronales. Desde perceptrones multicapa hasta redes de atención, incluyendo redes especiales.
 - [GradienViz](#gradienviz), *febrero de 2026*. Visualizador de optimización por gradiente para regresión lineal. Se originó de una plática de redes neuronales y por eso está aquí.
 - [Consensus](#consensus), *mayo de 2026*. El debate automatizado para asistencia colegiada.
 - [BusqProfundidad](#busqprofundidad), *febrero de 2020*. Búsqueda en profundidad simple, programada en Processing.
@@ -21,141 +28,13 @@ Notas y proyectos sobre IA (y temas afines). La pandemia fue un detonador import
 
 ---
 
-## Repositorios del proyecto SuiteRNA {#suiterna}
-
-<small style="color: #999;">Abril de 2026</small>
-
-**SuiteRNA** es un conjunto de herramientas interactivas de visualización de redes neuronales para la enseñanza, donde cada módulo aísla y hace observable en tiempo real un concepto central del aprendizaje profundo mediante comparación controlada de un enjambre de modelos.
-
-- [TalleRNA](#tallerna), un recurso para comparar varias redes neuronales muy pequeñas (menos de 50 parámetros) aprendiendo simultáneamente.
-- [TalleRNAmulti](#tallernamulti), un recurso para comparar varias redes neuronales (menos de 1500 parámetros) aprendiendo simultáneamente.
-- [TalleCNN](#tallecnn), comparación de redes convolucionales variando kernels,
-  profundidad y pooling. *(en construcción)*
-- [TalleRNN](#tallernn), comparación de redes recurrentes y LSTM. *(en construcción)*
-- [TalleAttn](#talleattn), transformador didáctico para explorar mecanismos de
-  atención. *(en construcción)*
-- [Arquitecturas especiales](#especiales): Kolmogorov-Arnold (KAN), redes de eco (ESN) y redes de
-  impulsos (SNN). *(planeadas)*
-- [TalleSLT](#talleslt), análisis del aprendizaje singular: geometría de la pérdida
-  y grupos de simetría de las redes. *(investigación en curso)*
-
-Toda la Suite debiera estar terminada en 2027. En algún momento será necesario incursionar en el tinyML, pero no sé cuándo.
-
----
-
-### TalleRNA {#tallerna}
-Visualizador interactivo de múltiples de redes neuronales para clasificación binaria entrenando simultáneamente, para uso didáctico. Permite comparar redes neuronales pequeñas (perceptrones multicapa) variando algún hiperparámetro. Más detalles pueden leerse en el README del repositorio.
-
-<img src="{{ site.baseurl }}/assets/images/ia/TalleRNA.png" alt="Pantalla de ejemplo" width="500">
-
-Corre directamente como página web, basta cargar index.html en el navegador de preferencia. Usa p5.js para ejecutar todas las operaciones de redes neuronales. Puede usarse directamente en [mancpato.github.io/TalleRNA](https://mancpato.github.io/TalleRNA/), no requiere instalación. Basta seleccionar el problema, ajustar los hiperparámetros deseados e iniciar el entrenamiento. 
-
-**Hiperparámetros controlados:**
-- Topología: 8 posibles redes
-- Activación: 7 de las funciones comunes
-- Inicialización: Uniforme, Normal, Xavier y He
-- Tasa de aprendizaje: 8 valores, usuario indica min y max
-- Momentum: máximo 0.9, mínimo seleccionable
-Experimentos: 4 combinaciones de dos hiperparámetros fijas de interés, mas otras libres
-
-El repositorio se encuentra en [github.com/mancpato/TalleRNA](https://github.com/mancpato/TalleRNA). Se espera que sea útil para cualquier interesado en estudiar redes neuronales.
-
-Para visualizar una sola red aprendiendo, se recomienda el excelente recurso [Playground de TensorFlow](https://playground.tensorflow.org/), muy instructivo, elocuente y bellamente diseñado.
-
----
-
-### TalleRNAmulti {#tallernamulti}
-Extiende TalleRNA hacia redes más grandes (hasta ~1500 parámetros) y problemas
-multiclase (3 o 4 clases). Permite observar cómo los hiperparámetros se comportan cuando la red tiene mayor capacidad y la salida ya no es binaria. Se ha agregado el hiperparámetro dropout, que para redes pequeñas no tenía sentido usar. Comparte la filosofía de experimento controlado: varía exactamente una cosa, mantiene todo lo demás fijo.
-
-<img src="{{ site.baseurl }}/assets/images/ia/TalleRNAmulti.png" alt="Pantalla de ejemplo" width="500">
-
-Corre directamente como página web, basta cargar `index.html` en el navegador de preferencia. Usa p5.js para ejecutar todas las operaciones de redes neuronales. Puede usarse directamente en [mancpato.github.io/TalleRNA](https://mancpato.github.io/TalleRNAmulti/), no requiere instalación. Basta seleccionar el problema, ajustar los hiperparámetros deseados e iniciar el entrenamiento. 
-
-**Hiperparámetros controlados:**
-- Topología: hasta 8 arquitecturas, T0 (2→K) a T7 (2→32→32→K)
-- Tasa de aprendizaje: hasta 8 modelos, usuario indica mín y máx
-- Inicialización: Uniforme, Normal, Xavier y He, hasta 3 semillas por distribución
-- Activación: 7 de las funciones comunes
-- Dropout: 6 modelos, p de 0.0 a 0.5
-
-El repositorio se encuentra en
-[github.com/mancpato/TalleRNAmulti](https://github.com/mancpato/TalleRNAmulti). Se espera que sea útil para cualquier interesado en estudiar redes neuronales.
-
----
-
-### TalleCNN {#tallecnn}
-*(en construcción)*
-
-Visualizador de redes neuronales convolucionales entrenando sobre datos de imagen.
-Permite comparar enjambres de CNNs variando el tamaño del kernel, la profundidad,
-el tipo de pooling y la presencia de batch normalization o data augmentation.
-Incluye visualización de mapas de características (feature maps) y mapas de
-relevancia Grad-CAM para hacer observable qué zonas de la imagen activan cada
-filtro. Corre como aplicación nativa con Dear PyGui y PyTorch.
-
----
-
-### TalleRNN {#tallernn}
-*(en construcción)*
-
-Visualizador de redes recurrentes (RNN y LSTM) entrenando sobre secuencias
-sintéticas. El objetivo es hacer observable el flujo de información a través del
-tiempo: cómo el estado oculto evoluciona, dónde el gradiente se desvanece o
-explota, y qué ventaja aportan las compuertas de la LSTM frente a la RNN simple.
-Corre como aplicación nativa con Dear PyGui y PyTorch.
-
----
-
-### TalleAttn {#talleattn}
-*(en construcción)*
-
-Transformador didáctico de escala reducida (~50K–500K parámetros) entrenado sobre
-datos sintéticos. Permite explorar el mecanismo de atención cabeza por cabeza,
-observar cómo el modelo distribuye el peso entre posiciones de la secuencia y
-comparar arquitecturas con distinto número de cabezas o capas. Corre como
-aplicación nativa con Dear PyGui y PyTorch.
-
----
-
-### Arquitecturas especiales {#especiales}
-*(planeadas)*
-
-Tres herramientas independientes en etapa de diseño:
-
-- **KAN** (Kolmogorov-Arnold Networks): redes cuyas conexiones aprenden funciones
-  en lugar de pesos escalares, visualizando las funciones aprendidas en cada arista.
-- **ESN / Liquid** (Echo State Networks): reservorios recurrentes de dinámica fija
-  donde solo se entrena la capa de salida; útiles para mostrar el poder de los
-  sistemas dinámicos caóticos como sustrato de cómputo.
-- **SNN** (Spiking Neural Networks): redes de impulsos donde la información viaja
-  como trenes de espiga; permiten discutir la frontera entre neurociencia
-  computacional e ingeniería.
-
----
-
-### TalleSLT {#talleslt}
-*(investigación en curso)*
-
-Proyecto de análisis basado en la Teoría del Aprendizaje Singular (Singular
-Learning Theory, SLT). Cada herramienta de la SuiteRNA expone un aspecto
-geométrico distinto de la pérdida: TalleRNA ofrece simetrías de permutación
-exactamente contables; TalleCNN introduce simetrías continuas por capa; TalleAttn
-permite medir la dimensión de aprendizaje local (LLC) por cabeza de atención.
-TalleSLT reúne estas perspectivas en un visualizador de la geometría del espacio
-de parámetros: paisaje de pérdida, curvatura y grupos de simetría de la red.
-
-{% include volver-seccion.html url="/ia/" %}
-
----
-
 ## GradienViz {#gradienviz}
 
 <small style="color: #999;">Febrero de 2026</small>
 
 Herramienta pedagógica para cursos de cálculo diferencial, álgebra lineal, estadística, inteligencia artificial, aprendizaje automático y optimización numérica. Implementada en p5.js como un único archivo HTML autocontenido — no requiere instalación ni servidor.
 
-Nació de una plática con Margarita de Anda Trasviña, antes mi alumna, ahora colega del DASC, sobre cómo simular la manera en que distintas redes neuronales se acercan al óptimo desde puntos iniciales distintos. Fue la semilla del [TalleRNA](#tallerna).
+Nació de una plática con Margarita de Anda Trasviña, antes mi alumna, ahora colega del DASC, sobre cómo simular la manera en que distintas redes neuronales se acercan al óptimo desde puntos iniciales distintos. Fue la semilla del [TalleRNA](/ia/suiterna/tallerna/).
 
 <img src="{{ site.baseurl }}/assets/images/ia/GradienViz.png" alt="Pantalla de ejemplo" width="600">
 
@@ -164,7 +43,7 @@ La **regresión lineal** (o ajuste lineal) es un problema ubicuo en ciencias e i
 Desde el punto de vista matemático, hay tres perspectivas para resolverlo:
 - con cálculo diferencial, el método clásico, optimizando con derivadas parciales,
 - con álgebra lineal, mi preferida, usando la matriz normal para proyectar la solución y
-- con estadística inferencial, maximizando la verosilimitud, asumiendo distribución normal de errores.
+- con estadística inferencial, maximizando la verosimilitud, asumiendo distribución normal de errores.
 
 Puede usarse directamente en [mancpato.github.io/GradienViz](https://mancpato.github.io/GradienViz/), no requiere instalación. Basta agregar puntos en el panel blanco con el mouse, al menos 3 y luego click en entrenar. 
 
@@ -216,7 +95,7 @@ dónde persistió el desacuerdo.
 ## BusqProfundidad {#busqprofundidad}
 <small style="color: #999;">Febrero de 2020</small>
 
-Este programa lo usé de recurso para IA durante años. Fue en la pandemia cuando lo subí como repositorio para compartirlo no sólo con estudiantes, sino con colegas del DASC (Margarita y jaime). Está programado en **Processing**.
+Este programa lo usé de recurso para IA durante años. Fue en la pandemia cuando lo subí como repositorio para compartirlo no sólo con estudiantes, sino con colegas del DASC (Margarita y Jaime). Está programado en **Processing**.
 
 El repositorio con el código fuente se encuentra en [github.com/mancpato/BusqProfundidad](https://github.com/mancpato/BusqProfundidad). Es una versión sencilla, no se si algún día la volveré a revisar.
 
@@ -252,9 +131,9 @@ El repositorio con el código fuente se encuentra en [github.com/mancpato/BusqAm
 
 Mi posgrado fue en IA, particularmente resolviendo un problema de visión por computadora, haciendo uso del enfoque lógico-combinatorio del reconocimiento de patrones. Esa etapa del CINVESTAV fue de gran aprendizaje. Simular visión artificial es complicado porque no sabemos cómo vemos, es completamente automático, así que no podemos decirle a una máquina como lo hacemos, hay que inventar métodos.
 
-Todo comienza con la adquisición y preprocesamiento de la imagen, luego la segmentación y extracción de características y pasar a construiri índices de búsqueda en bases de objetos para tratar de identificarlos. Procesamiento Digital de Imágenes lo llevé con Humberto Sossa y Reconocimiento de Patrones con José Ruiz Schulcloper. Fueron buenas y productivas épocas de trabajo en los seminarios del CINVESTAV.
+Todo comienza con la adquisición y preprocesamiento de la imagen, luego la segmentación y extracción de características y pasar a construir índices de búsqueda en bases de objetos para tratar de identificarlos. Procesamiento Digital de Imágenes lo llevé con Humberto Sossa y Reconocimiento de Patrones con José Ruiz Schulcloper. Fueron buenas y productivas épocas de trabajo en los seminarios del CINVESTAV.
 
-Los demostradores automáticos de teoremos desarrollados en Lógica Matemática, con Guillermo Morales, aportaron otra perspectiva de la IA. Este, junto con el de Inteligencia Artificial  se convirtieron en pilares para muchas otras cosas.
+Los demostradores automáticos de teoremas desarrollados en Lógica Matemática, con Guillermo Morales, aportaron otra perspectiva de la IA. Este, junto con el de Inteligencia Artificial  se convirtieron en pilares para muchas otras cosas.
 
 El curso de teoría de la computación (lenguajes formales y autómatas), con Feliú, y dar esa asignatura en ESCOM, me ayudó a redondear todo este asunto. En la UABCS me ha tocado impartir más de 20 veces cursos que tienen que ver con IA y su estudio lo llevo paralelo al de la programación numérica.
 
