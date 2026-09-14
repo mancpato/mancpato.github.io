@@ -5,14 +5,14 @@ permalink: /ia/
 nav_order: 1
 ---
 
-Notas y proyectos sobre IA (y temas afines). La pandemia fue un detonador importante, me dio tiempo de aprender nuevas tecnologías de redes neuronales y terminar muchos proyectos comenzados hacía años. El trabajo docente aterrizó bien, en mancuerna con mis colegas Margarita de Anda y Jaime Eudes, de la UABCS, aunque ahora veo un futuro incierto en el DASC.
+Notas y proyectos sobre IA (y temas afines). La pandemia fue un detonador importante, me dio tiempo de aprender nuevas tecnologías de redes neuronales y terminar muchos proyectos comenzados hacia años. El trabajo docente aterrizó bien, en mancuerna con mis colegas Margarita de Anda y Jaime Eudes, de la UABCS, aunque ahora veo un futuro incierto en el DASC.
 
 <div style="border: 1px solid #ddd; border-radius: 8px; padding: 1.2em 1.5em; margin: 1.5em 0; background: rgba(127,127,127,0.05);">
 <strong style="font-size: 1.1em;">SuiteRNA</strong>
 
 Mi proyecto principal: un conjunto de visualizadores interactivos de redes neuronales para la enseñanza, donde varias redes entrenan en paralelo variando exactamente un hiperparámetro, para hacer observable en tiempo real su efecto. Desde perceptrones multicapa hasta redes de atención, incluyendo arquitecturas especiales.
 
-[Ir a SuiteRNA →](/ia/suiterna/)
+<a href="/ia/suiterna/">Ir a SuiteRNA →</a>
 </div>
 
 **Algunos proyectos:**
