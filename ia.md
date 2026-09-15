@@ -10,7 +10,7 @@ Notas y proyectos sobre IA (y temas afines). La pandemia fue un detonador import
 <div style="border: 1px solid #ddd; border-radius: 8px; padding: 1.2em 1.5em; margin: 1.5em 0; background: rgba(127,127,127,0.05);">
 <strong style="font-size: 1.1em;">SuiteRNA</strong>
 
-Mi proyecto principal: un conjunto de visualizadores interactivos de redes neuronales para la enseñanza, donde varias redes entrenan en paralelo variando exactamente un hiperparámetro, para hacer observable en tiempo real su efecto. Desde perceptrones multicapa hasta redes de atención, incluyendo arquitecturas especiales.
+SuiteRNA Mi proyecto principal: herramientas interactivas para enseñar redes neuronales, en orden de dificultad. Van del perceptrón de tres parámetros, que se mueve a mano, hasta los mecanismos de atención, con ramas hacia arquitecturas especiales: Kolmogorov-Arnold, de eco y de impulsos. Cada una aísla un concepto y lo vuelve observable — con redes chicas, varias entrenan en paralelo variando un solo hiperparámetro; con las grandes, la comparación cambia de forma.
 
 <a href="/ia/suiterna/">Ir a SuiteRNA →</a>
 </div>
